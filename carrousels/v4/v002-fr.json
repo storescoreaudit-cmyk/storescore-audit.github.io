@@ -1,0 +1,124 @@
+{
+ "lang": "fr",
+ "slides": [
+  {
+   "type": "photo",
+   "theme": "dark",
+   "tag": "📰 Actu",
+   "photo": "photos/lib/shopping.jpg",
+   "pos": "60% 30%",
+   "fh": 70,
+   "mag": "Noël 2026 · USA",
+   "huge": "275 Md$",
+   "hb": 560,
+   "hs": 200,
+   "title": "dépensés *en ligne*\nd'ici le 31 décembre 🛍️",
+   "ty": 330,
+   "fs": 84,
+   "sub": "Les prévisions d'Adobe, décryptées 👇"
+  },
+  {
+   "type": "photo",
+   "theme": "dark",
+   "tag": "01 · Mobile",
+   "photo": "photos/lib/homme-telephone.jpg",
+   "pos": "55% 30%",
+   "huge": "57,4 %",
+   "hb": 520,
+   "hs": 200,
+   "title": "des achats en ligne\nse feront *sur téléphone* 📱",
+   "ty": 300,
+   "fs": 76,
+   "sub": "Plus d'un achat sur deux."
+  },
+  {
+   "type": "photo",
+   "theme": "dark",
+   "tag": "02 · IA",
+   "photo": "photos/lib/laptop-dashboard.jpg",
+   "pos": "center",
+   "huge": "+130 %",
+   "hb": 520,
+   "hs": 200,
+   "title": "de trafic venu des\n*assistants IA* 🤖",
+   "ty": 300,
+   "fs": 76,
+   "sub": "Les clients demandent à l'IA quoi acheter."
+  },
+  {
+   "type": "photo",
+   "theme": "dark",
+   "tag": "03 · Les dates",
+   "photo": "photos/lib/boucles-or.jpg",
+   "pos": "center",
+   "title": "Black Friday 27 nov.\n→ *12,9 Md$* (+9,2 %)\n\nCyber Monday 30 nov.\n→ *15,1 Md$* 🔥",
+   "ty": 260,
+   "fs": 68,
+   "sub": "Le plus gros jour de l'année en ligne."
+  },
+  {
+   "type": "photo",
+   "theme": "dark",
+   "tag": "04 · Paiement",
+   "photo": "photos/lib/mode-cafe.jpg",
+   "pos": "center",
+   "huge": "21,3 Md$",
+   "hb": 520,
+   "hs": 190,
+   "title": "payés en *plusieurs fois*\n(paiement fractionné) 💳",
+   "ty": 300,
+   "fs": 72,
+   "sub": "82 % de ces achats se font sur mobile."
+  },
+  {
+   "type": "quote",
+   "theme": "dark",
+   "tag": "💬 Citation",
+   "card": [
+    "photos/lib/gates.jpg",
+    620,
+    640,
+    380,
+    519,
+    4
+   ],
+   "title": "Les gens surestiment souvent ce qui va se passer dans les deux prochaines années et *sous-estiment ce qui va se passer dans dix ans.*",
+   "author": "Bill Gates, La Route du futur (1996)",
+   "ty": 330,
+   "tr": 64,
+   "fs": 56,
+   "sy": 1180,
+   "noswipe": true
+  },
+  {
+   "type": "photo",
+   "theme": "dark",
+   "tag": "💡 La leçon",
+   "photo": "photos/lib/imac-bureau.jpg",
+   "pos": "center",
+   "fh": 90,
+   "title": "Ta boutique est\n*prête* ?",
+   "ty": 560,
+   "fs": 96,
+   "sub": "✅ Rapide sur mobile\n✅ Fiches produits claires (l'IA les lit)\n✅ Paiement en plusieurs fois"
+  },
+  {
+   "type": "cta",
+   "theme": "green",
+   "tag": "StoreScore",
+   "title": "Avant le Black Friday,\nfais *auditer* ta\nboutique Shopify 🚀",
+   "ty": 250,
+   "fs": 84,
+   "sub": "Audit complet dès 49 €\nLien en bio 🔗\n\nEnregistre ce post 🔖",
+   "sy": 700,
+   "card": [
+    "photos/lib/laptop-dashboard.jpg",
+    600,
+    880,
+    400,
+    300,
+    6
+   ]
+  }
+ ]
+}

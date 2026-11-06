@@ -1,0 +1,121 @@
+{
+ "lang": "en",
+ "slides": [
+  {
+   "type": "min",
+   "style": "min",
+   "theme": "light",
+   "tag": "Business lesson",
+   "huge": "−70%",
+   "hy": 210,
+   "hs": 320,
+   "hc": "#12a35c",
+   "title": "Steve Jobs deleted\n70% of Apple's products.\nIt *saved* the company.",
+   "ty": 620,
+   "fs": 82,
+   "sub": "The simplest lesson in business 👇",
+   "sy": 1050
+  },
+  {
+   "type": "min",
+   "style": "min",
+   "theme": "dark",
+   "tag": "1997",
+   "huge": "$1.04B",
+   "hy": 300,
+   "hs": 230,
+   "hc": "#ff5a4f",
+   "title": "lost in one year.\nApple was *dying*.",
+   "ty": 600,
+   "fs": 96
+  },
+  {
+   "type": "min",
+   "style": "min",
+   "theme": "light",
+   "tag": "The problem",
+   "title": "Too many\nproducts.\n*Zero* focus.",
+   "ty": 330,
+   "fs": 150,
+   "sub": "Dozens of overlapping models.\nA confusing, redundant lineup.",
+   "sy": 1000
+  },
+  {
+   "type": "grid",
+   "style": "min",
+   "theme": "light",
+   "tag": "The fix",
+   "title": "Jobs drew *4 boxes*\non a whiteboard.",
+   "ty": 180,
+   "fs": 78,
+   "cols": [
+    "Consumer",
+    "Pro"
+   ],
+   "rows": [
+    "Desktop",
+    "Portable"
+   ],
+   "cells": [
+    "iMac",
+    "Power Mac G3",
+    "iBook",
+    "PowerBook G3"
+   ],
+   "sub": "4 great products. Everything else: cut.",
+   "sy": 1160
+  },
+  {
+   "type": "min",
+   "style": "min",
+   "theme": "green",
+   "tag": "1998",
+   "huge": "+$309M",
+   "hy": 300,
+   "hs": 210,
+   "hc": "#ffffff",
+   "title": "profit the very\n*next* year.",
+   "ty": 600,
+   "fs": 104
+  },
+  {
+   "type": "quote",
+   "style": "min",
+   "theme": "dark",
+   "tag": "Quote",
+   "cutout": "photos/cutouts/jobs-1.png",
+   "cuth": 1080,
+   "cutpos": "right:-200px",
+   "title": "Focusing is about *saying no.*",
+   "author": "Steve Jobs, WWDC 1997",
+   "ty": 430,
+   "tr": 440,
+   "fs": 96,
+   "sy": 900,
+   "noswipe": true
+  },
+  {
+   "type": "min",
+   "style": "min",
+   "theme": "light",
+   "tag": "Your store",
+   "title": "200 products?\nYour best seller\nis *drowning*.",
+   "ty": 250,
+   "fs": 110,
+   "sub": "✅ Cut what doesn't sell\n✅ Put your top 4 first\n✅ One clear choice per page",
+   "sy": 790,
+   "ss": 46
+  },
+  {
+   "type": "cta",
+   "style": "min",
+   "theme": "dark",
+   "tag": "StoreScore",
+   "title": "Want to know what\nto *cut* in your\nShopify store?",
+   "ty": 250,
+   "fs": 100,
+   "sub": "Full audit from €49\nLink in bio 🔗\n\nSave this post 🔖",
+   "sy": 760
+  }
+ ]
+}

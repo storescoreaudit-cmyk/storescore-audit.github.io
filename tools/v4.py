@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """StoreScore carrousels v4 — 1080x1350, détourage, emojis Apple, grain, style "magazine actu".
 Usage: python3 tools/v4.py spec.json outdir
-Slide types: cover | text | photo | split | cta
+Slide types: cover | text | photo | split | quote | cta | min | grid
+style:"min" (par slide) = minimaliste sans grain ; min: huge/hy/hs/hc ; grid: cells[4], cols[2], rows[2] ; photo: pos, mag, huge
 Champs: title (avec *mot* = surligné), sub, emoji (liste), cutout (photos/cutouts/x.png), photo (photos/lib/x.jpg), bigword, num, tag, theme(dark|light|green)
 Emojis: tout emoji unicode dans un texte est rendu en emoji Apple.
 """
@@ -57,6 +58,16 @@ body{width:1080px;height:1350px;overflow:hidden;font-family:'Inter',sans-serif}
 .card img{width:100%;height:100%;object-fit:cover;display:block}
 .swipe{position:absolute;right:64px;bottom:60px;z-index:9;font:800 30px 'Inter';display:flex;gap:12px;align-items:center}
 .photo{position:absolute;inset:0;background-size:cover;background-position:center}
+/* style minimaliste : fond uni, typo énorme, pas de grain */
+.mn.light{background:#f6f5f1}.mn.dark{background:#0a0a0a}.mn.green{background:#0f7a45}
+.mn .title mark{background:none;color:#12a35c;padding:0}.mn.dark .title mark{color:#2fe38a}.mn.green .title mark{color:#0a0a0a;background:none}
+.mn .pill{background:none;color:inherit;border:3px solid currentColor;padding:9px 22px;font-size:22px}
+.mn .swipe{font:700 26px 'Inter';opacity:.6}
+.huge{position:absolute;left:56px;right:56px;z-index:5;font:900 300px/0.9 'Anton','Inter';letter-spacing:-6px}
+.grid{position:absolute;left:150px;top:470px;width:780px;height:640px;display:grid;grid-template-columns:1fr 1fr;grid-template-rows:1fr 1fr;z-index:5}
+.grid div{border:4px solid currentColor;margin:-2px;display:flex;align-items:center;justify-content:center;font:800 40px/1.15 'Inter';text-align:center}
+.gl{position:absolute;z-index:5;font:900 30px 'Inter';letter-spacing:.12em;text-transform:uppercase;opacity:.55}
+.mag{position:absolute;left:64px;top:150px;z-index:6;font:900 34px 'Inter';letter-spacing:.3em;text-transform:uppercase}
 """
 FONTS = "<link href='https://fonts.googleapis.com/css2?family=Anton&family=Inter:wght@500;700;800;900&display=swap' rel='stylesheet'>"
 
@@ -69,7 +80,8 @@ def stickers(s):
 
 def slide(s, i, n, lang):
     th = s.get("theme", "dark")
-    h = f'<div class="s {th} grain">'
+    mn = s.get("style") == "min"
+    h = f'<div class="s {th} {"mn" if mn else "grain"}">'
     tag = rich(s.get("tag", ""))
     h += f'<div class="top">{f"<span class=pill>{tag}</span>" if tag else "<span></span>"}<span class="handle">@storescore.audit</span></div>'
     t = s.get("type", "text")
@@ -81,8 +93,21 @@ def slide(s, i, n, lang):
         h += '<div class="fade"></div>'
         h += f'<div class="title" style="bottom:{s.get("ty",250)}px;font-size:{s.get("fs",96)}px">{rich(s["title"])}</div>'
         if s.get("sub"): h += f'<div class="sub" style="bottom:120px">{rich(s["sub"])}</div>'
+    elif t == "min":
+        if s.get("huge"): h += f'<div class="huge" style="top:{s.get("hy",230)}px;font-size:{s.get("hs",300)}px;color:{s.get("hc","inherit")}">{rich(s["huge"])}</div>'
+        h += f'<div class="title" style="top:{s.get("ty",640)}px;font-size:{s.get("fs",84)}px">{rich(s["title"])}</div>'
+        if s.get("sub"): h += f'<div class="sub" style="top:{s.get("sy",1000)}px;font-size:{s.get("ss",40)}px;opacity:.7">{rich(s["sub"])}</div>'
+    elif t == "grid":
+        h += f'<div class="title" style="top:{s.get("ty",190)}px;font-size:{s.get("fs",76)}px">{rich(s["title"])}</div>'
+        c = s["cells"]; cl = s.get("cols", ["", ""]); rl = s.get("rows", ["", ""])
+        h += '<div class="grid">' + "".join(f"<div>{rich(x)}</div>" for x in c) + '</div>'
+        h += f'<div class="gl" style="left:250px;top:425px">{cl[0]}</div><div class="gl" style="left:660px;top:425px">{cl[1]}</div>'
+        h += f'<div class="gl" style="left:-60px;top:610px;transform:rotate(-90deg);width:300px;text-align:center">{rl[0]}</div><div class="gl" style="left:-60px;top:930px;transform:rotate(-90deg);width:300px;text-align:center">{rl[1]}</div>'
+        if s.get("sub"): h += f'<div class="sub" style="top:{s.get("sy",1150)}px;font-size:36px;opacity:.7">{rich(s["sub"])}</div>'
     elif t == "photo":
-        h += f'<div class="photo" style="background-image:url({b64(s["photo"])})"></div><div class="fade" style="height:75%"></div>'
+        h += f'<div class="photo" style="background-image:url({b64(s["photo"])});background-position:{s.get("pos","center")}"></div><div class="fade" style="height:{s.get("fh",75)}%"></div>'
+        if s.get("mag"): h += f'<div class="mag" style="color:#fff">{rich(s["mag"])}</div>'
+        if s.get("huge"): h += f'<div class="huge" style="bottom:{s.get("hb",520)}px;font-size:{s.get("hs",230)}px;color:#2fe38a">{rich(s["huge"])}</div>'
         h += f'<div class="title" style="bottom:{s.get("ty",330)}px;font-size:{s.get("fs",80)}px">{rich(s["title"])}</div>'
         if s.get("sub"): h += f'<div class="sub" style="bottom:130px">{rich(s["sub"])}</div>'
     elif t == "split":
@@ -100,7 +125,7 @@ def slide(s, i, n, lang):
     elif t == "quote":
         if s.get("cutout"):
             h += f'<img class="cut" src="{b64(s["cutout"])}" style="height:{s.get("cuth",820)}px;{s.get("cutpos","right:-60px")};z-index:2">'
-        h += '<div style="position:absolute;left:50px;top:120px;z-index:5;font:900 300px/1 Georgia,serif;color:#2fe38a">&ldquo;</div>'
+        h += f'<div style="position:absolute;left:50px;top:120px;z-index:5;font:900 300px/1 Georgia,serif;color:{"#12a35c" if th=="light" else "#2fe38a"}">&ldquo;</div>'
         h += f'<div class="title" style="top:{s.get("ty",380)}px;right:{s.get("tr",380)}px;font:italic 800 {s.get("fs",70)}px/1.12 Georgia,serif;letter-spacing:-1px">{rich(s["title"])}</div>'
         h += f'<div class="sub" style="top:{s.get("sy",1000)}px;font:800 38px Inter;opacity:1">— {rich(s.get("author",""))}</div>'
     elif t == "cta":
@@ -111,7 +136,7 @@ def slide(s, i, n, lang):
     if s.get("card"):
         c=s["card"]; h += f'<div class="card" style="left:{c[1]}px;top:{c[2]}px;width:{c[3]}px;height:{c[4]}px;transform:rotate({c[5]}deg)"><img src="{b64(c[0])}"></div>'
     h += stickers(s)
-    if i < n - 1:
+    if i < n - 1 and not s.get("noswipe"):
         h += f'<div class="swipe">{"Swipe" if lang=="en" else "Glisse"} {emo_img("👉","40px")}</div>'
     return h + "</div>"
 
