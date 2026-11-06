@@ -1,0 +1,211 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>StoreScore</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700;12..96,800&family=Instrument+Sans:wght@400;500;600&family=JetBrains+Mono:wght@400;600&display=swap">
+<style>
+/* Layout: an audit report — left-aligned thesis, a live score sheet beside it, then process, pricing, FAQ */
+:root{
+  --paper:#f3f4f7; --card:#ffffff; --ink:#14171f; --muted:#5b6170; --line:#dcdfe6;
+  --accent:#2f45ff; --accent-ink:#ffffff; --mark:#ffe14d; --good:#1e9e62; --warn:#d98a00; --bad:#d6453d;
+  --display:"Bricolage Grotesque",ui-sans-serif,system-ui,sans-serif;
+  --body:"Instrument Sans",ui-sans-serif,system-ui,sans-serif;
+  --mono:"JetBrains Mono",ui-monospace,Menlo,monospace;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --paper:#0f1117; --card:#171a23; --ink:#eef0f5; --muted:#9aa1b2; --line:#2a2f3c;
+  --accent:#7b8bff; --accent-ink:#0f1117; --mark:#e8c93a; --good:#3cc489; --warn:#f0a929; --bad:#f06a61; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --paper:#0f1117; --card:#171a23; --ink:#eef0f5; --muted:#9aa1b2; --line:#2a2f3c;
+  --accent:#7b8bff; --accent-ink:#0f1117; --mark:#e8c93a; --good:#3cc489; --warn:#f0a929; --bad:#f06a61; color-scheme:dark}
+*{box-sizing:border-box}
+body{background:var(--paper);color:var(--ink);font:16px/1.6 var(--body);
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+.wrap{max-width:1080px;margin:0 auto}
+a{color:inherit}
+h1,h2,h3{font-family:var(--display);line-height:1.08;text-wrap:balance;margin:0}
+.eyebrow{font:600 12px/1 var(--mono);letter-spacing:.12em;text-transform:uppercase;color:var(--muted)}
+nav{display:flex;justify-content:space-between;align-items:center;padding-block:22px}
+.logo{font:800 22px/1 var(--display);letter-spacing:-.02em}
+.logo b{color:var(--accent)}
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:8px;padding:14px 22px;border-radius:10px;
+  background:var(--accent);color:var(--accent-ink);font:600 16px/1 var(--body);text-decoration:none;border:0;cursor:pointer}
+.btn.ghost{background:transparent;color:var(--ink);border:1.5px solid var(--line)}
+.btn:focus-visible{outline:3px solid var(--mark);outline-offset:2px}
+.hero{display:grid;grid-template-columns:1.15fr 1fr;gap:48px;align-items:center;padding-block:32px 72px}
+.hero>*{min-width:0}
+.hero h1{font-size:clamp(40px,6vw,68px);font-weight:800;letter-spacing:-.03em;margin-block:14px 20px}
+.hero h1 mark{background:linear-gradient(transparent 58%,var(--mark) 58%);color:inherit;padding:0 .05em}
+.lede{font-size:19px;color:var(--muted);max-width:34ch;margin:0 0 28px}
+.ctas{display:flex;flex-wrap:wrap;gap:12px}
+.fine{font-size:14px;color:var(--muted);margin-top:14px}
+/* score sheet */
+.sheet{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:24px;box-shadow:0 20px 50px -30px rgba(20,23,31,.35)}
+.sheet-head{display:flex;justify-content:space-between;align-items:flex-start;gap:16px;margin-bottom:18px}
+.store{font:600 15px/1.3 var(--body)} .store small{display:block;color:var(--muted);font:400 13px var(--mono)}
+.score{font:800 64px/0.9 var(--display);letter-spacing:-.04em;font-variant-numeric:tabular-nums}
+.score span{font-size:20px;color:var(--muted);letter-spacing:0}
+.row{display:grid;grid-template-columns:1fr auto;gap:6px 12px;padding-block:10px;border-top:1px solid var(--line);font-size:14px}
+.row b{font:600 13px var(--mono);font-variant-numeric:tabular-nums}
+.bar{grid-column:1/-1;height:6px;background:var(--line);border-radius:3px;overflow:hidden}
+.bar i{display:block;height:100%;border-radius:3px}
+.fix{margin-top:16px;padding:14px;border-radius:10px;background:var(--paper);font-size:14px}
+.fix strong{display:block;font:600 12px var(--mono);letter-spacing:.08em;text-transform:uppercase;color:var(--bad);margin-bottom:4px}
+.tag{font:600 11px var(--mono);letter-spacing:.1em;text-transform:uppercase;color:var(--muted);border:1px solid var(--line);border-radius:99px;padding:4px 8px;white-space:nowrap}
+section{padding-block:64px;border-top:1px solid var(--line)}
+section h2{font-size:clamp(30px,4vw,44px);font-weight:700;letter-spacing:-.02em;margin:10px 0 32px;max-width:20ch}
+.steps{display:grid;grid-template-columns:repeat(3,1fr);gap:28px;list-style:none;padding:0;margin:0;counter-reset:s}
+.steps li{counter-increment:s;min-width:0}
+.steps li::before{content:"Step " counter(s);display:block;font:600 12px var(--mono);letter-spacing:.1em;text-transform:uppercase;color:var(--accent);margin-bottom:10px}
+.steps h3{font-size:22px;margin-bottom:8px}
+.steps p{margin:0;color:var(--muted)}
+.checks{display:grid;grid-template-columns:repeat(5,1fr);gap:16px}
+.check{min-width:0}
+.check b{display:block;font:800 34px/1 var(--display);font-variant-numeric:tabular-nums}
+.check span{font-size:14px;color:var(--muted)}
+.plans{display:grid;grid-template-columns:repeat(3,1fr);gap:20px;align-items:stretch}
+.plan{display:flex;flex-direction:column;gap:14px;padding:26px;border:1px solid var(--line);border-radius:16px;background:var(--card);min-width:0}
+.plan.pick{border:2px solid var(--accent)}
+.plan h3{font-size:22px}
+.price{font:800 44px/1 var(--display);letter-spacing:-.03em}
+.price small{font:500 15px var(--body);color:var(--muted);letter-spacing:0}
+.plan ul{margin:0;padding-left:18px;color:var(--muted);font-size:15px;display:grid;gap:6px;flex:1}
+.plan .btn{width:100%}
+.faq{display:grid;gap:0;max-width:760px}
+details{border-top:1px solid var(--line);padding-block:18px}
+details:last-child{border-bottom:1px solid var(--line)}
+summary{cursor:pointer;font:600 18px var(--body);list-style:none}
+summary::-webkit-details-marker{display:none}
+summary::after{content:"+";float:right;color:var(--muted)}
+details[open] summary::after{content:"–"}
+details p{color:var(--muted);margin:10px 0 0}
+.contact{display:flex;flex-wrap:wrap;gap:12px;align-items:center;margin-top:8px}
+.addr{font:600 16px var(--mono);padding:12px 16px;border:1.5px dashed var(--line);border-radius:10px;user-select:all;overflow-wrap:anywhere}
+footer{padding-block:40px;color:var(--muted);font-size:14px;border-top:1px solid var(--line)}
+@media (max-width:860px){
+  .hero{grid-template-columns:1fr;gap:36px}
+  .steps,.plans{grid-template-columns:1fr}
+  .checks{grid-template-columns:repeat(2,1fr)}
+}
+@media (prefers-reduced-motion:no-preference){
+  .bar i{animation:fill 1.1s cubic-bezier(.2,.7,.2,1) both}
+  @keyframes fill{from{width:0}}
+}
+</style>
+
+</head><body>
+<div class="wrap">
+  <nav>
+    <div class="logo">Store<b>Score</b></div>
+    <a class="btn ghost" href="#pricing">Pricing</a> <a class="btn ghost" href="index.html" hreflang="fr" title="Français">FR</a>
+  </nav>
+
+  <header class="hero">
+    <div>
+      <div class="eyebrow">Shopify store audits · delivered in 24 h</div>
+      <h1>Find out why visitors <mark>leave without buying.</mark></h1>
+      <p class="lede">We check your store against 40 conversion points, score it out of 100, and hand you the fixes in the order that makes you the most money.</p>
+      <div class="ctas">
+        <a class="btn" href="#free">Get my free score</a>
+        <a class="btn ghost" href="#pricing">Full audit · €49</a>
+      </div>
+      <p class="fine">No app to install. No access to your admin. We only look at what your customers see.</p>
+    </div>
+
+    <aside class="sheet" aria-label="Example audit">
+      <div class="sheet-head">
+        <div class="store">Nova Candle Co.<small>novacandle.myshopify.com</small></div>
+        <span class="tag">Example report</span>
+      </div>
+      <div class="score">58<span>/100</span></div>
+      <div class="row">First impression &amp; trust<b>14 / 22</b><div class="bar"><i style="width:64%;background:var(--warn)"></i></div></div>
+      <div class="row">Product pages<b>12 / 25</b><div class="bar"><i style="width:48%;background:var(--bad)"></i></div></div>
+      <div class="row">Checkout path<b>13 / 20</b><div class="bar"><i style="width:65%;background:var(--warn)"></i></div></div>
+      <div class="row">Mobile &amp; speed<b>11 / 18</b><div class="bar"><i style="width:61%;background:var(--warn)"></i></div></div>
+      <div class="row">SEO &amp; retention<b>8 / 15</b><div class="bar"><i style="width:53%;background:var(--bad)"></i></div></div>
+      <div class="fix"><strong>Fix first</strong>Product pages show no shipping time or returns policy above the Add to cart button.</div>
+    </aside>
+  </header>
+
+  <section>
+    <div class="eyebrow">How it works</div>
+    <h2>From store link to a ranked fix list in a day.</h2>
+    <ol class="steps">
+      <li><h3>Send your store link</h3><p>That is all we need. We review the store the way a first-time shopper does, on phone and desktop.</p></li>
+      <li><h3>We score 40 points</h3><p>Trust signals, product pages, cart and checkout, mobile speed, SEO and email capture. Each point is weighted by its impact on sales.</p></li>
+      <li><h3>You get the report</h3><p>A score out of 100 and every fix ranked by effort and payoff, with the exact wording or setting to change.</p></li>
+    </ol>
+  </section>
+
+  <section>
+    <div class="eyebrow">What we check</div>
+    <h2>Five areas, 100 points.</h2>
+    <div class="checks">
+      <div class="check"><b>22</b><span>First impression &amp; trust</span></div>
+      <div class="check"><b>25</b><span>Product pages</span></div>
+      <div class="check"><b>20</b><span>Cart &amp; checkout</span></div>
+      <div class="check"><b>18</b><span>Mobile &amp; speed</span></div>
+      <div class="check"><b>15</b><span>SEO &amp; retention</span></div>
+    </div>
+  </section>
+
+  <section id="pricing">
+    <div class="eyebrow">Pricing</div>
+    <h2>One-time prices. No subscription.</h2>
+    <div class="plans">
+      <div class="plan">
+        <h3>Quick score</h3>
+        <div class="price">Free</div>
+        <ul><li>Your score out of 100</li><li>Your 3 biggest problems</li><li>Sent within 24 h</li></ul>
+        <a class="btn ghost" href="#free">Request it</a>
+      </div>
+      <div class="plan pick">
+        <h3>Full audit</h3>
+        <div class="price">€49 <small>one time</small></div>
+        <ul><li>All 40 points, scored and explained</li><li>Fixes ranked by payoff and effort</li><li>Exact wording to paste in</li><li>Delivered in 24 h</li></ul>
+        <a class="btn" href="mailto:storescoreaudit@gmail.com?subject=Yes%2049%20-%20Full%20audit&amp;body=Hi%20Neil%2C%20I%27d%20like%20the%20full%20audit%20(%E2%82%AC49).%20My%20store%3A%20">Order the full audit</a>
+      </div>
+      <div class="plan">
+        <h3>Audit + rewrite</h3>
+        <div class="price">€119 <small>one time</small></div>
+        <ul><li>Everything in the full audit</li><li>Rewritten product descriptions for up to 25 products</li><li>New homepage headline and trust section</li><li>Delivered in 48 h</li></ul>
+        <a class="btn ghost" href="mailto:storescoreaudit@gmail.com?subject=Yes%20119%20-%20Audit%20%2B%20rewrite&amp;body=Hi%20Neil%2C%20I%27d%20like%20the%20audit%20%2B%20rewrite%20(%E2%82%AC119).%20My%20store%3A%20">Order audit + rewrite</a>
+      </div>
+    </div>
+    <p class="fine">Order by email, get your report within 24 h, and pay only once you have it. If it finds fewer than 5 fixes worth making, you owe nothing.</p>
+  </section>
+
+  <section id="free">
+    <div class="eyebrow">Free quick score</div>
+    <h2>Email us your store link.</h2>
+    <p style="color:var(--muted);max-width:56ch;margin:0 0 18px">Write "score" and your store URL. You get your score and your three biggest problems within 24 hours.</p>
+    <div class="contact">
+      <span class="addr" id="addr">storescoreaudit@gmail.com</span>
+      <button class="btn ghost" id="copy" type="button">Copy address</button>
+    </div>
+  </section>
+
+  <section>
+    <div class="eyebrow">Questions</div>
+    <h2>Before you send your link.</h2>
+    <div class="faq">
+      <details><summary>Do you need access to my Shopify admin?</summary><p>No. We only review your public store, the same pages your customers see.</p></details>
+      <details><summary>Is this made with AI?</summary><p>We use AI to check every page quickly, and every report is reviewed before it is sent.</p></details>
+      <details><summary>My store is new and has no sales. Is it worth it?</summary><p>Yes. New stores usually lose the most on trust signals and product pages, and those are the cheapest things to fix.</p></details>
+      <details><summary>How do I pay?</summary><p>After you receive your report, by card through a secure payment link. You pay once, there is no subscription.</p></details>
+    </div>
+  </section>
+
+  <footer>StoreScore · Independent store audits. Not affiliated with Shopify. · <a href="https://www.instagram.com/storescore.audit/" style="color:inherit">Instagram @storescore.audit</a> · <a href="mailto:storescoreaudit@gmail.com" style="color:inherit">storescoreaudit@gmail.com</a></footer>
+</div>
+
+<script>
+document.getElementById('copy').addEventListener('click', async e => {
+  const t = document.getElementById('addr').textContent.trim();
+  try { await navigator.clipboard.writeText(t); e.target.textContent = 'Copied'; }
+  catch { const r = document.createRange(); r.selectNodeContents(document.getElementById('addr'));
+    const s = getSelection(); s.removeAllRanges(); s.addRange(r); e.target.textContent = 'Selected, press copy'; }
+});
+</script>
+
+</body></html>
