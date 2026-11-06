@@ -1,0 +1,4 @@
+# date | langue | id | sujet | style | personnalité | format | thème | couverture | lien
+2026-11-06 16:49 UTC | FR | v001-fr | Bezos lance Amazon depuis un garage avec un seul produit (livres) | extravagant (stickers emojis, cartes photo) | Bezos | histoire/leçon | dark (cover) + mix light/green | photos/cutouts/bezos-4.png | https://www.instagram.com/p/DfaEpXdlA5U/
+2026-11-06 16:49 UTC | EN | v001-en | Bezos started Amazon in a garage with one product (books) | extravagant (stickers emojis, cartes photo) | Bezos | histoire/leçon | dark (cover) + mix light/green | photos/cutouts/bezos-4.png | https://www.instagram.com/p/DfaEte9lLhN/
+# Prochaine exécution : publier EN en premier, style différent (minimaliste ou photo plein écran), personnalité ≠ Bezos.
