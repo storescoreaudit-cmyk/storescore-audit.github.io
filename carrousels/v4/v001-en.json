@@ -1,0 +1,134 @@
+{
+"lang": "en",
+"slides": [
+{
+"type": "cover",
+"theme": "dark",
+"tag": "🔥 Story",
+"bigword": "GARAGE",
+"bigy": 150,
+"cutout": "photos/cutouts/bezos-1.png",
+"cuth": 1000,
+"cutpos": "right:-60px",
+"title": "He started Amazon\nin a *garage* 🚗",
+"sub": "With just one product. Here's how 👇",
+"ty": 330,
+"fs": 96,
+"emoji": [
+[
+"📦",
+64,
+600,
+120,
+-12
+]
+]
+},
+{
+"type": "text",
+"theme": "light",
+"tag": "1994",
+"num": "01",
+"title": "He quits a\n*high-paying* Wall Street job 💼",
+"sub": "Everyone said it was a mistake. He did it anyway.",
+"emoji": [
+[
+"😳",
+820,
+200,
+140,
+8
+]
+],
+"fs": 100,
+"ty": 380,
+"sy": 720,
+"card": [
+"photos/lib/silhouette-escalier.jpg",
+520,
+900,
+480,
+330,
+-4
+]
+},
+{
+"type": "split",
+"theme": "dark",
+"tag": "The start",
+"num": "02",
+"title": "He sold\n*ONE* product:\nbooks 📚",
+"sub": "Not 1,000 items.\nJust one, done perfectly.",
+"photo": "photos/lib/journal-business.jpg",
+"tr": 600,
+"fs": 76,
+"sy": 860
+},
+{
+"type": "text",
+"theme": "green",
+"tag": "His secret",
+"num": "03",
+"title": "An empty chair\nin every meeting 🪑",
+"sub": "It stands for the customer. The only one who really matters.",
+"emoji": [
+[
+"👀",
+800,
+230,
+130,
+-8
+]
+],
+"fs": 100,
+"ty": 380,
+"sy": 620,
+"card": [
+"photos/lib/salle-reunion.jpg",
+300,
+780,
+640,
+380,
+3
+]
+},
+{
+"type": "photo",
+"theme": "dark",
+"tag": "Patience",
+"photo": "photos/lib/laptop-dashboard.jpg",
+"title": "Years with no profit.\nHe reinvested *everything* 📈",
+"sub": "Long-term always beats fast."
+},
+{
+"type": "text",
+"theme": "light",
+"tag": "💡 The lesson",
+"title": "For your store,\nit's the same:",
+"sub": "✅ Start small\n✅ Obsess over the customer\n✅ Polish every detail",
+"ty": 300,
+"sy": 640,
+"emoji": [
+[
+"🛒",
+760,
+960,
+200,
+-10
+]
+],
+"fs": 100
+},
+{
+"type": "cta",
+"theme": "dark",
+"tag": "StoreScore",
+"cutout": "photos/cutouts/bezos-3.png",
+"cuth": 760,
+"cutpos": "right:-80px",
+"title": "Your Shopify store\ndeserves *better* 🚀",
+"sub": "Full audit from €49\nLink in bio 🔗\n\nSave this post 🔖",
+"tr": 470
+}
+]
+}

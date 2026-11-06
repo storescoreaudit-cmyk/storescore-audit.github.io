@@ -1,0 +1,134 @@
+{
+"lang": "fr",
+"slides": [
+{
+"type": "cover",
+"theme": "dark",
+"tag": "🔥 Histoire",
+"bigword": "GARAGE",
+"bigy": 150,
+"cutout": "photos/cutouts/bezos-1.png",
+"cuth": 1000,
+"cutpos": "right:-60px",
+"title": "Il a lancé Amazon\ndepuis un *garage* 🚗",
+"sub": "Avec un seul produit. Voici la méthode 👇",
+"ty": 330,
+"fs": 96,
+"emoji": [
+[
+"📦",
+64,
+600,
+120,
+-12
+]
+]
+},
+{
+"type": "text",
+"theme": "light",
+"tag": "1994",
+"num": "01",
+"title": "Il quitte un job\n*bien payé* à Wall Street 💼",
+"sub": "Tout le monde lui dit que c'est une erreur. Il le fait quand même.",
+"emoji": [
+[
+"😳",
+820,
+200,
+140,
+8
+]
+],
+"fs": 100,
+"ty": 380,
+"sy": 720,
+"card": [
+"photos/lib/silhouette-escalier.jpg",
+520,
+900,
+480,
+330,
+-4
+]
+},
+{
+"type": "split",
+"theme": "dark",
+"tag": "Le départ",
+"num": "02",
+"title": "Il vend\n*UN seul* produit :\ndes livres 📚",
+"sub": "Pas 1 000 articles.\nUn seul, mais parfait.",
+"photo": "photos/lib/journal-business.jpg",
+"tr": 600,
+"fs": 76,
+"sy": 860
+},
+{
+"type": "text",
+"theme": "green",
+"tag": "Son secret",
+"num": "03",
+"title": "Une chaise vide\nà chaque réunion 🪑",
+"sub": "Elle représente le client. Le seul qui compte vraiment.",
+"emoji": [
+[
+"👀",
+800,
+230,
+130,
+-8
+]
+],
+"fs": 100,
+"ty": 380,
+"sy": 620,
+"card": [
+"photos/lib/salle-reunion.jpg",
+300,
+780,
+640,
+380,
+3
+]
+},
+{
+"type": "photo",
+"theme": "dark",
+"tag": "La patience",
+"photo": "photos/lib/laptop-dashboard.jpg",
+"title": "Des années sans profit.\nIl réinvestit *tout* 📈",
+"sub": "Le long terme bat toujours le rapide."
+},
+{
+"type": "text",
+"theme": "light",
+"tag": "💡 La leçon",
+"title": "Pour ta boutique,\nc'est pareil :",
+"sub": "✅ Commence petit\n✅ Obsède-toi du client\n✅ Soigne chaque détail",
+"ty": 300,
+"sy": 640,
+"emoji": [
+[
+"🛒",
+760,
+960,
+200,
+-10
+]
+],
+"fs": 100
+},
+{
+"type": "cta",
+"theme": "dark",
+"tag": "StoreScore",
+"cutout": "photos/cutouts/bezos-3.png",
+"cuth": 760,
+"cutpos": "right:-80px",
+"title": "Ta boutique Shopify\nmérite *mieux* 🚀",
+"sub": "Audit complet dès 49 €\nLien en bio 🔗\n\nEnregistre ce post 🔖",
+"tr": 470
+}
+]
+}
