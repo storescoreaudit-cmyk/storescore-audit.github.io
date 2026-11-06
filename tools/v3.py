@@ -3,6 +3,7 @@ from playwright.sync_api import sync_playwright
 F="<link href='https://fonts.googleapis.com/css2?family=Inter:wght@500;700;900&display=swap' rel='stylesheet'>"
 BG=["radial-gradient(circle at 70% 25%,#2d3b8f 0%,#0b0d18 65%)","radial-gradient(circle at 25% 75%,#0e5a3c 0%,#081410 65%)","radial-gradient(circle at 75% 70%,#7a2f12 0%,#120a06 65%)"]
 def slide(i,n,s,bg):
+    if s.get("photo"): bg=f"linear-gradient(180deg,rgba(0,0,0,.05) 0%,rgba(0,0,0,.25) 45%,rgba(0,0,0,.92) 80%),url('{s['photo']}') center top/cover"
     big=s.get("big","")
     return f"""<div style="width:1080px;height:1350px;background:{bg};color:#fff;font-family:Inter,sans-serif;box-sizing:border-box;padding:120px 90px;display:flex;flex-direction:column;justify-content:{'flex-end' if i==1 else 'center'};position:relative">
 {f"<div style='position:absolute;top:110px;left:90px;right:90px;font-size:300px;font-weight:900;line-height:1;opacity:.12;letter-spacing:-10px'>{big}</div>" if big else ""}
