@@ -7,9 +7,9 @@
 "tag": "🔥 Story",
 "bigword": "GARAGE",
 "bigy": 150,
-"cutout": "photos/cutouts/bezos-1.png",
-"cuth": 1000,
-"cutpos": "right:-60px",
+"cutout": "photos/cutouts/bezos-4.png",
+"cuth": 1020,
+"cutpos": "right:-160px",
 "title": "He started Amazon\nin a *garage* 🚗",
 "sub": "With just one product. Here's how 👇",
 "ty": 330,
@@ -120,15 +120,34 @@
 "fs": 100
 },
 {
+"type": "quote",
+"theme": "dark",
+"tag": "💬 Quote",
+"cutout": "photos/cutouts/bezos-2.png",
+"cuth": 720,
+"cutpos": "right:-260px",
+"title": "Your brand is what people say about you *when you're not in the room.*",
+"author": "Jeff Bezos 💬",
+"tr": 330,
+"fs": 66
+},
+{
 "type": "cta",
 "theme": "dark",
 "tag": "StoreScore",
-"cutout": "photos/cutouts/bezos-3.png",
 "cuth": 760,
 "cutpos": "right:-80px",
 "title": "Your Shopify store\ndeserves *better* 🚀",
 "sub": "Full audit from €49\nLink in bio 🔗\n\nSave this post 🔖",
-"tr": 470
+"tr": 470,
+"card": [
+"photos/lib/shopping.jpg",
+560,
+820,
+440,
+400,
+5
+]
 }
 ]
 }

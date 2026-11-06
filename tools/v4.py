@@ -97,6 +97,12 @@ def slide(s, i, n, lang):
         if s.get("num"): h += f'<div class="num" style="position:absolute;left:64px;top:190px;z-index:5">{s["num"]}</div>'
         h += f'<div class="title" style="top:{s.get("ty",470)}px;font-size:{s.get("fs",84)}px">{rich(s["title"])}</div>'
         if s.get("sub"): h += f'<div class="sub" style="top:{s.get("sy",900)}px">{rich(s["sub"])}</div>'
+    elif t == "quote":
+        if s.get("cutout"):
+            h += f'<img class="cut" src="{b64(s["cutout"])}" style="height:{s.get("cuth",820)}px;{s.get("cutpos","right:-60px")};z-index:2">'
+        h += '<div style="position:absolute;left:50px;top:120px;z-index:5;font:900 300px/1 Georgia,serif;color:#2fe38a">&ldquo;</div>'
+        h += f'<div class="title" style="top:{s.get("ty",380)}px;right:{s.get("tr",380)}px;font:italic 800 {s.get("fs",70)}px/1.12 Georgia,serif;letter-spacing:-1px">{rich(s["title"])}</div>'
+        h += f'<div class="sub" style="top:{s.get("sy",1000)}px;font:800 38px Inter;opacity:1">— {rich(s.get("author",""))}</div>'
     elif t == "cta":
         if s.get("cutout"):
             h += f'<img class="cut" src="{b64(s["cutout"])}" style="height:{s.get("cuth",700)}px;{s.get("cutpos","right:-40px")};opacity:.95">'
