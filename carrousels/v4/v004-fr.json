@@ -1,0 +1,131 @@
+{
+ "lang": "fr",
+ "slides": [
+  {
+   "type": "photo",
+   "theme": "dark",
+   "tag": "📰 Actu",
+   "photo": "photos/lib/journal-business.jpg",
+   "pos": "40% 40%",
+   "fh": 72,
+   "mag": "Shopify · 3 nov. 2026",
+   "huge": "119 Md$",
+   "hb": 560,
+   "hs": 210,
+   "title": "vendus via *Shopify*\nen seulement 3 mois 🛒",
+   "ty": 330,
+   "fs": 84,
+   "sub": "Les résultats du T3, décryptés 👇"
+  },
+  {
+   "type": "photo",
+   "theme": "dark",
+   "tag": "01 · Croissance",
+   "photo": "photos/lib/startup-bureau.jpg",
+   "pos": "center",
+   "huge": "+29,5 %",
+   "hb": 560,
+   "hs": 200,
+   "title": "de ventes en un an chez\nles marchands *Shopify* 📈",
+   "ty": 300,
+   "fs": 70,
+   "sub": "Chiffre d'affaires de Shopify :\n3,7 Md$ (+32 %)."
+  },
+  {
+   "type": "photo",
+   "theme": "dark",
+   "tag": "02 · IA",
+   "photo": "photos/lib/laptop-dashboard.jpg",
+   "pos": "center",
+   "huge": "×3,3",
+   "hb": 560,
+   "hs": 220,
+   "title": "de commandes venues\nde l'*IA* en un an 🤖",
+   "ty": 300,
+   "fs": 76,
+   "sub": "Le trafic IA, lui, a été multiplié par 2,6."
+  },
+  {
+   "type": "photo",
+   "theme": "dark",
+   "tag": "03 · Conversion",
+   "photo": "photos/lib/homme-telephone.jpg",
+   "pos": "55% 30%",
+   "huge": "+64 %",
+   "hb": 560,
+   "hs": 220,
+   "title": "de conversion quand\nle client vient *d'une IA*",
+   "ty": 300,
+   "fs": 72,
+   "sub": "Par rapport à la recherche classique."
+  },
+  {
+   "type": "photo",
+   "theme": "dark",
+   "tag": "04 · Vitesse",
+   "photo": "photos/lib/dubai-marina.jpg",
+   "pos": "center",
+   "fh": 80,
+   "title": "*18 ans* pour atteindre\n1 000 Md$ de ventes cumulées.\n\nLes 1 000 Md$ suivants ?\n→ *moins de 2,5 ans* 🚀",
+   "ty": 260,
+   "fs": 64,
+   "sub": "Prévu d'ici fin 2026."
+  },
+  {
+   "type": "photo",
+   "theme": "dark",
+   "tag": "05 · Europe",
+   "photo": "photos/lib/presentation.jpg",
+   "pos": "center",
+   "huge": "+33 %",
+   "hb": 520,
+   "hs": 220,
+   "title": "de ventes en *Europe*\nsur un an 🇪🇺",
+   "ty": 300,
+   "fs": 76,
+   "sub": "Plus vite que la moyenne mondiale."
+  },
+  {
+   "type": "quote",
+   "theme": "dark",
+   "tag": "💬 Citation",
+   "title": "C'est le Shopify que Tobi et moi avions imaginé *il y a presque 20 ans.*",
+   "author": "Harley Finkelstein, président de Shopify",
+   "ty": 560,
+   "tr": 64,
+   "fs": 86,
+   "sy": 1060,
+   "noswipe": true
+  },
+  {
+   "type": "photo",
+   "theme": "dark",
+   "tag": "💡 La leçon",
+   "photo": "photos/lib/imac-bureau.jpg",
+   "pos": "center",
+   "fh": 90,
+   "title": "L'IA lit ta boutique.\nEst-elle *claire* ?",
+   "ty": 560,
+   "fs": 92,
+   "sub": "✅ Titres et fiches produits précis\n✅ Prix, tailles, stock à jour\n✅ Site rapide sur mobile"
+  },
+  {
+   "type": "cta",
+   "theme": "green",
+   "tag": "StoreScore",
+   "title": "Rends ta boutique\nShopify *lisible*\npour l'IA 🤖",
+   "ty": 250,
+   "fs": 84,
+   "sub": "Audit complet dès 49 €\nLien en bio 🔗\n\nEnregistre ce post 🔖",
+   "sy": 700,
+   "card": [
+    "photos/lib/femme-tableau.jpg",
+    600,
+    880,
+    400,
+    300,
+    6
+   ]
+  }
+ ]
+}

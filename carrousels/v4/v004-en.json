@@ -1,0 +1,127 @@
+{
+ "lang": "en",
+ "slides": [
+  {
+   "type": "min",
+   "style": "min",
+   "theme": "dark",
+   "tag": "Business lesson",
+   "huge": "NO.",
+   "hy": 200,
+   "hs": 360,
+   "hc": "#2fe38a",
+   "title": "In 1978, a 15-year-old\nwas left off his high\nschool *varsity* team.",
+   "ty": 620,
+   "fs": 80,
+   "sub": "His name: Michael Jordan 👇",
+   "sy": 1050
+  },
+  {
+   "type": "min",
+   "style": "min",
+   "theme": "light",
+   "tag": "Fall 1978",
+   "huge": "5'9\"",
+   "hy": 260,
+   "hs": 300,
+   "hc": "#ff5a4f",
+   "title": "Jordan's height.\nThe last spot went to\nhis friend Leroy: *6'7\"*.",
+   "ty": 620,
+   "fs": 78,
+   "sub": "Coach Pop Herring needed a tall\nrebounder. Jordan went to JV.",
+   "sy": 1000
+  },
+  {
+   "type": "min",
+   "style": "min",
+   "theme": "dark",
+   "tag": "The truth",
+   "title": "Not *cut*.\nSent down.",
+   "ty": 330,
+   "fs": 150,
+   "sub": "The famous \"cut\" story is a bit of\na legend. But the sting was real.",
+   "sy": 800
+  },
+  {
+   "type": "min",
+   "style": "min",
+   "theme": "light",
+   "tag": "What he did",
+   "title": "He didn't quit.\nHe *practiced*.",
+   "ty": 300,
+   "fs": 130,
+   "sub": "He became the JV floor leader.\nTheir games became the hot\nticket in town.",
+   "sy": 780
+  },
+  {
+   "type": "min",
+   "style": "min",
+   "theme": "green",
+   "tag": "Next season",
+   "huge": "Daily",
+   "hy": 240,
+   "hs": 280,
+   "hc": "#ffffff",
+   "title": "drills with his coach.\nPlus a growth spurt.\n→ Laney's *top player*.",
+   "ty": 600,
+   "fs": 76
+  },
+  {
+   "type": "min",
+   "style": "min",
+   "theme": "dark",
+   "tag": "Later",
+   "huge": "6×",
+   "hy": 200,
+   "hs": 400,
+   "hc": "#2fe38a",
+   "title": "NBA champion.\n6× *Finals MVP*.",
+   "ty": 680,
+   "fs": 110
+  },
+  {
+   "type": "quote",
+   "style": "min",
+   "theme": "light",
+   "tag": "Quote",
+   "card": [
+    "photos/lib/jordan.jpg",
+    470,
+    150,
+    560,
+    314,
+    3
+   ],
+   "title": "I've failed over and over and over again in my life. And that is *why I succeed.*",
+   "author": "Michael Jordan, Nike \"Failure\" ad (1997)",
+   "ty": 560,
+   "tr": 64,
+   "fs": 84,
+   "sy": 1110,
+   "noswipe": true
+  },
+  {
+   "type": "min",
+   "style": "min",
+   "theme": "light",
+   "tag": "Your store",
+   "title": "Low sales\naren't a verdict.\nThey're *data*.",
+   "ty": 250,
+   "fs": 112,
+   "sub": "✅ Find what's blocking buyers\n✅ Fix one thing at a time\n✅ Measure, repeat",
+   "sy": 790,
+   "ss": 46
+  },
+  {
+   "type": "cta",
+   "style": "min",
+   "theme": "dark",
+   "tag": "StoreScore",
+   "title": "Find out what's\nholding your *Shopify*\nstore back.",
+   "ty": 250,
+   "fs": 100,
+   "sub": "Full audit from €49\nLink in bio 🔗\n\nSave this post 🔖",
+   "sy": 760
+  }
+ ]
+}
