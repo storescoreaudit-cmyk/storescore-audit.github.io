@@ -1,0 +1,132 @@
+{
+ "lang": "fr",
+ "slides": [
+  {
+   "type": "cover",
+   "theme": "dark",
+   "font": "serif",
+   "tag": "📰 Actu · 2 nov. 2026",
+   "bigword": "IA",
+   "bigy": 170,
+   "cutout": "photos/cutouts/altman-1.png",
+   "cuth": 1060,
+   "cutpos": "right:-420px;bottom:0",
+   "title": "« L'IA est désormais\n*surtout plus*\n*intelligente* que nos\nmeilleurs scientifiques. »",
+   "fs": 76,
+   "ty": 300,
+   "sub": "Sam Altman, patron d'OpenAI 👇"
+  },
+  {
+   "type": "text",
+   "theme": "dark",
+   "tag": "Le contexte",
+   "num": "2 nov.",
+   "title": "Sam Altman, patron\nd'*OpenAI* (ChatGPT),\nparle à Abu Dhabi 🇦🇪",
+   "fs": 78,
+   "ty": 440,
+   "sub": "Au salon de l'énergie Adipec.\nAvec des accords signés sur l'énergie,\nl'éducation et l'investissement.",
+   "sy": 800
+  },
+  {
+   "type": "quote",
+   "theme": "light",
+   "tag": "💬 Citation",
+   "cutout": "photos/cutouts/altman-1.png",
+   "cuth": 520,
+   "cutpos": "right:-200px;bottom:0",
+   "title": "L'IA était surtout moins intelligente que nos meilleurs scientifiques. *Maintenant, elle est surtout plus intelligente qu'eux.*",
+   "tr": 80,
+   "ty": 330,
+   "fs": 62,
+   "sy": 760,
+   "author": "Sam Altman, Adipec, 2 nov. 2026",
+   "noswipe": true
+  },
+  {
+   "type": "min",
+   "style": "min",
+   "theme": "dark",
+   "tag": "Chiffre choc",
+   "huge": "100 000",
+   "hy": 230,
+   "hs": 240,
+   "hc": "#2fe38a",
+   "title": "tokens par mois : c'était\nle *plus gros utilisateur*\nd'OpenAI il y a 6 ans 🤯",
+   "ty": 560,
+   "fs": 72,
+   "sub": "Aujourd'hui, c'est à peu près\nla moyenne mondiale par habitant.",
+   "sy": 900
+  },
+  {
+   "type": "min",
+   "style": "min",
+   "theme": "green",
+   "tag": "Et aujourd'hui",
+   "huge": "500 Md",
+   "hy": 230,
+   "hs": 250,
+   "title": "de tokens par mois pour\nle *plus gros utilisateur* 🚀",
+   "ty": 560,
+   "fs": 76,
+   "sub": "x 5 millions en 6 ans.\n(1 token ≈ un bout de mot)",
+   "sy": 900
+  },
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "Son plus gros défi ?",
+   "title": "Réponse en\nun seul mot :\n*« L'énergie. »* ⚡",
+   "fs": 110,
+   "ty": 360,
+   "sub": "L'IA consomme de plus en plus d'électricité.",
+   "sy": 900
+  },
+  {
+   "type": "min",
+   "style": "min",
+   "theme": "dark",
+   "tag": "Aux Émirats",
+   "huge": "80 %",
+   "hy": 230,
+   "hs": 340,
+   "hc": "#2fe38a",
+   "title": "des jeunes utilisent\n*ChatGPT* 📱",
+   "ty": 640,
+   "fs": 80,
+   "sub": "aux Émirats, selon Altman.\nTes futurs clients demandent déjà\nà l'IA quoi acheter.",
+   "sy": 880
+  },
+  {
+   "type": "text",
+   "theme": "dark",
+   "tag": "💡 Pour ta boutique",
+   "title": "L'IA lit ta boutique\n*avant* tes clients.",
+   "fs": 88,
+   "ty": 260,
+   "sub": "✅ Fiches produits complètes\n✅ Prix et stock à jour\n✅ Avis clients visibles\n✅ Site rapide sur mobile",
+   "sy": 620,
+   "card": [
+    "photos/lib/laptop-dashboard.jpg",
+    600,
+    980,
+    400,
+    260,
+    -5
+   ]
+  },
+  {
+   "type": "cta",
+   "theme": "green",
+   "tag": "StoreScore",
+   "title": "Ta boutique est-elle\n*prête pour l'IA* ? 🤖",
+   "fs": 88,
+   "ty": 250,
+   "sub": "Audit Shopify\ndès 49 €\nLien en bio 🔗\n\nEnregistre ce post 🔖",
+   "sy": 640,
+   "tr": 420,
+   "cutout": "photos/cutouts/altman-1.png",
+   "cuth": 520,
+   "cutpos": "right:-160px;bottom:0"
+  }
+ ]
+}

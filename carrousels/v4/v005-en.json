@@ -1,0 +1,234 @@
+{
+ "lang": "en",
+ "slides": [
+  {
+   "type": "text",
+   "theme": "green",
+   "tag": "🔥 Hot take",
+   "cards": [
+    [
+     "photos/lib/shopping.jpg",
+     120,
+     190,
+     820,
+     560,
+     -4,
+     "",
+     "60% 30%"
+    ]
+   ],
+   "emoji": [
+    [
+     "⭐",
+     820,
+     130,
+     170,
+     14
+    ],
+    [
+     "⭐",
+     60,
+     640,
+     130,
+     -16
+    ],
+    [
+     "😬",
+     860,
+     640,
+     150,
+     10
+    ]
+   ],
+   "title": "A perfect 5★\nrating can *hurt*\nyour sales.",
+   "fs": 100,
+   "ty": 800,
+   "sub": "Here's what the data says 👇",
+   "sy": 1150
+  },
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "The study",
+   "num": "4.0–4.7",
+   "title": "stars: where buyers\nare *most likely*\nto purchase ⭐",
+   "fs": 84,
+   "ty": 440,
+   "sub": "Northwestern University,\nSpiegel Research Center.",
+   "sy": 840,
+   "emoji": [
+    [
+     "📊",
+     800,
+     860,
+     170,
+     10
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "theme": "dark",
+   "tag": "Why?",
+   "title": "Too perfect\nlooks *fake*. 🤨",
+   "fs": 120,
+   "ty": 330,
+   "sub": "Above 4.7★, purchase likelihood\nstarts to drop.\nA few bad reviews make the\ngood ones believable.",
+   "sy": 700,
+   "emoji": [
+    [
+     "🎭",
+     800,
+     1000,
+     170,
+     -12
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "Reviews = sales",
+   "num": "+270%",
+   "title": "conversion with\n*5 reviews* vs zero 🚀",
+   "fs": 88,
+   "ty": 440,
+   "sub": "Just five reviews.\nNot five hundred.",
+   "sy": 760,
+   "cards": [
+    [
+     "photos/lib/homme-telephone.jpg",
+     600,
+     920,
+     400,
+     300,
+     6
+    ]
+   ],
+   "emoji": [
+    [
+     "💬",
+     90,
+     1000,
+     150,
+     -10
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "theme": "green",
+   "tag": "Pricier products",
+   "num": "+380%",
+   "title": "for a *high-priced*\nproduct\n(vs +190% for\na cheap one) 💎",
+   "fs": 80,
+   "ty": 440,
+   "sub": "The more it costs,\nthe more people read reviews.",
+   "sy": 880,
+   "emoji": [
+    [
+     "💸",
+     90,
+     1080,
+     150,
+     -10
+    ]
+   ],
+   "cards": [
+    [
+     "photos/lib/montre-or.jpg",
+     700,
+     1000,
+     300,
+     210,
+     5
+    ]
+   ]
+  },
+  {
+   "type": "quote",
+   "theme": "light",
+   "tag": "💬 Quote",
+   "cards": [
+    [
+     "photos/lib/gates.jpg",
+     620,
+     880,
+     380,
+     330,
+     5
+    ]
+   ],
+   "title": "Your most unhappy customers are your *greatest source of learning.*",
+   "fs": 76,
+   "ty": 360,
+   "tr": 80,
+   "sy": 760,
+   "author": "Bill Gates, Business @ the Speed of Thought (1999)",
+   "emoji": [
+    [
+     "🧠",
+     90,
+     960,
+     150,
+     -12
+    ]
+   ],
+   "noswipe": true
+  },
+  {
+   "type": "text",
+   "theme": "dark",
+   "tag": "💡 Do this before Black Friday",
+   "title": "1. Ask *every* buyer\nfor a review.\n\n2. Show the bad ones.\n*Reply* publicly.\n\n3. Fix what they\ncomplain about.",
+   "fs": 74,
+   "ty": 240,
+   "emoji": [
+    [
+     "✍️",
+     820,
+     1020,
+     150,
+     10
+    ],
+    [
+     "🛠️",
+     640,
+     1110,
+     120,
+     -14
+    ]
+   ]
+  },
+  {
+   "type": "cta",
+   "theme": "green",
+   "tag": "StoreScore",
+   "title": "Do your reviews\n*build trust*? 🛍️",
+   "fs": 92,
+   "ty": 250,
+   "sub": "Shopify audit from €49\nLink in bio 🔗\n\nSave this post 🔖",
+   "sy": 620,
+   "tr": 420,
+   "cards": [
+    [
+     "photos/lib/laptop-dashboard.jpg",
+     580,
+     940,
+     420,
+     280,
+     5
+    ]
+   ],
+   "emoji": [
+    [
+     "⭐",
+     860,
+     520,
+     140,
+     14
+    ]
+   ]
+  }
+ ]
+}
