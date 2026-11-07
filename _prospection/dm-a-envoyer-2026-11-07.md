@@ -3,6 +3,8 @@
 L'envoi automatique a été bloqué : à copier-coller depuis @storescore.audit (espacer de 1 à 3 min).
 Le message pour @louisesalvati est déjà tapé dans la fenêtre de chat, il ne reste qu'à appuyer sur Entrée.
 
+⚠️ Doublons : @dayaema, @ludivinelry, @celie_douard et @karmaryne figurent aussi dans les listes d'autres sessions lancées en parallèle ce jour-là. N'envoyer qu'UN seul message à chacune (vérifier la conversation avant).
+
 ## Influenceurs (partenariat)
 
 **@louisesalvati** — Bonjour Louise ! J'aime beaucoup ta série « La question que je me poserais à ta place », très concrète pour les marques. Je lance StoreScore (audits de boutiques en ligne) et je cherche quelques partenaires : 20 € par audit vendu et 50 € par site, avec un code perso (LOUISE20), gratuit et sans engagement. Ça pourrait bien compléter ton accompagnement branding, je t'explique ?
