@@ -2,7 +2,7 @@
 """StoreScore carrousels v4 — 1080x1350, détourage, emojis Apple, grain, style "magazine actu".
 Usage: python3 tools/v4.py spec.json outdir
 Slide types: cover | text | photo | split | quote | cta | min | grid
-style:"min" (par slide) = minimaliste sans grain ; min: huge/hy/hs/hc ; grid: cells[4], cols[2], rows[2] ; photo: pos, mag, huge
+font:"serif" (citation-portrait) ; cards:[[img,x,y,w,h,rot,(css),(objpos)],...] collage ; style:"min" (par slide) = minimaliste sans grain ; min: huge/hy/hs/hc ; grid: cells[4], cols[2], rows[2] ; photo: pos, mag, huge
 Champs: title (avec *mot* = surligné), sub, emoji (liste), cutout (photos/cutouts/x.png), photo (photos/lib/x.jpg), bigword, num, tag, theme(dark|light|green)
 Emojis: tout emoji unicode dans un texte est rendu en emoji Apple.
 """
@@ -54,6 +54,7 @@ body{width:1080px;height:1350px;overflow:hidden;font-family:'Inter',sans-serif}
 .st{position:absolute;z-index:6;filter:drop-shadow(0 12px 20px rgba(0,0,0,.35))}
 .num{font:900 220px/0.9 'Anton','Inter';color:#2fe38a;letter-spacing:-6px}
 .light .num{color:#12a35c}
+.green .num{color:#fff}
 .card{position:absolute;z-index:3;border-radius:36px;overflow:hidden;box-shadow:0 40px 80px rgba(0,0,0,.35);border:10px solid #fff}
 .card img{width:100%;height:100%;object-fit:cover;display:block}
 .swipe{position:absolute;right:64px;bottom:60px;z-index:9;font:800 30px 'Inter';display:flex;gap:12px;align-items:center}
@@ -67,6 +68,8 @@ body{width:1080px;height:1350px;overflow:hidden;font-family:'Inter',sans-serif}
 .grid{position:absolute;left:150px;top:470px;width:780px;height:640px;display:grid;grid-template-columns:1fr 1fr;grid-template-rows:1fr 1fr;z-index:5}
 .grid div{border:4px solid currentColor;margin:-2px;display:flex;align-items:center;justify-content:center;font:800 40px/1.15 'Inter';text-align:center}
 .gl{position:absolute;z-index:5;font:900 30px 'Inter';letter-spacing:.12em;text-transform:uppercase;opacity:.55}
+.serif .title{font-family:Georgia,'Playfair Display',serif;font-style:italic;font-weight:800;letter-spacing:-1px;line-height:1.08}
+.serif .title mark{font-style:italic}
 .mag{position:absolute;left:64px;top:150px;z-index:6;font:900 34px 'Inter';letter-spacing:.3em;text-transform:uppercase}
 """
 FONTS = "<link href='https://fonts.googleapis.com/css2?family=Anton&family=Inter:wght@500;700;800;900&display=swap' rel='stylesheet'>"
@@ -81,7 +84,7 @@ def stickers(s):
 def slide(s, i, n, lang):
     th = s.get("theme", "dark")
     mn = s.get("style") == "min"
-    h = f'<div class="s {th} {"mn" if mn else "grain"}">'
+    h = f'<div class="s {th} {"mn" if mn else "grain"} {"serif" if s.get("font")=="serif" else ""}">'
     tag = rich(s.get("tag", ""))
     h += f'<div class="top">{f"<span class=pill>{tag}</span>" if tag else "<span></span>"}<span class="handle">@storescore.audit</span></div>'
     t = s.get("type", "text")
@@ -133,6 +136,8 @@ def slide(s, i, n, lang):
             h += f'<img class="cut" src="{b64(s["cutout"])}" style="height:{s.get("cuth",700)}px;{s.get("cutpos","right:-40px")};opacity:.95">'
         h += f'<div class="title" style="top:{s.get("ty",260)}px;font-size:{s.get("fs",88)}px">{rich(s["title"])}</div>'
         if s.get("sub"): h += f'<div class="sub" style="font-size:46px;top:{s.get("sy",640)}px;right:{s.get("tr",64)}px">{rich(s["sub"])}</div>'
+    for c in s.get("cards", []):
+        h += f'<div class="card" style="left:{c[1]}px;top:{c[2]}px;width:{c[3]}px;height:{c[4]}px;transform:rotate({c[5]}deg);{c[6] if len(c)>6 else ""}"><img src="{b64(c[0])}" style="object-position:{c[7] if len(c)>7 else "center"}"></div>'
     if s.get("card"):
         c=s["card"]; h += f'<div class="card" style="left:{c[1]}px;top:{c[2]}px;width:{c[3]}px;height:{c[4]}px;transform:rotate({c[5]}deg)"><img src="{b64(c[0])}"></div>'
     h += stickers(s)

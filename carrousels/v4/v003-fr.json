@@ -1,0 +1,12 @@
+{"lang":"fr","slides":[
+{"type":"cover","theme":"dark","font":"serif","tag":"🔥 Histoire vraie","bigword":"2008","bigy":150,"cutout":"photos/cutouts/musk-sombre.png","cuth":1000,"cutpos":"right:-260px",
+ "title":"« La *pire année*\nde ma vie. »","fs":110,"ty":330,"sub":"Elon Musk, presque ruiné.\nPuis tout a basculé 👇"},
+{"type":"text","theme":"dark","tag":"Avant","num":"180 M$","title":"C'est ce qu'il gagne\nen vendant *PayPal*\nen 2002 💰","fs":80,"ty":440,"sub":"Il mise presque tout\nsur SpaceX et Tesla.","sy":820},
+{"type":"min","style":"min","theme":"dark","tag":"2006 → 2008","huge":"3/3","hy":230,"hs":360,"hc":"#ff5a4e","title":"lancements de sa fusée\n*Falcon 1* : 3 échecs 🚀","ty":620,"fs":80,"sub":"2006. 2007. Août 2008.\nL'argent fond. Tesla perd de l'argent aussi.","sy":900},
+{"type":"quote","theme":"dark","tag":"💬 Citation","cutout":"photos/cutouts/musk-3.png","cuth":560,"cutpos":"right:-140px","title":"Un quatrième échec aurait été *game over. Terminé.*","tr":120,"ty":400,"fs":82,"sy":780,"author":"Elon Musk, 60 Minutes (CBS, 2014)","noswipe":true},
+{"type":"text","theme":"green","tag":"28 sept. 2008","num":"4e","title":"Quatrième essai :\nla fusée atteint\n*l'orbite* ✅","fs":92,"ty":440,"sub":"1re fusée à carburant liquide\nfinancée par le privé à y arriver.","sy":860},
+{"type":"split","theme":"dark","tag":"Noël 2008","cutout":"photos/cutouts/musk-pouces.png","cuth":760,"cutpos":"right:-200px","title":"23 déc. :\nla NASA signe\n*1,6 Md$* 🛰️","tr":440,"fs":78,"ty":260,"sub":"24 déc. : les investisseurs de Tesla remettent de l'argent.\nSauvé.","sy":680},
+{"type":"text","theme":"light","tag":"Après","title":"En 3 mois,\nil passe de\n*presque ruiné*\nà sauvé. 📈","fs":96,"ty":330,"sub":"Parce qu'il a tenté\nun 4e essai.","sy":930},
+{"type":"text","theme":"dark","tag":"💡 La leçon","title":"Ta boutique n'a pas\nbesoin d'être parfaite.\nElle doit *s'améliorer*\n*à chaque essai.*","fs":78,"ty":330,"sub":"Teste. Mesure. Corrige. Recommence.","sy":700,"card":["photos/lib/laptop-dashboard.jpg",560,880,440,280,-5]},
+{"type":"cta","theme":"green","tag":"StoreScore","title":"Trouve ce qui bloque\ntes ventes avant\nton *prochain essai* 🚀","fs":82,"ty":250,"sub":"Audit Shopify\ndès 49 €\nLien en bio 🔗\n\nEnregistre ce post 🔖","sy":700,"tr":420,"card":["photos/lib/imac-bureau.jpg",580,960,420,280,5]}
+]}
