@@ -1,0 +1,123 @@
+{
+ "lang": "fr",
+ "slides": [
+  {
+   "type": "min",
+   "style": "min",
+   "theme": "dark",
+   "tag": "Actu · Black Friday",
+   "huge": "1 sur 5",
+   "hy": 200,
+   "hs": 290,
+   "hc": "#2fe38a",
+   "title": "Un acheteur sur cinq\nne croit plus du tout\naux *promos*.",
+   "ty": 600,
+   "fs": 92,
+   "sub": "Nouvelle étude BCG, publiée le 4 nov. 👇",
+   "sy": 1040
+  },
+  {
+   "type": "min",
+   "style": "min",
+   "theme": "light",
+   "tag": "Le chiffre",
+   "huge": "54 %",
+   "hy": 230,
+   "hs": 330,
+   "hc": "#12a35c",
+   "title": "seulement pensent que\nles prix sont *vraiment*\nplus bas ce jour-là.",
+   "ty": 620,
+   "fs": 80,
+   "sub": "10 220 consommateurs interrogés\ndans 10 pays.",
+   "sy": 1010
+  },
+  {
+   "type": "min",
+   "style": "min",
+   "theme": "dark",
+   "tag": "La lassitude",
+   "huge": "22 %",
+   "hy": 230,
+   "hs": 330,
+   "hc": "#ff5a4f",
+   "title": "vont dépenser moins\nou zapper les soldes.\nRaison : « il y a des\npromos *tout le temps* ».",
+   "ty": 620,
+   "fs": 72
+  },
+  {
+   "type": "min",
+   "style": "min",
+   "theme": "light",
+   "tag": "Ce qui rassure ✅",
+   "title": "Ce qui donne\n*confiance* :",
+   "ty": 220,
+   "fs": 120,
+   "sub": "+65  La réputation de la boutique\n+65  Satisfait ou remboursé\n+59  Des avis clients vérifiés\n+58  Un prix barré clair et honnête\n\nScore net de confiance, étude BCG.",
+   "sy": 620,
+   "ss": 46
+  },
+  {
+   "type": "min",
+   "style": "min",
+   "theme": "green",
+   "tag": "Ce qui ne marche plus ❌",
+   "title": "Presque *inutile* :",
+   "ty": 220,
+   "fs": 120,
+   "sub": "+8  « Plus que 2 en stock ! » ⏳\n+4  Les résumés d'avis par IA\n+3  Les recommandations d'influenceurs",
+   "sy": 560,
+   "ss": 48
+  },
+  {
+   "type": "min",
+   "style": "min",
+   "theme": "dark",
+   "tag": "Le virage",
+   "huge": "56 %",
+   "hy": 230,
+   "hs": 330,
+   "hc": "#2fe38a",
+   "title": "utilisent ou vont utiliser\nl'*IA* pour faire leurs\nachats 🤖",
+   "ty": 620,
+   "fs": 78,
+   "sub": "Et 78 % d'entre eux disent que ça\nles rend plus enclins à acheter.",
+   "sy": 1010
+  },
+  {
+   "type": "quote",
+   "style": "min",
+   "theme": "light",
+   "tag": "Citation",
+   "title": "Les commerçants ne peuvent pas s'en sortir *à coups de remises.* La question cette saison : comment gagner la confiance des acheteurs.",
+   "author": "Nate Shenck, associé BCG, co-auteur de l'étude (4 nov. 2026, traduit)",
+   "ty": 330,
+   "tr": 64,
+   "fs": 76,
+   "sy": 1060,
+   "noswipe": true
+  },
+  {
+   "type": "min",
+   "style": "min",
+   "theme": "dark",
+   "tag": "La leçon",
+   "title": "Moins de *promos*.\nPlus de *preuves*.",
+   "ty": 220,
+   "fs": 112,
+   "sub": "✅ Avis vérifiés bien visibles\n✅ Retours et remboursement clairs\n✅ Prix barré vrai, pas gonflé",
+   "sy": 860,
+   "ss": 48
+  },
+  {
+   "type": "cta",
+   "style": "min",
+   "theme": "light",
+   "tag": "StoreScore",
+   "title": "Ta boutique inspire\n*confiance* ?\nOn te le dit.",
+   "ty": 250,
+   "fs": 96,
+   "sub": "Audit Shopify complet dès 49 €\nLien en bio 🔗\n\nEnregistre ce post 🔖",
+   "sy": 760
+  }
+ ]
+}

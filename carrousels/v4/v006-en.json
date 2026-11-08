@@ -1,0 +1,137 @@
+{
+ "lang": "en",
+ "slides": [
+  {
+   "type": "photo",
+   "theme": "dark",
+   "tag": "📖 True story",
+   "photo": "photos/lib/bezos-2.jpg",
+   "pos": "58% 20%",
+   "fh": 72,
+   "mag": "1994 · New York",
+   "huge": "Age 30.",
+   "hb": 600,
+   "hs": 200,
+   "title": "He quit a top *Wall Street*\njob to sell books online 📚",
+   "ty": 350,
+   "fs": 76,
+   "sub": "One question made him do it 👇"
+  },
+  {
+   "type": "photo",
+   "theme": "dark",
+   "tag": "01 · The job",
+   "photo": "photos/lib/costume.jpg",
+   "pos": "center",
+   "fh": 70,
+   "title": "Senior Vice President\nat *D.E. Shaw*, a Wall\nStreet hedge fund 💼",
+   "ty": 320,
+   "fs": 76,
+   "sub": "Big salary. Bright future. Bonus coming."
+  },
+  {
+   "type": "photo",
+   "theme": "dark",
+   "tag": "02 · The idea",
+   "photo": "photos/lib/bureau-bois.jpg",
+   "pos": "center",
+   "fh": 72,
+   "title": "Sell books on a new thing\ncalled the *internet* 🌐",
+   "ty": 320,
+   "fs": 76,
+   "sub": "In 1994, almost nobody bought online."
+  },
+  {
+   "type": "photo",
+   "theme": "dark",
+   "tag": "03 · The boss",
+   "photo": "photos/lib/silhouette-escalier.jpg",
+   "pos": "center",
+   "fh": 78,
+   "title": "“Sounds like a good idea,\nbut probably a better idea\nfor someone who *doesn't*\n*have a good job*.”",
+   "ty": 330,
+   "fs": 66,
+   "sub": "— David Shaw, on a walk in Central Park 🌳"
+  },
+  {
+   "type": "photo",
+   "theme": "dark",
+   "tag": "04 · The test",
+   "photo": "photos/lib/signature.jpg",
+   "pos": "center",
+   "fh": 75,
+   "huge": "80",
+   "hb": 560,
+   "hs": 260,
+   "title": "He pictured himself at *80*,\nlooking back on his life ⏳",
+   "ty": 330,
+   "fs": 72,
+   "sub": "Would he regret trying? Or not trying?"
+  },
+  {
+   "type": "quote",
+   "theme": "dark",
+   "tag": "💬 Quote",
+   "card": [
+    "photos/lib/bezos-1.jpg",
+    660,
+    600,
+    360,
+    420,
+    4
+   ],
+   "title": "I knew that if I failed, I wouldn't regret that. But I knew the one thing I might regret is *not ever having tried.*",
+   "author": "Jeff Bezos, Academy of Achievement interview (2001)",
+   "ty": 300,
+   "tr": 460,
+   "fs": 60,
+   "sy": 1150,
+   "noswipe": true
+  },
+  {
+   "type": "photo",
+   "theme": "dark",
+   "tag": "05 · The result",
+   "photo": "photos/lib/startup-bureau.jpg",
+   "pos": "center",
+   "fh": 75,
+   "huge": "July 1994",
+   "hb": 560,
+   "hs": 170,
+   "title": "He leaves Wall Street.\n*Amazon* is born 🚀",
+   "ty": 330,
+   "fs": 80,
+   "sub": "He called it his “regret minimization framework”."
+  },
+  {
+   "type": "photo",
+   "theme": "dark",
+   "tag": "💡 Your store",
+   "photo": "photos/lib/homme-telephone.jpg",
+   "pos": "center",
+   "fh": 92,
+   "title": "What will you *regret*\nnot testing before\nBlack Friday?",
+   "ty": 430,
+   "fs": 88,
+   "sub": "✅ That new offer\n✅ A faster checkout\n✅ Better product pages"
+  },
+  {
+   "type": "cta",
+   "theme": "green",
+   "tag": "StoreScore",
+   "title": "Don't guess.\nGet your *Shopify*\nstore audited 🚀",
+   "ty": 250,
+   "fs": 88,
+   "sub": "Full audit from €49\nLink in bio 🔗\n\nSave this post 🔖",
+   "sy": 720,
+   "card": [
+    "photos/lib/bureau-verre.jpg",
+    600,
+    880,
+    400,
+    300,
+    -5
+   ]
+  }
+ ]
+}
