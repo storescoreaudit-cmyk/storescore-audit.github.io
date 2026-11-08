@@ -61,3 +61,19 @@ Aucun de ces comptes n'a encore de conversation avec nous dans la boîte Instagr
 
 ---
 Dès qu'une personne répond, la tâche horaire prend le relais automatiquement : réponse, confirmation du code, texte de story avec #pub.
+
+---
+# Passage supplémentaire 08/11 ~21h20 (Paris) – envoi refusé par l'outil
+Compte vérifié : storescore.audit. Fil vide vérifié pour @makingmoneywithmads ; pour les autres, vérifier qu'il n'y a pas déjà de conversation avant d'envoyer.
+
+## @makingmoneywithmads (Mads, 46,8K, EN) – fil vide, rien tapé
+Hey Mads! Your "the government will basically pay you to do this" reel had me hooked, and love that you add "results vary" instead of hyping. I run StoreScore: we audit online stores (score out of 100 + the exact fixes blocking sales, 49€) and build websites for small businesses that don't have one (290€). Would you be up for a simple partnership? Your own code MADS20: 20€ per audit and 50€ per site sold, paid monthly, free, no commitment (just #ad). Or a free audit/site in exchange for a Reel if you prefer. Curious?
+
+## @_brittanybowen_ (Brittany Bowen, 42,6K, EN)
+Hey Brittany! "From $7/hour to a 7 figure brand" is such a powerful story, and I love that you're teaching women to build wealth. I run StoreScore: we audit online stores (score out of 100 + the exact fixes blocking sales, 49€) and build websites for small businesses without one (290€). Lots of your community probably sells online, so here's a simple partnership: your own code BRITTANY20, 20€ per audit and 50€ per site sold, paid monthly, free, no commitment (#ad). Or a free audit of herwealtheraco.com in exchange for a Reel. Interested?
+
+## @sabrina.fc.digital.nomade (Sabrina Fernandez, 17,9K, FR)
+Coucou Sabrina ! « Ta carrière dort dans un carton ? » m'a fait sourire, et j'adore ton mélange humour + vie d'expat à Marrakech + business en ligne. Je gère StoreScore : on audite les boutiques en ligne (note sur 100 + ce qui bloque les ventes, 49 €) et on crée des sites pour les commerces qui n'en ont pas (290 €). Tes élèves qui digitalisent leur business pourraient en avoir besoin. Partenariat simple : ton code SABRINA20, 20 € par audit et 50 € par site vendus, payés chaque mois, gratuit et sans engagement (#pub). Ou un audit offert contre un Reel si tu préfères. Ça te dit ?
+
+## @madameentreprendecom (Nawal, 3K, FR)
+Hello Nawal ! J'aime beaucoup ton positionnement, aider les femmes à lancer leur e-commerce, et tes highlights Avis montrent de vrais résultats. Je gère StoreScore : on audite les boutiques en ligne (note sur 100 + les corrections exactes qui bloquent les ventes, 49 €), ça complète bien une formation, juste après le lancement. Partenariat simple : ton code NAWAL20, 20 € par audit et 50 € par site vendus, payés chaque mois, gratuit et sans engagement (#pub). Je peux aussi auditer gratuitement la boutique d'une de tes élèves pour que tu voies le rapport. Ça t'intéresse ?
