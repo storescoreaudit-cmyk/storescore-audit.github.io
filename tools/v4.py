@@ -64,7 +64,7 @@ body{width:1080px;height:1350px;overflow:hidden;font-family:'Inter',sans-serif}
 .mn .title mark{background:none;color:#12a35c;padding:0}.mn.dark .title mark{color:#2fe38a}.mn.green .title mark{color:#0a0a0a;background:none}
 .mn .pill{background:none;color:inherit;border:3px solid currentColor;padding:9px 22px;font-size:22px}
 .mn .swipe{font:700 26px 'Inter';opacity:.6}
-.huge{position:absolute;left:56px;right:56px;z-index:5;font:900 300px/0.9 'Anton','Inter';letter-spacing:-6px}
+.huge{position:absolute;left:56px;right:56px;z-index:5;white-space:nowrap;font:900 300px/0.9 'Anton','Inter';letter-spacing:-6px}
 .grid{position:absolute;left:150px;top:470px;width:780px;height:640px;display:grid;grid-template-columns:1fr 1fr;grid-template-rows:1fr 1fr;z-index:5}
 .grid div{border:4px solid currentColor;margin:-2px;display:flex;align-items:center;justify-content:center;font:800 40px/1.15 'Inter';text-align:center}
 .gl{position:absolute;z-index:5;font:900 30px 'Inter';letter-spacing:.12em;text-transform:uppercase;opacity:.55}

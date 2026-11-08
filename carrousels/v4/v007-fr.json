@@ -1,0 +1,12 @@
+{"lang":"fr","slides":[
+{"type":"cover","theme":"dark","font":"serif","tag":"🔥 Histoire vraie","bigword":"VIRÉ","bigy":150,"cutout":"photos/cutouts/jobs-1.png","cuth":1020,"cutpos":"right:-230px",
+ "title":"Viré de sa\n*propre* entreprise.","fs":104,"ty":390,"sub":"Steve Jobs, 30 ans.\nEt le meilleur truc qui lui\nsoit arrivé 👇"},
+{"type":"text","theme":"light","font":"serif","tag":"1976","num":"20 ans","title":"Il crée Apple\navec Woz dans le\n*garage* de ses parents 🏠","fs":82,"ty":440,"sub":"Deux gars. Zéro bureau.","sy":880},
+{"type":"min","style":"min","theme":"dark","tag":"10 ans plus tard","huge":"2 Md$","hy":240,"hs":280,"hc":"#2fe38a","title":"Apple pèse *2 milliards*\net plus de 4 000 salariés.","ty":620,"fs":76,"sub":"Le rêve. Puis tout bascule.","sy":900},
+{"type":"min","style":"min","theme":"light","font":"serif","tag":"1985","huge":"30 ans","hy":240,"hs":280,"hc":"#ff5a4e","title":"Le conseil d'administration\nchoisit son rival.\nJobs est *viré*.","ty":620,"fs":76,"sub":"De sa propre entreprise.\nDevant tout le monde.","sy":960},
+{"type":"text","theme":"dark","font":"serif","tag":"Il repart de zéro","title":"Il lance *NeXT*.\nPuis rachète *Pixar*. 🎬","fs":88,"ty":330,"sub":"1995 : Pixar sort Toy Story,\nle 1er long-métrage entièrement\nen images de synthèse.","sy":620,"card":["photos/lib/jobs-nb.jpg",420,900,580,300,-4]},
+{"type":"text","theme":"green","font":"serif","tag":"Retournement","num":"1996","title":"Apple rachète NeXT…\net Jobs *revient*. 🍎","fs":86,"ty":440,"sub":"La boîte qui l'avait viré\na eu besoin de lui.","sy":840},
+{"type":"quote","theme":"dark","tag":"💬 Citation","cutout":"photos/cutouts/jobs-1.png","cuth":700,"cutpos":"right:-210px","title":"Me faire virer d'Apple a été la *meilleure chose* qui pouvait m'arriver.","tr":110,"ty":380,"fs":80,"sy":760,"author":"Steve Jobs,\ndiscours de Stanford (2005)","noswipe":true},
+{"type":"text","theme":"light","font":"serif","tag":"💡 La leçon","title":"Un échec n'est pas\nun *verdict*.\nC'est un *diagnostic*.","fs":90,"ty":330,"sub":"Ta boutique ne vend pas ?\nTrouve pourquoi. Corrige.\nRecommence.","sy":780,"card":["photos/lib/laptop-dashboard.jpg",600,980,400,260,5]},
+{"type":"cta","theme":"green","font":"serif","tag":"StoreScore","title":"Fais le *diagnostic*\nde ta boutique 🩺","fs":88,"ty":250,"sub":"Audit Shopify\ndès 49 €\nLien en bio 🔗\n\nEnregistre ce post 🔖","sy":620,"tr":420,"cutout":"photos/cutouts/jobs-1.png","cuth":640,"cutpos":"right:-170px"}
+]}
