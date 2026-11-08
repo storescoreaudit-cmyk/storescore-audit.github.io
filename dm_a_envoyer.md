@@ -25,7 +25,7 @@ Hey Susan! Your CTO.new agents reel was a fun watch, vibe coding is moving so fa
 
 
 ---
-# Passage 08/11 ~19h40 (manuel)
+# Passage 08/11 ~18h45 (manuel)
 Envoyés et visibles : @anazov4, @aibymollie (+ réponses à @lyess_3d).
 Envoyés mais fil vide après rechargement (à vérifier, peut-être non délivrés) : @selinasharess, @rroomfies, @mishearns, @susanvibecodes.
 Non délivré : @heidii.mp4 (« ce compte ne peut pas recevoir vos messages »).
@@ -36,3 +36,17 @@ Bonjour l'équipe JU&N ! J'adore vos bougies moulées de Noël, le Nain Ski avec
 
 ## @joyojewelry (Justine)
 Coucou Justine ! Tes bijoux en pierres brutes sont magnifiques, et l'idée des pendentifs de naissance personnalisables est top pour Noël. Deux petites choses vues sur ton site : sur l'accueil il y a une coquille (« Agate moussse »), et la fiche du Coffret de Noël « La Parure » à 89,90 € a une description très courte pour un cadeau à ce prix (ce qu'il contient, l'écrin, le délai avant Noël). Je peux te faire la note complète de ta boutique sur 100, gratuitement, tu veux ?
+
+
+---
+# Passage 08/11 ~19h05-19h31 (lancé à la main par Neil)
+Envoyés et vérifiés : @richandglowy, @jessicadepraeter, @lisapowher, @clarabblt_, @clemenceyvars.
+Bloqués par l'outil au moment d'appuyer sur Entrée (vers 19h31), à envoyer à la main :
+
+## @caponlea (Léa Caps, 25K) – déjà tapé dans la conversation, il reste à appuyer sur Entrée
+Hello Léa ! Ton vlog « budget illimité pour ma sœur » était trop mignon, et ta candidature pour remplacer Maya & Andie m'a bien fait rire. Je gère StoreScore : on audite les boutiques en ligne (note sur 100 + ce qui bloque les ventes, 49 €) et on crée des sites pour les petits commerces qui n'en ont pas (290 €). Je cherche quelques créatrices partenaires : ton code LEA20, 20 € par audit et 50 € par site vendus, payés chaque mois, gratuit et sans engagement (#pub). Ou, si tu factures tes contenus, un audit/site offert contre un Reel ou une story. Ça te dirait ?
+
+## @alexalzzr (Alexa, 4,7K)
+Hello Alexa ! J'adore ton mélange mode + « cool boy-mom », la veste Pull&Bear pour l'automne est top. Je gère StoreScore : on audite les boutiques en ligne (note sur 100 + ce qui bloque les ventes, 49 €) et on crée des sites pour les petits commerces qui n'en ont pas (290 €). Je cherche quelques créatrices partenaires : ton code ALEXA20, 20 € par audit et 50 € par site vendus, payés chaque mois, gratuit et sans engagement (#pub). Ou un audit/site offert contre un Reel si tu préfères. Ça te tente ?
+
+Boutiques du passage : @jun.cosmetiques (déjà tapé) et @joyojewelry (texte plus haut) – toujours non envoyés.
