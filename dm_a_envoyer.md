@@ -22,3 +22,17 @@ Hey Michelle! Your Replit reel was super clear, I love seeing non-devs ship real
 
 ## @susanvibecodes (Susan, 18K) – commentaire 08/11 sur son reel agents IA CTO.new
 Hey Susan! Your CTO.new agents reel was a fun watch, vibe coding is moving so fast. I run StoreScore: we audit online stores (49€) and build sites for small businesses that don't have one (290€). Want to be a partner? Your own code SUSAN20, 20€ per audit and 50€ per site sold, paid monthly, free, no commitment (just #ad). Or a free audit/site in exchange for a Reel. Curious?
+
+
+---
+# Passage 08/11 ~19h40 (manuel)
+Envoyés et visibles : @anazov4, @aibymollie (+ réponses à @lyess_3d).
+Envoyés mais fil vide après rechargement (à vérifier, peut-être non délivrés) : @selinasharess, @rroomfies, @mishearns, @susanvibecodes.
+Non délivré : @heidii.mp4 (« ce compte ne peut pas recevoir vos messages »).
+Bloqués par l'outil au moment d'appuyer sur Entrée (boutiques) :
+
+## @jun.cosmetiques (déjà tapé dans la conversation, il reste à appuyer sur Entrée)
+Bonjour l'équipe JU&N ! J'adore vos bougies moulées de Noël, le Nain Ski avec son bonnet tricoté est trop mignon, et vos highlights « Avis » rassurent vraiment. Petite idée en regardant le site : vos nouveautés de Noël (Sapin, Maison-Sapin, Nain Ski…) n'ont qu'une seule photo chacune. Une photo allumée + une en main pour montrer la taille aiderait beaucoup à se décider pour un cadeau. Je peux vous faire la note complète de votre boutique sur 100, gratuitement, ça vous dit ?
+
+## @joyojewelry (Justine)
+Coucou Justine ! Tes bijoux en pierres brutes sont magnifiques, et l'idée des pendentifs de naissance personnalisables est top pour Noël. Deux petites choses vues sur ton site : sur l'accueil il y a une coquille (« Agate moussse »), et la fiche du Coffret de Noël « La Parure » à 89,90 € a une description très courte pour un cadeau à ce prix (ce qu'il contient, l'écrin, le délai avant Noël). Je peux te faire la note complète de ta boutique sur 100, gratuitement, tu veux ?
