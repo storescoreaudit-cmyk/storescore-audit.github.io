@@ -50,3 +50,24 @@ Hello Léa ! Ton vlog « budget illimité pour ma sœur » était trop mignon, e
 Hello Alexa ! J'adore ton mélange mode + « cool boy-mom », la veste Pull&Bear pour l'automne est top. Je gère StoreScore : on audite les boutiques en ligne (note sur 100 + ce qui bloque les ventes, 49 €) et on crée des sites pour les petits commerces qui n'en ont pas (290 €). Je cherche quelques créatrices partenaires : ton code ALEXA20, 20 € par audit et 50 € par site vendus, payés chaque mois, gratuit et sans engagement (#pub). Ou un audit/site offert contre un Reel si tu préfères. Ça te tente ?
 
 Boutiques du passage : @jun.cosmetiques (déjà tapé) et @joyojewelry (texte plus haut) – toujours non envoyés.
+
+
+---
+# Passage 09/11 ~12h20-12h45 (Paris) – envoi bloqué par l'outil à partir de 12h45
+Envoyés et vérifiés : @makingmoneywithmads, @sabrina.fc.digital.nomade (créateurs) ; bienvenue @thearsal11 (a répondu « pas intéressé ») et @markivo.digital ; réponses @iso.formation et Kings Excel.
+Non délivré : @_brittanybowen_ (le message disparaît après rechargement, 2 essais).
+Bloqués par l'outil (classifieur « Real-World Transactions ») au moment d'envoyer, rien tapé. À coller tels quels :
+
+## @alexalzzr (Alexa, 4,7K)
+Hello Alexa ! Ton « Sunday wellness » avec rhode est trop doux 🫧 et j'adore ton mélange mode + vie de maman. Je gère StoreScore : on audite les boutiques en ligne (note sur 100 + ce qui bloque les ventes, 49 €) et on crée des sites pour les petits commerces qui n'en ont pas (290 €). Je cherche quelques créatrices partenaires : ton code ALEXA20, 20 € par audit et 50 € par site vendus, payés chaque mois, gratuit et sans engagement (#pub). Ou un audit/site offert contre un Reel si tu préfères. Ça te tente ?
+
+## @johannapld_ (Johanna, 31K)
+Hello Johanna ! Ton reel « Soyez égoïste » de ce matin est un vrai rappel, surtout pour les mamans qui se lancent. Ton audience, ce sont des e-commerçants, et chez StoreScore on audite leurs boutiques (note sur 100 + ce qui bloque les ventes, 49 €) et on crée des sites pour ceux qui n'en ont pas (290 €). Partenariat simple : ton code JOHANNA20, 20 € par audit et 50 € par site vendus, payés chaque mois, gratuit et sans engagement (#pub). Je peux aussi auditer gratuitement la boutique d'un de tes élèves pour que tu voies le rapport. Ça te tente ?
+
+## @tendanceclemence (Clémence, 24K) – code TENDANCE20 (CLEMENCE20 est déjà son code Elleme)
+Coucou Clémence ! Ton sac Elleme « Wine » format east-west est superbe 🍷 Tu travailles avec plein de marques : chez StoreScore, on audite les boutiques en ligne (note sur 100 + ce qui bloque les ventes, 49 €) et on crée des sites pour les commerces qui n'en ont pas (290 €). Je te propose un code perso TENDANCE20 : 20 € par audit et 50 € par site vendus, payés chaque mois, gratuit et sans engagement (#pub). Ou un audit/site offert contre un Reel si tu préfères. Ça te dit ?
+
+## @paulinepain_ (Pauline, 36K)
+Coucou Pauline ! Ton « outfit inspi for next week » avec le blazer et les bottes est parfait pour l'automne 🍂 Je gère StoreScore : on aide les petites boutiques en ligne (audit avec note sur 100, 49 €) et les commerces sans site (290 €). Partenariat simple : ton code PAULINE20, 20 € par audit et 50 € par site vendus, payés chaque mois, gratuit et sans engagement (#pub). Ou un audit/site offert contre un Reel si tu préfères. Je t'en dis plus ?
+
+Boutiques : @joyojewelry (texte plus haut, toujours non envoyé) + @lerivage_paris à préparer.
