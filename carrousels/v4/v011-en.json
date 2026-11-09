@@ -1,0 +1,270 @@
+{
+ "lang": "en",
+ "slides": [
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "📖 True story",
+   "cards": [
+    [
+     "photos/lib/sneaker-nike-rouge.jpg",
+     60,
+     180,
+     560,
+     400,
+     -6,
+     "",
+     "60% 50%"
+    ],
+    [
+     "photos/lib/croquis-crayon.jpg",
+     530,
+     300,
+     480,
+     330,
+     6,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "💸",
+     840,
+     140,
+     170,
+     14
+    ],
+    [
+     "✏️",
+     40,
+     560,
+     140,
+     -16
+    ],
+    [
+     "👟",
+     870,
+     600,
+     140,
+     10
+    ],
+    [
+     "🤯",
+     420,
+     580,
+     120,
+     -8
+    ]
+   ],
+   "title": "The *Nike* logo\ncost $35.",
+   "fs": 124,
+   "ty": 740,
+   "sub": "And the founder didn't\neven love it 👇",
+   "sy": 1080
+  },
+  {
+   "type": "text",
+   "theme": "dark",
+   "tag": "01 · 1971",
+   "num": "1971",
+   "title": "Phil Knight teaches\n*accounting* at\nPortland State 📚",
+   "fs": 84,
+   "ty": 440,
+   "sub": "On the side, he runs a tiny\nshoe company: Blue Ribbon Sports.",
+   "sy": 860,
+   "emoji": [
+    [
+     "👨‍🏫",
+     820,
+     1060,
+     150,
+     10
+    ]
+   ],
+   "lh": 1.1
+  },
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "02 · The ask",
+   "cards": [
+    [
+     "photos/lib/croquis-bureau.jpg",
+     600,
+     830,
+     400,
+     400,
+     6,
+     "",
+     "50% 60%"
+    ]
+   ],
+   "title": "He overhears a\ndesign student:\n*Carolyn Davidson*",
+   "fs": 88,
+   "ty": 250,
+   "sub": "“I'd like for you to\nwork on a shoe stripe.”\n— Phil Knight",
+   "sy": 700,
+   "emoji": [
+    [
+     "🎨",
+     80,
+     1080,
+     140,
+     -12
+    ]
+   ],
+   "lh": 1.1
+  },
+  {
+   "type": "text",
+   "theme": "green",
+   "tag": "03 · The invoice",
+   "num": "$35",
+   "title": "Her fee.\n*Total.*",
+   "fs": 110,
+   "ty": 430,
+   "sub": "“I had no idea how much\nto charge him for my work.”\n— Carolyn Davidson (ESPN)",
+   "sy": 800,
+   "emoji": [
+    [
+     "🧾",
+     820,
+     250,
+     160,
+     12
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "theme": "dark",
+   "tag": "04 · The reaction",
+   "cards": [
+    [
+     "photos/lib/sneaker-nike-blanc.jpg",
+     560,
+     880,
+     440,
+     330,
+     -5,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "title": "5 designs.\nThey pick the\n*swoosh*.",
+   "fs": 96,
+   "ty": 250,
+   "sub": "“Well, I don't love it,\nbut maybe it will\ngrow on me.” — Knight",
+   "sy": 700,
+   "emoji": [
+    [
+     "😐",
+     90,
+     1070,
+     150,
+     -10
+    ]
+   ],
+   "lh": 1.1
+  },
+  {
+   "type": "quote",
+   "theme": "light",
+   "tag": "💬 Quote",
+   "title": "If they didn't have the *savvy*, it would have been just another drawing.",
+   "fs": 74,
+   "ty": 380,
+   "tr": 80,
+   "sy": 900,
+   "author": "Carolyn Davidson, designer of\nthe swoosh (ESPN, 2016)",
+   "emoji": [
+    [
+     "✍️",
+     840,
+     1100,
+     140,
+     10
+    ]
+   ],
+   "noswipe": true
+  },
+  {
+   "type": "text",
+   "theme": "dark",
+   "tag": "05 · Today",
+   "num": "$46.4B",
+   "title": "Nike's revenue\nin fiscal *2026* 💰",
+   "fs": 84,
+   "ty": 440,
+   "sub": "In 1983, Nike thanked her:\na gold swoosh ring with a diamond\n+ 500 shares of stock 💍",
+   "sy": 760,
+   "cards": [
+    [
+     "photos/lib/sneaker-nike-noire.jpg",
+     660,
+     960,
+     300,
+     220,
+     7,
+     "",
+     "50% 55%"
+    ]
+   ],
+   "lh": 1.1
+  },
+  {
+   "type": "text",
+   "theme": "green",
+   "tag": "💡 The lesson",
+   "title": "Your logo won't\nbuild your *brand*.\nWhat you do\nwith it will.",
+   "fs": 90,
+   "ty": 250,
+   "sub": "✅ Launch with “good enough”\n✅ Invest in product pages & photos\n✅ Show up the same way for years",
+   "sy": 800,
+   "emoji": [
+    [
+     "🧠",
+     840,
+     1100,
+     140,
+     12
+    ]
+   ],
+   "lh": 1.1
+  },
+  {
+   "type": "cta",
+   "theme": "dark",
+   "tag": "StoreScore",
+   "title": "Does your store\nlook as *good* as\nyour product? 👀",
+   "fs": 84,
+   "ty": 250,
+   "sub": "Shopify audit\nfrom €49\nLink in bio 🔗\n\nSave this post 🔖",
+   "sy": 640,
+   "tr": 420,
+   "cards": [
+    [
+     "photos/lib/sneaker-nike-vert.jpg",
+     600,
+     920,
+     400,
+     320,
+     5,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "✨",
+     860,
+     560,
+     140,
+     14
+    ]
+   ],
+   "lh": 1.1
+  }
+ ]
+}

@@ -2,7 +2,7 @@
 """StoreScore carrousels v4 — 1080x1350, détourage, emojis Apple, grain, style "magazine actu".
 Usage: python3 tools/v4.py spec.json outdir
 Slide types: cover | text | photo | split | quote | cta | min | grid
-font:"serif" (citation-portrait) ; cards:[[img,x,y,w,h,rot,(css),(objpos)],...] collage ; style:"min" (par slide) = minimaliste sans grain ; min: huge/hy/hs/hc ; grid: cells[4], cols[2], rows[2] ; photo: pos, mag, huge
+font:"serif" (citation-portrait) ; lh: interligne du titre (slides text, ex. 1.12) ; cards:[[img,x,y,w,h,rot,(css),(objpos)],...] collage ; style:"min" (par slide) = minimaliste sans grain ; min: huge/hy/hs/hc ; grid: cells[4], cols[2], rows[2] ; photo: pos, mag, huge
 Champs: title (avec *mot* = surligné), sub, emoji (liste), cutout (photos/cutouts/x.png), photo (photos/lib/x.jpg), bigword, num, tag, theme(dark|light|green)
 Emojis: tout emoji unicode dans un texte est rendu en emoji Apple.
 """
@@ -123,7 +123,7 @@ def slide(s, i, n, lang):
         if s.get("sub"): h += f'<div class="sub" style="top:{s.get("sy",800)}px;right:{s.get("tr",480)}px;font-size:36px">{rich(s["sub"])}</div>'
     elif t == "text":
         if s.get("num"): h += f'<div class="num" style="position:absolute;left:64px;top:190px;z-index:5">{s["num"]}</div>'
-        h += f'<div class="title" style="top:{s.get("ty",470)}px;font-size:{s.get("fs",84)}px">{rich(s["title"])}</div>'
+        h += f'<div class="title" style="top:{s.get("ty",470)}px;font-size:{s.get("fs",84)}px;{("line-height:"+str(s["lh"])) if s.get("lh") else ""}">{rich(s["title"])}</div>'
         if s.get("sub"): h += f'<div class="sub" style="top:{s.get("sy",900)}px">{rich(s["sub"])}</div>'
     elif t == "quote":
         if s.get("cutout"):
