@@ -1,0 +1,132 @@
+{
+"lang": "en",
+"slides": [
+{
+"type": "photo",
+"theme": "dark",
+"tag": "🎁 Holiday 2026",
+"photo": "photos/lib/shopping.jpg",
+"pos": "50% 30%",
+"fh": 70,
+"mag": "The trillion issue",
+"huge": "$1T",
+"hb": 560,
+"hs": 250,
+"title": "The first *trillion-dollar*\nholiday season is coming.",
+"fs": 76,
+"ty": 300,
+"sub": "But there's a catch 👇"
+},
+{
+"type": "min",
+"style": "min",
+"theme": "light",
+"tag": "NRF forecast · Oct 15",
+"huge": "$1.013T",
+"hy": 240,
+"hs": 230,
+"hc": "#12a35c",
+"title": "US holiday sales,\nNov 1 → Dec 31.\n*+4.2%* vs 2025.",
+"ty": 560,
+"fs": 80,
+"sub": "First time ever above\n$1 trillion. 🇺🇸",
+"sy": 960
+},
+{
+"type": "photo",
+"theme": "dark",
+"tag": "The catch",
+"photo": "photos/lib/coffret-boss.jpg",
+"pos": "center",
+"fh": 72,
+"huge": "+3.4%",
+"hb": 560,
+"hs": 230,
+"title": "Prices of holiday gifts\nare *going up* too.",
+"fs": 76,
+"ty": 320,
+"sub": "Source: Visa (Nov 5)"
+},
+{
+"type": "min",
+"style": "min",
+"theme": "dark",
+"tag": "Adjusted for inflation",
+"huge": "+1.1%",
+"hy": 240,
+"hs": 280,
+"hc": "#2fe38a",
+"title": "That's how much *more*\nshoppers will really buy.",
+"ty": 620,
+"fs": 80,
+"sub": "Bigger receipts.\nNot much more stuff. 🧾",
+"sy": 900
+},
+{
+"type": "photo",
+"theme": "dark",
+"tag": "Trading down",
+"photo": "photos/lib/homme-telephone.jpg",
+"pos": "55% center",
+"fh": 72,
+"huge": "1 in 3",
+"hb": 560,
+"hs": 230,
+"title": "shoppers earning <$100K\nwill switch to *cheaper*\nbrands or stores.",
+"fs": 70,
+"ty": 300,
+"sub": "Source: Visa (Nov 5)"
+},
+{
+"type": "quote",
+"theme": "light",
+"tag": "💬 Quote",
+"title": "Consumers are still spending, but they're making *deliberate choices* about where their holiday dollars go.",
+"tr": 90,
+"ty": 380,
+"fs": 70,
+"sy": 900,
+"author": "Michael Brown,\nprincipal US economist at Visa",
+"card": [
+"photos/lib/boucles-or.jpg",
+620,
+1060,
+380,
+230,
+4
+],
+"noswipe": true
+},
+{
+"type": "text",
+"theme": "dark",
+"tag": "💡 What it means for you",
+"title": "Shoppers will\n*compare* harder.\nWin the 3 seconds:",
+"fs": 80,
+"ty": 230,
+"sub": "1️⃣ Price + shipping, crystal clear\n\n2️⃣ Bundles that feel like a deal\n\n3️⃣ Reviews next to \"Add to cart\"",
+"sy": 620
+},
+{
+"type": "cta",
+"theme": "green",
+"tag": "StoreScore",
+"title": "Make every\nvisit *count* 🎯",
+"fs": 96,
+"ty": 250,
+"sub": "Shopify audit\nfrom €49\nLink in bio 🔗\n\nSave this post 🔖",
+"sy": 620,
+"tr": 420,
+"cards": [
+[
+"photos/lib/laptop-dashboard.jpg",
+560,
+820,
+440,
+330,
+5
+]
+]
+}
+]
+}
