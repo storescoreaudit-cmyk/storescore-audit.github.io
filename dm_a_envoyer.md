@@ -133,3 +133,9 @@ Bonjour Laurence ! La collection Fall Winter 26 Avenue est magnifique, et 20 ans
 
 ### @maisonbaluchon
 Bonjour ! Le papier peint Graphique N°17 Marron est superbe, le brun en déco cet automne c'est tellement juste 🤎 En visitant maisonbaluchon.fr, je n'ai vu ni avis clients ni infos de livraison sur la page d'accueil, alors que c'est ce qui rassure le plus avant un achat déco. Je peux vous faire la note complète de votre boutique sur 100, gratuitement, vous voulez ?
+
+# Passage 09/11 ~19h50 (Paris)
+Compte vérifié : storescore.audit. Gmail : aucun rebond 5.7.1 sur 3 jours. Aucune nouvelle réponse (DM, demandes) ; tous les abonnés déjà contactés.
+- @tech.with.tori : DM tapé et envoyé (bulle bleue 19h52) mais DISPARU après rechargement → non délivré (même symptôme que @_brittanybowen_). À renvoyer à la main.
+- @itsjaayyde (2e DM) : refusé par l'outil (classifieur « Real-World Transactions ») avant même la saisie. Arrêt des envois.
+Tous les DM ci-dessus (17 créateurs + 5 boutiques) restent à coller à la main depuis le compte storescore.audit.
