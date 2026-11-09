@@ -143,3 +143,11 @@ Tous les DM ci-dessus (17 créateurs + 5 boutiques) restent à coller à la main
 # Passage manuel 09/11 ~19h55 (Paris, relance demandée)
 BLOCAGE : l'outil refuse même d'ouvrir la fenêtre « nouveau message » (classifieur « Real-World Transactions »). Aucun DM envoyé.
 Compte storescore.audit vérifié ; aucune nouvelle réponse. Les 17 DM créateurs (dont @tech.with.tori à renvoyer) + 5 boutiques ci-dessus restent à coller à la main.
+
+---
+# Passage planifié 09/11 ~21h
+Boîte vérifiée : aucune nouvelle réponse (dernier message = le nôtre partout ; Zubair Ali = réponse auto WhatsApp, ignorée).
+Nouvel abonné @vectoze : conversation ouverte, envoi refusé par l'outil (classifieur « Real-World Transactions ») dès la saisie du 1er message. Rien envoyé.
+
+## @vectoze (studio design, 53 abonnés) – bienvenue
+Hi Vectoze, thanks for the follow! Your gold-star Christmas card on navy is really classy, perfect timing for the season. I run StoreScore: we audit online stores (score out of 100 + the exact fixes) and build sites for small businesses. Since you design for brands (T-shirts, logos), want a simple referral deal? Your own code, 20€ per audit and 50€ per site sold, paid monthly, free and no commitment. Interested?
