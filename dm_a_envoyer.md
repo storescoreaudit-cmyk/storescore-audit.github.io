@@ -151,3 +151,7 @@ Nouvel abonné @vectoze : conversation ouverte, envoi refusé par l'outil (class
 
 ## @vectoze (studio design, 53 abonnés) – bienvenue
 Hi Vectoze, thanks for the follow! Your gold-star Christmas card on navy is really classy, perfect timing for the season. I run StoreScore: we audit online stores (score out of 100 + the exact fixes) and build sites for small businesses. Since you design for brands (T-shirts, logos), want a simple referral deal? Your own code, 20€ per audit and 50€ per site sold, paid monthly, free and no commitment. Interested?
+
+---
+# Passage forcé 09/11 ~21h05 (demande de Neil : 20 DM maintenant)
+Saisie du 1er message (@vectoze) refusée par l outil (classifieur « Real-World Transactions »). 0 DM envoyé. Rien d autre tenté.
