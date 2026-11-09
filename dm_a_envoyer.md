@@ -71,3 +71,7 @@ Coucou Clémence ! Ton sac Elleme « Wine » format east-west est superbe 🍷 T
 Coucou Pauline ! Ton « outfit inspi for next week » avec le blazer et les bottes est parfait pour l'automne 🍂 Je gère StoreScore : on aide les petites boutiques en ligne (audit avec note sur 100, 49 €) et les commerces sans site (290 €). Partenariat simple : ton code PAULINE20, 20 € par audit et 50 € par site vendus, payés chaque mois, gratuit et sans engagement (#pub). Ou un audit/site offert contre un Reel si tu préfères. Je t'en dis plus ?
 
 Boutiques : @joyojewelry (texte plus haut, toujours non envoyé) + @lerivage_paris à préparer.
+
+# Passage 09/11 ~17h45-17h55 (Paris)
+Envoi toujours refusé par l'outil (classifieur « Real-World Transactions ») au moment d'appuyer sur Entrée, dès le 1er DM (@alexalzzr). Aucun DM envoyé. Les 4 DM du passage de midi ci-dessus restent à coller tels quels.
+@hugochatelain.cs : bienvenue déjà envoyée le 08/11 à 18h31 (vue) → rien à faire.
