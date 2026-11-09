@@ -1,0 +1,243 @@
+{
+"lang": "fr",
+"slides": [
+{
+"type": "text",
+"theme": "light",
+"tag": "🤖 Exclu tech",
+"cards": [
+[
+"photos/lib/laptop-dashboard.jpg",
+70,
+190,
+560,
+400,
+-6,
+"",
+"50% 40%"
+],
+[
+"photos/lib/homme-telephone.jpg",
+520,
+300,
+480,
+330,
+6,
+"",
+"60% 40%"
+]
+],
+"emoji": [
+[
+"🤖",
+830,
+150,
+170,
+14
+],
+[
+"📈",
+40,
+560,
+140,
+-16
+],
+[
+"🛍️",
+880,
+600,
+130,
+10
+],
+[
+"🔎",
+420,
+570,
+120,
+-8
+]
+],
+"title": "ChatGPT va te dire\nsi *ta boutique*\nexiste. 👀",
+"fs": 96,
+"ty": 760,
+"sub": "Un « tableau de bord »\npour les marques se prépare 👇",
+"sy": 1100
+},
+{
+"type": "text",
+"theme": "dark",
+"tag": "Le contexte",
+"num": "900 M",
+"title": "d'utilisateurs\n*chaque semaine*\nsur ChatGPT 🌍",
+"fs": 84,
+"ty": 440,
+"sub": "(OpenAI, février 2026)\nEt beaucoup lui demandent\ndéjà : « j’achète quoi ? »",
+"sy": 820,
+"emoji": [
+[
+"🤯",
+820,
+1080,
+150,
+12
+]
+]
+},
+{
+"type": "text",
+"theme": "light",
+"tag": "🔎 La découverte",
+"title": "Une bannière\nrepérée :\n*« Claim your*\n*business in*\n*ChatGPT »*",
+"fs": 88,
+"ty": 260,
+"sub": "Vue par l'analyste e-commerce\nJuozas Kaziukėnas.\nOpenAI n'a encore rien annoncé.",
+"sy": 900,
+"emoji": [
+[
+"📣",
+820,
+240,
+150,
+12
+]
+]
+},
+{
+"type": "text",
+"theme": "green",
+"tag": "📊 Ce que ça montre",
+"title": "Combien de fois\ntu apparais dans\nles *réponses*.\n\nCombien de *clics*\nvers ton site.",
+"fs": 80,
+"ty": 260,
+"sub": "Jour par jour, en graphique.",
+"sy": 830,
+"cards": [
+[
+"photos/lib/laptop-dashboard.jpg",
+640,
+990,
+340,
+230,
+6
+]
+],
+"emoji": [
+[
+"👆",
+80,
+1080,
+130,
+-12
+]
+]
+},
+{
+"type": "text",
+"theme": "dark",
+"tag": "Et aussi",
+"title": "Mettre à jour\ntes *produits* 🛍️\n\nUn *agent* qui répond\nà tes clients 💬",
+"fs": 82,
+"ty": 260,
+"sub": "Réservé aux entreprises vérifiées.\nExemple : en connectant\nta boutique Shopify.",
+"sy": 860,
+"emoji": [
+[
+"✅",
+840,
+1050,
+140,
+10
+]
+]
+},
+{
+"type": "text",
+"theme": "light",
+"tag": "⚠️ Ce qui manque",
+"title": "Pas les *questions*\ntapées par les gens.\n\nPas tes *concurrents*.",
+"fs": 84,
+"ty": 320,
+"sub": "Tu sauras SI tu es visible.\nPas POURQUOI.",
+"sy": 820,
+"emoji": [
+[
+"🤷",
+820,
+1040,
+170,
+-10
+]
+]
+},
+{
+"type": "quote",
+"theme": "dark",
+"tag": "💬 Citation",
+"title": "Ça n'aidera pas à comprendre *pourquoi* les mentions et les clics augmentent ou baissent.",
+"fs": 70,
+"ty": 380,
+"tr": 80,
+"sy": 920,
+"author": "Juozas Kaziukėnas, analyste\ne-commerce (LinkedIn, traduit)",
+"emoji": [
+[
+"🧐",
+840,
+1110,
+140,
+10
+]
+],
+"noswipe": true
+},
+{
+"type": "text",
+"theme": "green",
+"tag": "💡 La leçon",
+"title": "Le *pourquoi*,\nc'est ta boutique.",
+"fs": 96,
+"ty": 250,
+"sub": "Fiches produits claires.\nPrix, livraison, retours visibles.\nDes avis. Une FAQ.\n\nL'IA lit tout ça\navant tes clients. 🤖",
+"sy": 540,
+"emoji": [
+[
+"🧠",
+820,
+1090,
+150,
+12
+]
+]
+},
+{
+"type": "cta",
+"theme": "dark",
+"tag": "StoreScore",
+"title": "Ta boutique est-elle\n*lisible* par l'IA ? 🤖",
+"fs": 84,
+"ty": 250,
+"sub": "Audit Shopify\ndès 49 €\nLien en bio 🔗\n\nEnregistre ce post 🔖",
+"sy": 600,
+"tr": 420,
+"cards": [
+[
+"photos/lib/imac-bureau.jpg",
+580,
+960,
+420,
+280,
+5
+]
+],
+"emoji": [
+[
+"✨",
+860,
+520,
+140,
+14
+]
+]
+}
+]
+}

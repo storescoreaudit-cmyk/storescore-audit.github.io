@@ -1,0 +1,127 @@
+{
+"lang": "en",
+"slides": [
+{
+"type": "cover",
+"theme": "dark",
+"font": "serif",
+"tag": "📺 True story",
+"bigword": "DEMOTED",
+"bigy": 150,
+"cutout": "photos/cutouts/oprah-buste.png",
+"cuth": 720,
+"cutpos": "left:-70px;top:120px;bottom:auto",
+"title": "At 23, *Oprah*\nwas pulled off\nthe evening news.",
+"fs": 92,
+"ty": 250,
+"sub": "Best thing that happened to her 👇"
+},
+{
+"type": "text",
+"theme": "light",
+"font": "serif",
+"tag": "Baltimore, 1976",
+"num": "22",
+"title": "years old. Co-anchor\nof the *6 o'clock news*\non WJZ-TV. 📺",
+"fs": 80,
+"ty": 440,
+"sub": "Her debut: August 16, 1976.\nA dream job for a young reporter.",
+"sy": 800
+},
+{
+"type": "text",
+"theme": "dark",
+"font": "serif",
+"tag": "April 1, 1977",
+"title": "Less than\n*8 months* later,\nshe's moved off\nthe evening news.",
+"fs": 90,
+"ty": 250,
+"sub": "Sent to morning cut-ins.\n\n“I knew it was a horrible\ndemotion,” she said.\n“I was devastated.”",
+"sy": 760
+},
+{
+"type": "text",
+"theme": "light",
+"font": "serif",
+"tag": "August 14, 1978",
+"title": "The station gives her\na local *talk show*:\n“People Are Talking.” 🎙️",
+"fs": 80,
+"ty": 300,
+"sub": "Less reading the news.\nMore talking with real people.\n\nThat's where she shines.",
+"sy": 700
+},
+{
+"type": "text",
+"theme": "dark",
+"font": "serif",
+"tag": "Chicago, 1984",
+"title": "Hired to host a\n*low-rated* morning\nshow: A.M. Chicago.",
+"fs": 86,
+"ty": 300,
+"sub": "She quickly makes it a\nratings winner, beating\nPhil Donahue's show.",
+"sy": 760
+},
+{
+"type": "text",
+"theme": "green",
+"font": "serif",
+"tag": "Sept 8, 1986 → 2011",
+"num": "46M",
+"title": "weekly U.S. viewers\nby 2008, in *134 countries*. 🌍",
+"fs": 76,
+"ty": 440,
+"sub": "The Oprah Winfrey Show\nwent national in 1986\nand ran until May 2011.",
+"sy": 760
+},
+{
+"type": "quote",
+"theme": "light",
+"tag": "💬 Quote",
+"title": "There is no such thing as *failure*. Failure is just life trying to move us in another direction.",
+"fs": 70,
+"ty": 380,
+"tr": 80,
+"sy": 820,
+"author": "Oprah Winfrey, Harvard\nCommencement Speech (2013)",
+"noswipe": true,
+"cards": [
+[
+"photos/lib/oprah.jpg",
+590,
+950,
+420,
+330,
+4,
+"",
+"50% 22%"
+]
+]
+},
+{
+"type": "text",
+"theme": "dark",
+"font": "serif",
+"tag": "💡 The lesson for your store",
+"title": "The demotion\nwas the *direction*.",
+"fs": 96,
+"ty": 260,
+"sub": "Your worst product page.\nYour abandoned carts.\nYour visitors who bounce.\n\nNot a verdict. A signal.\nWhere are customers\npushing you?",
+"sy": 560
+},
+{
+"type": "cta",
+"theme": "green",
+"font": "serif",
+"tag": "StoreScore",
+"title": "Let your data\nshow you the\n*direction* 🧭",
+"fs": 92,
+"ty": 200,
+"sub": "Shopify audit from €49\nLink in bio 🔗\n\nSave this post 🔖",
+"sy": 580,
+"tr": 420,
+"cutout": "photos/cutouts/oprah-buste.png",
+"cuth": 460,
+"cutpos": "right:-110px"
+}
+]
+}
