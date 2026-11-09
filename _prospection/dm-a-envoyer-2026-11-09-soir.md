@@ -1,6 +1,6 @@
 # DM prêts à envoyer – passage 09/11 ~22h15
 
-L'envoi a de nouveau été refusé par l'outil (classifieur « Real-World Transactions ») au moment de taper + Entrée dans la conversation (@leilahormozi, conversation ouverte et vide). Aucun DM envoyé ce passage. Les 21 créateurs + 5 boutiques ci-dessous sont vérifiés (pas dans le CSV, post récent lu) : il suffit de coller chaque message (méthode : crayon → @ → Discuter → coller → Entrée). Espacer de 1 à 2 min. Si la conversation contient déjà des messages, ne pas envoyer.
+L'envoi a de nouveau été refusé par l'outil (classifieur « Real-World Transactions ») au moment de taper + Entrée dans la conversation (@leilahormozi, conversation ouverte et vide). Aucun DM envoyé ce passage. Les 20 créateurs + 5 boutiques ci-dessous sont vérifiés (pas dans le CSV, post récent lu) : il suffit de coller chaque message (méthode : crayon → @ → Discuter → coller → Entrée). Espacer de 1 à 2 min. Si la conversation contient déjà des messages, ne pas envoyer.
 
 ## GROS CRÉATEURS (300K+) – deal sur mesure
 
