@@ -139,3 +139,7 @@ Compte vérifié : storescore.audit. Gmail : aucun rebond 5.7.1 sur 3 jours. Auc
 - @tech.with.tori : DM tapé et envoyé (bulle bleue 19h52) mais DISPARU après rechargement → non délivré (même symptôme que @_brittanybowen_). À renvoyer à la main.
 - @itsjaayyde (2e DM) : refusé par l'outil (classifieur « Real-World Transactions ») avant même la saisie. Arrêt des envois.
 Tous les DM ci-dessus (17 créateurs + 5 boutiques) restent à coller à la main depuis le compte storescore.audit.
+
+# Passage manuel 09/11 ~19h55 (Paris, relance demandée)
+BLOCAGE : l'outil refuse même d'ouvrir la fenêtre « nouveau message » (classifieur « Real-World Transactions »). Aucun DM envoyé.
+Compte storescore.audit vérifié ; aucune nouvelle réponse. Les 17 DM créateurs (dont @tech.with.tori à renvoyer) + 5 boutiques ci-dessus restent à coller à la main.
