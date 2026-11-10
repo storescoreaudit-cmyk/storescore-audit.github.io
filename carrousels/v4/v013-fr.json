@@ -1,0 +1,288 @@
+{
+ "lang": "fr",
+ "slides": [
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "📦 Actu e-commerce",
+   "cards": [
+    [
+     "photos/lib/colis-pile-scotch.jpg",
+     60,
+     180,
+     560,
+     420,
+     -6,
+     "",
+     "50% 50%"
+    ],
+    [
+     "photos/lib/avion-cargo-fret.jpg",
+     520,
+     300,
+     500,
+     340,
+     6,
+     "",
+     "45% 60%"
+    ]
+   ],
+   "emoji": [
+    [
+     "📦",
+     850,
+     160,
+     160,
+     14
+    ],
+    [
+     "💸",
+     40,
+     560,
+     140,
+     -14
+    ],
+    [
+     "🇪🇺",
+     880,
+     600,
+     130,
+     10
+    ],
+    [
+     "✈️",
+     430,
+     580,
+     120,
+     -8
+    ]
+   ],
+   "title": "*5 €* de plus sur\nchaque colis Shein\net Temu. 😳",
+   "fs": 96,
+   "ty": 760,
+   "sub": "Et si c'était ta chance ?\nLa nouvelle règle UE 👇",
+   "sy": 1110
+  },
+  {
+   "type": "text",
+   "theme": "dark",
+   "tag": "Depuis le 1er novembre",
+   "num": "2 €",
+   "title": "de frais de traitement\nsur chaque commande\nvenue *hors de l'UE* 🌍",
+   "fs": 80,
+   "ty": 440,
+   "sub": "Quelle que soit sa valeur.\nMême pour un colis à 1 €.",
+   "sy": 820,
+   "emoji": [
+    [
+     "🧾",
+     820,
+     1040,
+     150,
+     12
+    ]
+   ],
+   "cards": [
+    [
+     "photos/lib/carton-emballage-bureau.jpg",
+     80,
+     980,
+     440,
+     290,
+     -5,
+     "",
+     "50% 50%"
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "➕ En plus",
+   "title": "Les *3 €* de droits\nde douane déjà en\nplace depuis juillet",
+   "fs": 84,
+   "ty": 240,
+   "sub": "Pour les colis de 150 € ou moins.\nTotal : 5 € par catégorie\nd'article. 💶",
+   "sy": 560,
+   "cards": [
+    [
+     "photos/lib/cartons-ouverts.jpg",
+     500,
+     880,
+     500,
+     330,
+     5
+    ]
+   ],
+   "emoji": [
+    [
+     "📦",
+     90,
+     960,
+     150,
+     -10
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "theme": "green",
+   "tag": "🧮 Exemple",
+   "title": "2 t-shirts\n= *5 €*\n\n1 t-shirt + 1 jouet\n= *10 €*",
+   "fs": 92,
+   "ty": 230,
+   "sub": "Ça se compte par catégorie,\npas par colis. Et ce n'est pas\nremboursé en cas de retour.",
+   "sy": 860,
+   "emoji": [
+    [
+     "👕",
+     800,
+     250,
+     150,
+     12
+    ],
+    [
+     "🧸",
+     820,
+     560,
+     150,
+     -10
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "theme": "dark",
+   "tag": "📉 L'effet",
+   "title": "Petits colis chinois\nen France :\n*-30 à -40 %*",
+   "fs": 84,
+   "ty": 240,
+   "sub": "De juin à juillet (douanes françaises) :\nTemu -50 % · AliExpress -37 %\nShein -15 %",
+   "sy": 600,
+   "cards": [
+    [
+     "photos/lib/avion-cargo-fret.jpg",
+     470,
+     880,
+     530,
+     340,
+     -5,
+     "",
+     "40% 60%"
+    ]
+   ],
+   "emoji": [
+    [
+     "📉",
+     80,
+     960,
+     150,
+     -12
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "🧠 La parade",
+   "title": "Shein a ouvert\nun *entrepôt*\nen Pologne 🇵🇱",
+   "fs": 88,
+   "ty": 240,
+   "sub": "Stock importé en gros, stocké\ndans l'UE → ni les 3 €, ni les 2 €.\nTemu s'y met aussi.",
+   "sy": 600,
+   "cards": [
+    [
+     "photos/lib/entrepot-allee.jpg",
+     560,
+     900,
+     420,
+     330,
+     6,
+     "",
+     "50% 55%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🏭",
+     100,
+     990,
+     150,
+     -8
+    ]
+   ]
+  },
+  {
+   "type": "quote",
+   "theme": "dark",
+   "tag": "💬 Citation",
+   "title": "Les consommateurs ne devraient pas être ceux qui *paient le prix* de la mise en conformité.",
+   "fs": 70,
+   "ty": 380,
+   "tr": 80,
+   "sy": 950,
+   "author": "Léa Auffret, BEUC (Bureau européen\ndes unions de consommateurs), Euronews",
+   "emoji": [
+    [
+     "🤔",
+     840,
+     1120,
+     140,
+     10
+    ]
+   ],
+   "noswipe": true
+  },
+  {
+   "type": "text",
+   "theme": "green",
+   "tag": "💡 La leçon",
+   "title": "Ton stock est\n*déjà* en France ?\nC'est ton argument.",
+   "fs": 88,
+   "ty": 240,
+   "sub": "« Expédié de France 🇫🇷 »\nsur ta fiche produit.\nDélai réel. Zéro frais surprise.\nRetours simples.",
+   "sy": 640,
+   "emoji": [
+    [
+     "🚚",
+     820,
+     1080,
+     150,
+     12
+    ]
+   ]
+  },
+  {
+   "type": "cta",
+   "theme": "dark",
+   "tag": "StoreScore",
+   "title": "Ta boutique\n*rassure*-t-elle\nassez ? 🛍️",
+   "fs": 88,
+   "ty": 250,
+   "sub": "Audit Shopify\ndès 49 €\nLien en bio 🔗\n\nEnregistre ce post 🔖",
+   "sy": 640,
+   "tr": 420,
+   "cards": [
+    [
+     "photos/lib/colis-remise-mains.jpg",
+     600,
+     900,
+     400,
+     320,
+     5,
+     "",
+     "50% 55%"
+    ]
+   ],
+   "emoji": [
+    [
+     "✨",
+     860,
+     560,
+     140,
+     14
+    ]
+   ]
+  }
+ ]
+}

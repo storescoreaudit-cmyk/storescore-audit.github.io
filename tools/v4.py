@@ -108,7 +108,7 @@ def slide(s, i, n, lang):
         h += f'<div class="gl" style="left:-60px;top:610px;transform:rotate(-90deg);width:300px;text-align:center">{rl[0]}</div><div class="gl" style="left:-60px;top:930px;transform:rotate(-90deg);width:300px;text-align:center">{rl[1]}</div>'
         if s.get("sub"): h += f'<div class="sub" style="top:{s.get("sy",1150)}px;font-size:36px;opacity:.7">{rich(s["sub"])}</div>'
     elif t == "photo":
-        h += f'<div class="photo" style="background-image:url({b64(s["photo"])});background-position:{s.get("pos","center")}"></div><div class="fade" style="height:{s.get("fh",75)}%"></div>'
+        h += f'<div class="photo" style="background-image:url({b64(s["photo"])});background-position:{s.get("pos","center")}"></div><div class="fade" style="height:{s.get("fh",75)}%"></div><div style="position:absolute;left:0;right:0;top:0;height:300px;z-index:4;background:linear-gradient(180deg,rgba(0,0,0,.55),rgba(0,0,0,0))"></div>'
         if s.get("mag"): h += f'<div class="mag" style="color:#fff">{rich(s["mag"])}</div>'
         if s.get("huge"): h += f'<div class="huge" style="bottom:{s.get("hb",520)}px;font-size:{s.get("hs",230)}px;color:#2fe38a">{rich(s["huge"])}</div>'
         h += f'<div class="title" style="bottom:{s.get("ty",330)}px;font-size:{s.get("fs",80)}px">{rich(s["title"])}</div>'

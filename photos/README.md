@@ -32,3 +32,18 @@ Format paysage : utiliser en fond plein écran recadré ou en carte (card) dans 
 - grand-magasin.jpg — Albert Stoynov / Unsplash (photo-1743228672550)
 - boutique-vetements.jpg — Clark Street Mercantile / Unsplash (photo-1441986300917)
 - jet-prive-interieur.jpg — Andy Wang / Unsplash (photo-1768346564233)
+
+## Ajout du 10 nov 2026 après-midi (Unsplash/Pexels — créditer « Photo : [auteur] / Unsplash, modifiée »)
+- colis-pile-scotch.jpg — Rohit Choudhari / Unsplash (photo-1766040923580)
+- avion-cargo-fret.jpg — Bernd Dittrich / Unsplash (photo-1663517334988)
+- entrepot-allee.jpg — Ruchindra Gunasekara / Unsplash (photo-1553413077)
+- entrepot-rayonnages.jpg — CHUTTERSNAP / Unsplash (photo-1587293852726)
+- cartons-ouverts.jpg — Luke Heibert / Unsplash (photo-1700165644892)
+- colis-remise-mains.jpg — RoseBox رز باکس / Unsplash (photo-1566576721346)
+- carton-emballage-bureau.jpg — Bench Accounting / Unsplash (photo-1449247666642)
+- produit-boucles-orange.jpg — Boglárka Salamon / Unsplash (photo-1708972789135)
+- photographe-studio-produit.jpg — Pexels (photo 1391786, photographe non indiqué)
+- nature-morte-pommes.jpg — Roberta Sorge / Unsplash (photo-1477830530828)
+- nature-morte-bouteilles.jpg — Don Ricardo / Unsplash (photo-1668066827088)
+- montre-argent-blanc.jpg — Mehmet Ali Turan / Unsplash (photo-1645961855223)
+- materiel-photo-flatlay.jpg — Aditya Kulkarni / Unsplash (photo-1604896169854) — logos Canon visibles

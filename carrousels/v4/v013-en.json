@@ -1,0 +1,148 @@
+{
+ "lang": "en",
+ "slides": [
+  {
+   "type": "photo",
+   "theme": "dark",
+   "tag": "📸 New study",
+   "photo": "photos/lib/produit-boucles-orange.jpg",
+   "pos": "center 100%",
+   "fh": 74,
+   "mag": "Baymard Institute · 2026",
+   "huge": "60%",
+   "hb": 590,
+   "hs": 230,
+   "title": "of shoppers trust you *less*\nwhen your product photo\nis made by AI.",
+   "ty": 330,
+   "fs": 70,
+   "sub": "Before you swap your photoshoot\nfor a prompt, read this 👇"
+  },
+  {
+   "type": "photo",
+   "theme": "dark",
+   "tag": "01 · The study",
+   "photo": "photos/lib/photographe-studio-produit.jpg",
+   "pos": "60% center",
+   "fh": 74,
+   "huge": "2,273",
+   "hb": 560,
+   "hs": 240,
+   "title": "US online shoppers\n*surveyed* by Baymard",
+   "ty": 340,
+   "fs": 76,
+   "sub": "Survey run in June by the UX\nresearch firm, published this month."
+  },
+  {
+   "type": "photo",
+   "theme": "dark",
+   "tag": "02 · The trust hit",
+   "photo": "photos/lib/nature-morte-pommes.jpg",
+   "pos": "center 40%",
+   "fh": 74,
+   "huge": "60%",
+   "hb": 610,
+   "hs": 260,
+   "title": "say an AI photo makes them\n*less confident* to buy",
+   "ty": 320,
+   "fs": 68,
+   "sub": "Not \"I can tell\". Just knowing it."
+  },
+  {
+   "type": "photo",
+   "theme": "dark",
+   "tag": "03 · The lost sale",
+   "photo": "photos/lib/montre-argent-blanc.jpg",
+   "pos": "center",
+   "fh": 78,
+   "huge": "17%",
+   "hb": 560,
+   "hs": 260,
+   "title": "wouldn't buy *at all* 🚫",
+   "ty": 380,
+   "fs": 80,
+   "sub": "Only 18% say AI images make\nno difference to them."
+  },
+  {
+   "type": "photo",
+   "theme": "dark",
+   "tag": "04 · The twist",
+   "photo": "photos/lib/homme-telephone.jpg",
+   "pos": "center",
+   "fh": 76,
+   "huge": "63%",
+   "hb": 560,
+   "hs": 260,
+   "title": "would rather ask a *chatbot*\nto compare features 🤖",
+   "ty": 340,
+   "fs": 70,
+   "sub": "And 59% to check stock.\nAI is welcome. Early in the journey."
+  },
+  {
+   "type": "photo",
+   "theme": "dark",
+   "tag": "05 · The limit",
+   "photo": "photos/lib/colis-remise-mains.jpg",
+   "pos": "center 55%",
+   "fh": 76,
+   "huge": "2 in 3",
+   "hb": 560,
+   "hs": 240,
+   "title": "want a *human* when\nan order goes wrong 🙋",
+   "ty": 340,
+   "fs": 72,
+   "sub": "Damaged or wrong item, late parcel,\nbilling mistake."
+  },
+  {
+   "type": "quote",
+   "theme": "dark",
+   "tag": "💬 Quote",
+   "title": "Lose money for the firm, and I will be understanding. Lose a shred of *reputation* for the firm, and I will be ruthless.",
+   "fs": 66,
+   "ty": 370,
+   "tr": 80,
+   "sy": 1010,
+   "author": "Warren Buffett, testifying\nto US Congress (Salomon, 1991)",
+   "noswipe": true,
+   "emoji": [
+    [
+     "🧐",
+     840,
+     1130,
+     140,
+     10
+    ]
+   ]
+  },
+  {
+   "type": "photo",
+   "theme": "dark",
+   "tag": "💡 The lesson",
+   "photo": "photos/lib/nature-morte-bouteilles.jpg",
+   "pos": "center",
+   "fh": 80,
+   "title": "Use AI to go *faster*.\nNever to fake\nyour product.",
+   "ty": 380,
+   "fs": 84,
+   "sub": "Real photos of the real thing.\nAI for answers. Humans for problems."
+  },
+  {
+   "type": "cta",
+   "theme": "green",
+   "tag": "StoreScore",
+   "title": "Do your product\npages build\n*trust*? 🛍️",
+   "ty": 230,
+   "fs": 88,
+   "sub": "Full Shopify audit\nfrom €49\nLink in bio 🔗\n\nSave this post 🔖",
+   "sy": 640,
+   "tr": 440,
+   "card": [
+    "photos/lib/produit-boucles-orange.jpg",
+    620,
+    880,
+    380,
+    330,
+    -5
+   ]
+  }
+ ]
+}
