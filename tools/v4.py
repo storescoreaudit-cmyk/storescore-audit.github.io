@@ -26,7 +26,7 @@ def emo_img(ch, size="1.05em"):
     return ch
 def rich(t):
     t = (t or "").replace("&", "&amp;").replace("<", "&lt;")
-    t = re.sub(r"\*(.+?)\*", r'<mark>\1</mark>', t)
+    t = re.sub(r"\*(.+?)\*", r'<mark>\1</mark>', t, flags=re.S)
     t = t.replace("\n", "<br>")
     return EMO_RE.sub(lambda m: emo_img(m.group(0)), t)
 

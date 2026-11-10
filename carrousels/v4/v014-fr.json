@@ -1,0 +1,143 @@
+{
+ "lang": "fr",
+ "slides": [
+  {
+   "type": "photo",
+   "theme": "dark",
+   "tag": "🚨 Ce soir",
+   "photo": "photos/lib/laptop-google-cafe.jpg",
+   "pos": "55% center",
+   "fh": 72,
+   "mag": "Google · 10 nov. 2026",
+   "title": "Google vient de\n*rebattre les cartes*\nde ton trafic.",
+   "ty": 300,
+   "fs": 92,
+   "sub": "À 17 jours du Black Friday.\nCe que ça change pour ta boutique 👇"
+  },
+  {
+   "type": "photo",
+   "theme": "dark",
+   "tag": "01 · L'annonce",
+   "photo": "photos/lib/google-neon.jpg",
+   "pos": "10% 30%",
+   "fh": 78,
+   "huge": "19h06",
+   "hb": 560,
+   "hs": 250,
+   "title": "Google lance sa\n*Core Update* de novembre",
+   "ty": 340,
+   "fs": 74,
+   "sub": "La 3e grosse mise à jour de 2026.\nToutes les langues, tous les pays."
+  },
+  {
+   "type": "photo",
+   "theme": "dark",
+   "tag": "02 · La durée",
+   "photo": "photos/lib/telephone-google-main.jpg",
+   "pos": "35% center",
+   "fh": 78,
+   "huge": "14 jours",
+   "hb": 560,
+   "hs": 240,
+   "title": "de déploiement.\nFin prévue *vers le 24 nov.*",
+   "ty": 340,
+   "fs": 74,
+   "sub": "Pendant ce temps, tes positions\npeuvent bouger tous les jours. 🎢"
+  },
+  {
+   "type": "photo",
+   "theme": "dark",
+   "tag": "03 · Le piège",
+   "photo": "photos/lib/google-logo-3d.jpg",
+   "pos": "50% center",
+   "fh": 80,
+   "huge": "1re",
+   "hb": 600,
+   "hs": 250,
+   "title": "depuis l'arrivée\nd'*AI Overviews* en France",
+   "ty": 360,
+   "fs": 72,
+   "sub": "Search Console mélange tout : tu perds\ndes clics à cause de Google… ou de l'IA ?"
+  },
+  {
+   "type": "photo",
+   "theme": "dark",
+   "tag": "04 · Le timing",
+   "photo": "photos/lib/shopping.jpg",
+   "pos": "center",
+   "fh": 78,
+   "huge": "27 nov.",
+   "hb": 560,
+   "hs": 240,
+   "title": "*Black Friday* tombe\njuste après. 🛍️",
+   "ty": 340,
+   "fs": 80,
+   "sub": "Ta semaine d'analyse = BF + Cyber Monday.\nCompare avec novembre 2025, pas octobre."
+  },
+  {
+   "type": "photo",
+   "theme": "dark",
+   "tag": "05 · La règle de Google",
+   "photo": "photos/lib/telephone-resultats-recherche.jpg",
+   "pos": "40% center",
+   "fh": 82,
+   "title": "2e → 4e :\npas de panique. 😌\n4e → 29e :\n*là, tu creuses.* 🔍",
+   "ty": 330,
+   "fs": 84,
+   "sub": "Et attends la fin du déploiement\n+ 1 semaine avant d'analyser."
+  },
+  {
+   "type": "quote",
+   "theme": "dark",
+   "style": "min",
+   "tag": "💬 Citation",
+   "title": "Le moteur de recherche parfait comprend *exactement* ce que tu veux dire et te renvoie exactement ce que tu veux.",
+   "fs": 70,
+   "ty": 380,
+   "tr": 80,
+   "sy": 1010,
+   "author": "Larry Page, cofondateur de Google\n(cité par Google, 2012)",
+   "noswipe": true,
+   "emoji": [
+    [
+     "🎯",
+     850,
+     1120,
+     140,
+     10
+    ]
+   ]
+  },
+  {
+   "type": "photo",
+   "theme": "dark",
+   "tag": "💡 La leçon",
+   "photo": "photos/lib/photographe-studio-produit.jpg",
+   "pos": "60% center",
+   "fh": 80,
+   "title": "Pas de rustine.\n*Améliore* tes pages.",
+   "ty": 360,
+   "fs": 88,
+   "sub": "Fiches utiles, vraies photos, vraies\nréponses : ce que Google ET l'IA aiment."
+  },
+  {
+   "type": "cta",
+   "theme": "green",
+   "tag": "StoreScore",
+   "title": "Ta boutique\nest-elle *prête*\npour Google ? 🔎",
+   "ty": 230,
+   "fs": 88,
+   "sub": "Audit Shopify\ndès 49 €\nLien en bio 🔗\n\nEnregistre ce post 🔖",
+   "sy": 640,
+   "tr": 440,
+   "card": [
+    "photos/lib/telephone-google-main.jpg",
+    620,
+    880,
+    380,
+    330,
+    -5
+   ]
+  }
+ ]
+}

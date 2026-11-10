@@ -1,0 +1,299 @@
+{
+ "lang": "en",
+ "slides": [
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "🍦 True story",
+   "cards": [
+    [
+     "photos/lib/glace-cornet-fraise-jaune.jpg",
+     70,
+     170,
+     460,
+     560,
+     -6,
+     "",
+     "50% 40%"
+    ],
+    [
+     "photos/lib/station-essence-vintage-nb.jpg",
+     500,
+     260,
+     520,
+     380,
+     6,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🎓",
+     860,
+     150,
+     150,
+     14
+    ],
+    [
+     "💸",
+     40,
+     640,
+     140,
+     -14
+    ],
+    [
+     "⛽",
+     880,
+     600,
+     130,
+     10
+    ],
+    [
+     "🍦",
+     560,
+     640,
+     120,
+     -8
+    ]
+   ],
+   "title": "They learned\nice cream from\na *$5* course. 🤯",
+   "fs": 96,
+   "ty": 790,
+   "sub": "Then sold the company for $326M 👇",
+   "sy": 1150
+  },
+  {
+   "type": "text",
+   "theme": "dark",
+   "tag": "01 · 1963",
+   "title": "Ben & Jerry meet\nin *7th-grade gym\nclass* on Long Island 🏃",
+   "fs": 78,
+   "ty": 200,
+   "sub": "Best friends. In their 20s,\nthey want a business together.\nPlan A: bagels 🥯. Too expensive.",
+   "sy": 520,
+   "cards": [
+    [
+     "photos/lib/glace-chocolat-cornet.jpg",
+     560,
+     800,
+     420,
+     360,
+     5,
+     "",
+     "50% 80%"
+    ]
+   ],
+   "emoji": [
+    [
+     "👬",
+     110,
+     900,
+     160,
+     -10
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "theme": "green",
+   "tag": "02 · The course",
+   "num": "$5",
+   "title": "for a Penn State\ncorrespondence course\non *ice cream making* 🎓",
+   "fs": 74,
+   "ty": 430,
+   "sub": "\"All the tests were open book,\nso we actually did pretty well.\"\n— Jerry Greenfield",
+   "sy": 790,
+   "cards": [
+    [
+     "photos/lib/cornets-glace-sprinkles.jpg",
+     640,
+     150,
+     360,
+     260,
+     7,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "📬",
+     820,
+     1100,
+     140,
+     -10
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "03 · The launch",
+   "num": "$12,000",
+   "title": "to start.\n*$4,000* of it\nfrom a bank loan 🏦",
+   "fs": 80,
+   "ty": 420,
+   "sub": "May 5, 1978: they open in a\nrenovated gas station in\nBurlington, Vermont.",
+   "sy": 830,
+   "cards": [
+    [
+     "photos/lib/pompe-essence-rouge.jpg",
+     660,
+     680,
+     340,
+     460,
+     6,
+     "",
+     "50% 60%"
+    ]
+   ],
+   "emoji": [
+    [
+     "⛽",
+     90,
+     1110,
+     130,
+     -10
+    ]
+   ]
+  },
+  {
+   "type": "quote",
+   "theme": "dark",
+   "style": "min",
+   "tag": "💬 Quote",
+   "title": "We thought the odds of us staying in business a year were *slim*.",
+   "fs": 80,
+   "ty": 400,
+   "tr": 80,
+   "sy": 980,
+   "author": "Ben Cohen, co-founder\n(Boston Phoenix, 2003)",
+   "noswipe": true,
+   "emoji": [
+    [
+     "😅",
+     840,
+     1120,
+     140,
+     10
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "theme": "green",
+   "tag": "04 · Year one 🎉",
+   "title": "Their thank-you:\n*free ice cream*\nfor everyone.",
+   "fs": 92,
+   "ty": 220,
+   "sub": "First Free Cone Day: 1979.\nStill a tradition today.\n1M+ scoops given away in 2015.",
+   "sy": 580,
+   "cards": [
+    [
+     "photos/lib/cornets-glace-trio.jpg",
+     520,
+     900,
+     480,
+     360,
+     -5,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🍦",
+     120,
+     1000,
+     160,
+     -12
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "theme": "dark",
+   "tag": "05 · The payoff",
+   "title": "1984: goes public.\n1987: *35 states*.\n2000: Unilever\nbuys it for *$326M* 💰",
+   "fs": 80,
+   "ty": 200,
+   "lh": 1.12,
+   "sub": "From a $5 course\nand a gas station.",
+   "sy": 700,
+   "cards": [
+    [
+     "photos/lib/glace-pistache-gaufre.jpg",
+     540,
+     860,
+     450,
+     360,
+     6,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🚀",
+     120,
+     980,
+     150,
+     -10
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "💡 The lesson",
+   "title": "You don't need to be\nan expert. You need\nto *start*, then give\npeople a reason\nto come back.",
+   "fs": 76,
+   "ty": 210,
+   "lh": 1.1,
+   "sub": "Before Black Friday: thank your\nfirst customers. A note, a gift,\na code. 🎁",
+   "sy": 760,
+   "emoji": [
+    [
+     "🔁",
+     840,
+     1000,
+     140,
+     10
+    ]
+   ]
+  },
+  {
+   "type": "cta",
+   "theme": "green",
+   "tag": "StoreScore",
+   "title": "Is your store\nworth *coming\nback* to? 🛍️",
+   "ty": 230,
+   "fs": 88,
+   "sub": "Full Shopify audit\nfrom €49\nLink in bio 🔗\n\nSave this post 🔖",
+   "sy": 640,
+   "tr": 440,
+   "cards": [
+    [
+     "photos/lib/glace-cornet-fraise-jaune.jpg",
+     640,
+     820,
+     360,
+     420,
+     -5,
+     "",
+     "50% 40%"
+    ]
+   ],
+   "emoji": [
+    [
+     "✨",
+     860,
+     560,
+     140,
+     14
+    ]
+   ]
+  }
+ ]
+}

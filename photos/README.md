@@ -47,3 +47,17 @@ Format paysage : utiliser en fond plein écran recadré ou en carte (card) dans 
 - nature-morte-bouteilles.jpg — Don Ricardo / Unsplash (photo-1668066827088)
 - montre-argent-blanc.jpg — Mehmet Ali Turan / Unsplash (photo-1645961855223)
 - materiel-photo-flatlay.jpg — Aditya Kulkarni / Unsplash (photo-1604896169854) — logos Canon visibles
+
+## Ajout du 10 nov 2026 soir (Unsplash, licence Unsplash — créditer « Photo : [auteur] / Unsplash, modifiée »)
+- glace-cornet-fraise-jaune.jpg — ian dooley / Unsplash (photo-1497034825429)
+- station-essence-vintage-nb.jpg — Jim Frey / Unsplash (photo-1665499965557)
+- pompe-essence-rouge.jpg — Lawrence Chismorie / Unsplash (photo-1680798790171)
+- cornets-glace-sprinkles.jpg — Courtney Cook / Unsplash (photo-1629385701021)
+- cornets-glace-trio.jpg — Courtney Cook / Unsplash (photo-1629385697093)
+- glace-pistache-gaufre.jpg — Crystal Stone / Unsplash (photo-1782861162217)
+- google-neon.jpg — Mitchell Luo / Unsplash (photo-1573804633927) (logo Google : usage éditorial/actu)
+- laptop-google-cafe.jpg — SumUp / Unsplash (photo-1726066012699)
+- telephone-google-main.jpg — Solen Feyissa / Unsplash (photo-1594663653925)
+- google-logo-3d.jpg — BoliviaInteligente / Unsplash (photo-1678483790053)
+- telephone-resultats-recherche.jpg — Edho Pratama / Unsplash (photo-1477013743164)
+- glace-chocolat-cornet.jpg — Irene Kredenets / Unsplash (photo-1562790879)
