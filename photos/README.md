@@ -24,3 +24,11 @@ Format paysage : utiliser en fond plein écran recadré ou en carte (card) dans 
 - croquis-bureau.jpg — Lesia and Serhii Artymovych / Unsplash (photo-1635183783375)
 - croquis-maquettes.jpg — Amélie Mourichon / Unsplash (photo-1576153192396)
 - piste-depart.jpg — Braden Collum / Unsplash (photo-1461896836934)
+
+## Ajout du 10 nov 2026 matin (Unsplash, licence Unsplash — créditer « Photo : [auteur] / Unsplash, modifiée »)
+- bureau-retro-ordinateur.jpg — Yuheng Ouyang / Unsplash (photo-1711346105258)
+- imprimante-bouton.jpg — Stanislav Staritsyn / Unsplash (photo-1721830834983)
+- ciseaux-tissu.jpg — SIL Group / Unsplash (photo-1718117059204) — écharpe Joshua Ellis
+- grand-magasin.jpg — Albert Stoynov / Unsplash (photo-1743228672550)
+- boutique-vetements.jpg — Clark Street Mercantile / Unsplash (photo-1441986300917)
+- jet-prive-interieur.jpg — Andy Wang / Unsplash (photo-1768346564233)
