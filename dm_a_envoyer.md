@@ -155,3 +155,19 @@ Hi Vectoze, thanks for the follow! Your gold-star Christmas card on navy is real
 ---
 # Passage forcé 09/11 ~21h05 (demande de Neil : 20 DM maintenant)
 Saisie du 1er message (@vectoze) refusée par l outil (classifieur « Real-World Transactions »). 0 DM envoyé. Rien d autre tenté.
+
+---
+# Passage planifié 11/11 (réponses DM bloquées par l'API « outside of allowed window »)
+
+## @growmew (prospect partenaire, demande un exemple avant de promouvoir) – PRIORITAIRE
+Totally fair, I'd want the same before promoting anything. Send me the link of any store you like (yours, a follower's, a random Shopify one) and within 24h I'll send you its score out of 100 + its 3 biggest problems: that's exactly how a full report starts. The full report then checks every page and writes out each fix step by step, delivered in 24h, and it's refunded if it finds fewer than 5 useful fixes.
+
+Terms, kept simple: your code GROWMEW20 = €20 per audit and €50 per website sold with it. Clients type the code at Stripe checkout so every sale is tracked; at the start of each month I send you the total and pay you by bank transfer. Only rules: #ad on your posts, and no income promises to your audience.
+
+Which store should I run? 🙂
+
+## @nexorahai (réponse auto de leur bot, 1 phrase)
+Thanks! No rush at all, happy to chat with your team whenever they're around 🙌
+
+## @aliabdaal (réponse auto ManyChat, 1 phrase, facultatif)
+Thanks for the workshop link, Ali! The offer stands whenever your team has a minute 🙂
