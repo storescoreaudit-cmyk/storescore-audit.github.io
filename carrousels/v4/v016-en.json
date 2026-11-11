@@ -1,0 +1,309 @@
+{
+ "lang": "en",
+ "slides": [
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "🦈 True story",
+   "cards": [
+    [
+     "photos/lib/livreur-scooter-nuit.jpg",
+     60,
+     170,
+     560,
+     420,
+     -6,
+     "",
+     "50% 55%"
+    ],
+    [
+     "photos/lib/machine-coudre-vintage.jpg",
+     520,
+     290,
+     500,
+     360,
+     6,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🍕",
+     860,
+     150,
+     150,
+     14
+    ],
+    [
+     "💸",
+     40,
+     560,
+     140,
+     -14
+    ],
+    [
+     "🏋️",
+     880,
+     610,
+     130,
+     10
+    ],
+    [
+     "⚡",
+     440,
+     590,
+     120,
+     -8
+    ]
+   ],
+   "title": "From *£300 a day*\nto £30,000 in\n30 minutes. 🤯",
+   "fs": 96,
+   "ty": 770,
+   "sub": "The pizza driver who built Gymshark 👇",
+   "sy": 1130
+  },
+  {
+   "type": "text",
+   "theme": "dark",
+   "tag": "01 · 2012",
+   "num": "19",
+   "title": "years old. Delivering\n*Pizza Hut* for £5 an hour 🍕",
+   "fs": 74,
+   "ty": 420,
+   "sub": "Ben Francis starts a website\nin his parents' garage (Bromsgrove, UK)\nwith school friend Lewis Morgan.",
+   "sy": 640,
+   "cards": [
+    [
+     "photos/lib/pizza-boite-carton.jpg",
+     600,
+     900,
+     400,
+     320,
+     6,
+     "",
+     "50% 45%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🏠",
+     120,
+     1010,
+     150,
+     -10
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "02 · First sale",
+   "num": "£2",
+   "title": "profit. On a *£52* tub\nof protein powder 😅",
+   "fs": 78,
+   "ty": 420,
+   "sub": "No stock, no money: he dropshipped\nsupplements. The first order took\nweeks to come in.",
+   "sy": 640,
+   "cards": [
+    [
+     "photos/lib/halteres-rangee.jpg",
+     560,
+     920,
+     440,
+     300,
+     -5,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "📦",
+     120,
+     1000,
+     150,
+     10
+    ],
+    [
+     "⏳",
+     380,
+     1080,
+     120,
+     -12
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "theme": "green",
+   "tag": "03 · 2013",
+   "num": "£1,000",
+   "title": "of savings: a sewing machine\n+ a *screen printer* 🧵",
+   "fs": 70,
+   "ty": 420,
+   "sub": "He learned to sew from his grandmother.\nHe sewed, printed and shipped\nthe first gym clothes himself.",
+   "sy": 640,
+   "cards": [
+    [
+     "photos/lib/serigraphie-couleurs.jpg",
+     80,
+     930,
+     460,
+     300,
+     -6,
+     "",
+     "50% 50%"
+    ],
+    [
+     "photos/lib/couture-mains-machine.jpg",
+     560,
+     960,
+     440,
+     280,
+     5,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "👵",
+     880,
+     120,
+     140,
+     12
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "theme": "dark",
+   "tag": "04 · May 2013",
+   "title": "He bets *the entire\nbank account* on one\ntrade show 🎲",
+   "fs": 84,
+   "ty": 190,
+   "sub": "BodyPower, Birmingham.\nA stand + a new product: the Luxe tracksuit.\nThen the site goes live…",
+   "sy": 560,
+   "cards": [
+    [
+     "photos/lib/salle-sport-sombre.jpg",
+     120,
+     860,
+     840,
+     360,
+     -3,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🎰",
+     860,
+     780,
+     150,
+     12
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "05 · The result",
+   "num": "100×",
+   "title": "Before: *~£300 a day*.\nAfter: £30,000\nin 30 minutes 🚀",
+   "fs": 82,
+   "ty": 420,
+   "sub": "That's 100× a full day of sales,\nin half an hour.\n(Source: Gymshark's official story)",
+   "sy": 760,
+   "emoji": [
+    [
+     "📈",
+     800,
+     980,
+     180,
+     8
+    ],
+    [
+     "🔥",
+     160,
+     1000,
+     150,
+     -12
+    ],
+    [
+     "💰",
+     480,
+     1080,
+     130,
+     6
+    ]
+   ]
+  },
+  {
+   "type": "quote",
+   "style": "min",
+   "theme": "dark",
+   "tag": "💬 Quote",
+   "title": "We did more in revenue in half an hour than the *entire history* of the business.",
+   "author": "Ben Francis, Gymshark founder\n(The Gentleman's Journal)",
+   "ty": 300,
+   "tr": 120,
+   "fs": 84,
+   "sy": 820,
+   "noswipe": true
+  },
+  {
+   "type": "text",
+   "theme": "green",
+   "tag": "06 · 2020",
+   "num": "£1B+",
+   "title": "valuation. General Atlantic\nbuys *21%* of Gymshark 🦈",
+   "fs": 72,
+   "ty": 420,
+   "sub": "8 years after the garage.\nHis ~70% stake: worth about £700M.",
+   "sy": 640,
+   "cards": [
+    [
+     "photos/lib/machine-coudre-vintage.jpg",
+     600,
+     930,
+     400,
+     290,
+     6,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🏆",
+     140,
+     1000,
+     150,
+     -10
+    ]
+   ]
+  },
+  {
+   "type": "cta",
+   "theme": "dark",
+   "tag": "💡 The lesson",
+   "title": "A launch isn't a website.\nIt's a *moment*. ⚡",
+   "fs": 82,
+   "ty": 200,
+   "sub": "✅ Go where your buyers already are\n✅ Make the drop an event\n✅ Make sure your store converts the spike\n\nShopify audit from €49 · Link in bio 🔗\nSave this post 🔖",
+   "sy": 480,
+   "emoji": [
+    [
+     "🦈",
+     840,
+     1060,
+     160,
+     10
+    ]
+   ]
+  }
+ ]
+}
