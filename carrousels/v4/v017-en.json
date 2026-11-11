@@ -1,0 +1,151 @@
+{
+ "lang": "en",
+ "slides": [
+  {
+   "type": "photo",
+   "theme": "dark",
+   "tag": "📖 True story",
+   "photo": "photos/lib/atelier-etabli-outils.jpg",
+   "pos": "35% center",
+   "fh": 78,
+   "mag": "Dyson · Engineering",
+   "huge": "5,127",
+   "hb": 640,
+   "hs": 250,
+   "title": "prototypes. *5,126* failures.\nThen £6 billion in sales.",
+   "ty": 330,
+   "fs": 74,
+   "sub": "The story of James Dyson 👇"
+  },
+  {
+   "type": "photo",
+   "theme": "dark",
+   "tag": "01 · 1978",
+   "photo": "photos/lib/atelier-industriel.jpg",
+   "pos": "55% center",
+   "fh": 76,
+   "huge": "1978",
+   "hb": 580,
+   "hs": 250,
+   "title": "His factory filters\nkeep *clogging* 😤",
+   "ty": 340,
+   "fs": 82,
+   "sub": "1978, at his Ballbarrow factory. An industrial\ncyclone gives him an idea: why not a vacuum?"
+  },
+  {
+   "type": "photo",
+   "theme": "dark",
+   "tag": "02 · 5 years",
+   "photo": "photos/lib/cartons-pile-fond-brun.jpg",
+   "pos": "center 70%",
+   "fh": 76,
+   "huge": "5,000+",
+   "hb": 560,
+   "hs": 250,
+   "title": "prototypes, *one by one*,\nstarting with cardboard 📦",
+   "ty": 340,
+   "fs": 72,
+   "sub": "Each version a tiny bit better.\nFive years of testing (Britannica)."
+  },
+  {
+   "type": "photo",
+   "theme": "dark",
+   "tag": "03 · The money",
+   "photo": "photos/lib/femme-peinture-chevalet.jpg",
+   "pos": "center 30%",
+   "fh": 78,
+   "huge": "IN DEBT",
+   "hb": 560,
+   "hs": 220,
+   "title": "while he builds prototype\nafter *prototype* 💸",
+   "ty": 340,
+   "fs": 74,
+   "sub": "His wife Deirdre sold paintings and\ntaught art classes to keep the family going\n(Fortune)."
+  },
+  {
+   "type": "photo",
+   "theme": "dark",
+   "tag": "04 · The rejections",
+   "photo": "photos/lib/salle-conseil-boiseries.jpg",
+   "pos": "center center",
+   "fh": 78,
+   "huge": "NO.",
+   "hb": 560,
+   "hs": 280,
+   "title": "Every big manufacturer\n*turned him down* 🚪",
+   "ty": 340,
+   "fs": 76,
+   "sub": "Vacuum bags were a $500M+ market\nin Europe alone. Why kill the bag? (dyson.co.uk)"
+  },
+  {
+   "type": "quote",
+   "style": "min",
+   "theme": "light",
+   "tag": "💬 Quote",
+   "title": "I made 5,127 prototypes of my vacuum before I got it right. There were 5,126 failures. But I *learned from each one*.",
+   "author": "James Dyson\n(Fast Company, 2007)",
+   "ty": 400,
+   "tr": 110,
+   "fs": 86,
+   "sy": 1080,
+   "noswipe": true
+  },
+  {
+   "type": "photo",
+   "theme": "dark",
+   "tag": "05 · 1986 → 1993",
+   "photo": "photos/lib/usine-cartons-machines.jpg",
+   "pos": "center center",
+   "fh": 78,
+   "huge": "#1",
+   "hb": 560,
+   "hs": 280,
+   "title": "best-selling vacuum in Britain\n*within 2 years* 🇬🇧",
+   "ty": 340,
+   "fs": 64,
+   "sub": "First licensed in Japan (1986). Then his own\nfactory in 1993, with a $1M bank loan (Fortune)."
+  },
+  {
+   "type": "photo",
+   "theme": "dark",
+   "tag": "06 · Today",
+   "photo": "photos/lib/entrepot-rayonnages.jpg",
+   "pos": "center center",
+   "fh": 80,
+   "huge": "£6.1B",
+   "hb": 560,
+   "hs": 250,
+   "title": "in sales in 2025,\n*85 markets* 🌍",
+   "ty": 340,
+   "fs": 82,
+   "sub": "Dyson annual results (March 2026)\n+ dyson.co.uk"
+  },
+  {
+   "type": "cta",
+   "theme": "green",
+   "tag": "💡 The lesson",
+   "title": "Your store doesn't need\nto be perfect.\nIt needs *version 2*. 🔧",
+   "fs": 76,
+   "ty": 200,
+   "sub": "✅ Change one thing at a time\n✅ Measure: conversion, cart, checkout\n✅ Keep what works, cut the rest\n\nShopify audit from €49 · Link in bio 🔗\nSave this post 🔖",
+   "sy": 560,
+   "emoji": [
+    [
+     "🌀",
+     150,
+     1060,
+     150,
+     -10
+    ]
+   ],
+   "card": [
+    "photos/lib/croquis-maquettes.jpg",
+    540,
+    1000,
+    440,
+    280,
+    -5
+   ]
+  }
+ ]
+}

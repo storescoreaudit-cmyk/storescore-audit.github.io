@@ -1,0 +1,270 @@
+{
+ "lang": "fr",
+ "slides": [
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "🚨 Actu e-commerce",
+   "cards": [
+    [
+     "photos/lib/avion-tarmac-blanc.jpg",
+     60,
+     170,
+     560,
+     420,
+     -6,
+     "",
+     "50% 55%"
+    ],
+    [
+     "photos/lib/cartons-pile-fond-brun.jpg",
+     540,
+     280,
+     480,
+     380,
+     6,
+     "",
+     "50% 75%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🏛️",
+     870,
+     140,
+     150,
+     14
+    ],
+    [
+     "📦",
+     40,
+     560,
+     140,
+     -14
+    ],
+    [
+     "⏳",
+     890,
+     620,
+     130,
+     10
+    ],
+    [
+     "🇫🇷",
+     450,
+     600,
+     120,
+     -8
+    ]
+   ],
+   "title": "Bloquer un site\ncomme *Shein*\npendant 4 mois ? 🚫",
+   "fs": 96,
+   "ty": 770,
+   "sub": "Ce que prépare l'Assemblée 👇",
+   "sy": 1140
+  },
+  {
+   "type": "text",
+   "theme": "dark",
+   "tag": "01 · 10 nov. 2026",
+   "num": "100+",
+   "title": "députés signent une loi\n*contre les dérives*\ndu e-commerce 🏛️",
+   "fs": 70,
+   "ty": 420,
+   "sub": "Portée par Romain Eskenazi (PS) et\nAntoine Vermorel-Marques (Droite\nrépublicaine), avec le gouvernement (LCP).",
+   "sy": 700,
+   "emoji": [
+    [
+     "✍️",
+     820,
+     1060,
+     150,
+     10
+    ]
+   ],
+   "cards": [
+    [
+     "photos/lib/cartons-pile-fond-brun.jpg",
+     90,
+     940,
+     440,
+     300,
+     -5,
+     "",
+     "50% 70%"
+    ]
+   ],
+   "lh": 1.12
+  },
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "02 · Le mécanisme",
+   "num": "4 mois",
+   "title": "de *blocage* si la plateforme\nn'obéit pas ⛔",
+   "fs": 70,
+   "ty": 420,
+   "sub": "1️⃣ L'État ordonne de couper l'accès\naux produits litigieux\n2️⃣ Refus → blocage 4 mois\n3️⃣ Renouvelable une fois 2 mois",
+   "sy": 620,
+   "cards": [
+    [
+     "photos/lib/homme-telephone.jpg",
+     640,
+     900,
+     360,
+     260,
+     6,
+     "",
+     "50% 40%"
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "theme": "green",
+   "tag": "03 · Pourquoi",
+   "num": "96,2 %",
+   "title": "des cartons contrôlés :\n*contrefaits ou non conformes*",
+   "fs": 66,
+   "ty": 420,
+   "sub": "Opération des douanes en 2022 :\n3 750 cartons, 3 aéroports parisiens\n(mission d'information, LCP).",
+   "sy": 640,
+   "cards": [
+    [
+     "photos/lib/conteneurs-empiles-couleurs.jpg",
+     560,
+     960,
+     440,
+     290,
+     -5,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🔍",
+     140,
+     1020,
+     150,
+     -10
+    ]
+   ],
+   "lh": 1.2
+  },
+  {
+   "type": "text",
+   "theme": "dark",
+   "tag": "04 · Le volume",
+   "num": "775 M",
+   "title": "d'articles passés par les\n*aéroports de Paris* en 2024 ✈️",
+   "fs": 66,
+   "ty": 420,
+   "sub": "Contre 170 M en 2022.\nDans l'UE, seuls 0,0082 % des produits\nimportés ont été contrôlés (Commission).",
+   "sy": 640,
+   "cards": [
+    [
+     "photos/lib/avion-tarmac-blanc.jpg",
+     80,
+     980,
+     460,
+     290,
+     -5,
+     "",
+     "50% 60%"
+    ]
+   ],
+   "emoji": [
+    [
+     "📈",
+     820,
+     1040,
+     160,
+     10
+    ]
+   ]
+  },
+  {
+   "type": "quote",
+   "style": "min",
+   "theme": "light",
+   "tag": "💬 Citation",
+   "title": "Cette loi n'est pas une loi *contre le commerce en ligne*.",
+   "author": "Romain Eskenazi, député\n(LCP, 10 nov. 2026)",
+   "ty": 400,
+   "tr": 110,
+   "fs": 96,
+   "sy": 1000,
+   "noswipe": true
+  },
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "05 · Attention",
+   "title": "Ce n'est encore\n*qu'une proposition* ⚠️",
+   "fs": 84,
+   "ty": 200,
+   "sub": "Le texte doit être examiné et voté.\nMais le cap est clair : Bruxelles présente\naussi aujourd'hui le Digital Fairness Act\ncontre les interfaces trompeuses.",
+   "sy": 470,
+   "cards": [
+    [
+     "photos/lib/cartons-pile-fond-brun.jpg",
+     100,
+     900,
+     420,
+     330,
+     -6,
+     "",
+     "50% 70%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🇪🇺",
+     760,
+     980,
+     170,
+     10
+    ]
+   ]
+  },
+  {
+   "type": "cta",
+   "theme": "dark",
+   "tag": "💡 La leçon",
+   "title": "Les géants perdent\nla confiance.\nToi, *gagne-la*. 🛡️",
+   "fs": 82,
+   "ty": 200,
+   "sub": "✅ Affiche normes, composition, garantie\n✅ Dis d'où part le colis\n✅ Dis qui répond au SAV\n✅ Mets tes vrais avis clients en avant",
+   "sy": 560,
+   "emoji": [
+    [
+     "🤝",
+     820,
+     1020,
+     170,
+     10
+    ]
+   ]
+  },
+  {
+   "type": "cta",
+   "theme": "green",
+   "tag": "StoreScore",
+   "title": "Ta boutique inspire-t-elle\n*confiance* ? 🔍",
+   "ty": 230,
+   "fs": 80,
+   "sub": "Audit Shopify complet\ndès 49 €\nLien en bio 🔗\n\nEnregistre ce post 🔖",
+   "sy": 580,
+   "tr": 440,
+   "card": [
+    "photos/lib/homme-telephone.jpg",
+    620,
+    860,
+    380,
+    320,
+    -5
+   ]
+  }
+ ]
+}

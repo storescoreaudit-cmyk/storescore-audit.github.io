@@ -89,3 +89,16 @@ Format paysage : utiliser en fond plein écran recadré ou en carte (card) dans 
 - parisienne-tour-eiffel.jpg — Laura Chouette / Unsplash (photo-1591948083708)
 - parisienne-rue.jpg — Elena Jiang / Unsplash (photo-1677592737288)
 - friperie-portant-couleurs.jpg — Luba Glazunova / Unsplash (photo-1778512408867)
+
+## Ajout du 11 nov 2026 soir (Unsplash, licence Unsplash — créditer « Photo : [auteur] / Unsplash, modifiée »)
+- atelier-etabli-outils.jpg — Daniel Khilchenko / Unsplash (photo-1755237449468)
+- atelier-industriel.jpg — Zoshua Colah / Unsplash (photo-1764115424737)
+- carton-brun-fond-blanc.jpg — Giorgio Trovato / Unsplash (photo-1656543802898)
+- cartons-pile-fond-brun.jpg — Kadarius Seegars / Unsplash (photo-1624137527136)
+- jouets-plastique-vrac.jpg — Rick Mason / Unsplash (photo-1516981879613) — briques LEGO, ne pas utiliser pour illustrer des produits non conformes
+- femme-peinture-chevalet.jpg — Jade Stephens / Unsplash (photo-1541753866388)
+- pinceaux-main.jpg — Muhammad Rahim Ali / Unsplash (photo-1633887091273)
+- salle-conseil-boiseries.jpg — Michael D Beckwith / Unsplash (photo-1780396269429, Bradford City Hall)
+- usine-cartons-machines.jpg — Daniel Miksha / Unsplash (photo-1781330191153)
+- conteneurs-empiles-couleurs.jpg — Richard Williams / Unsplash (photo-1785314981488)
+- avion-tarmac-blanc.jpg — Patrick Campanale / Unsplash (photo-1571086291540)
