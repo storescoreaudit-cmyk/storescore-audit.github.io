@@ -1,0 +1,327 @@
+{
+ "lang": "en",
+ "slides": [
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "📖 True story",
+   "cards": [
+    [
+     "photos/lib/perth-nuit-pont.jpg",
+     50,
+     170,
+     560,
+     400,
+     -6,
+     "",
+     "50% 50%"
+    ],
+    [
+     "photos/lib/kitesurf-vagues.jpg",
+     510,
+     290,
+     520,
+     360,
+     6,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🎨",
+     860,
+     140,
+     140,
+     14
+    ],
+    [
+     "😅",
+     40,
+     560,
+     140,
+     -14
+    ],
+    [
+     "🪁",
+     880,
+     620,
+     130,
+     10
+    ],
+    [
+     "💸",
+     450,
+     600,
+     110,
+     -8
+    ]
+   ],
+   "title": "100+ investors\nsaid no. So she\nlearned *kitesurfing*.",
+   "fs": 86,
+   "ty": 740,
+   "sub": "How Canva became a $42B company 👇",
+   "sy": 1160,
+   "lh": 1.1
+  },
+  {
+   "type": "text",
+   "theme": "dark",
+   "tag": "01 · Perth, Australia",
+   "num": "AGE 19",
+   "title": "A student who found\ndesign software\n*way too hard* 😩",
+   "fs": 72,
+   "ty": 420,
+   "sub": "Melanie Perkins tutored design\nat the University of Western Australia.\nThe tools were painful to learn (Leaders).",
+   "sy": 680,
+   "cards": [
+    [
+     "photos/lib/design-tablette-nuancier.jpg",
+     540,
+     900,
+     460,
+     320,
+     5,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🖍️",
+     120,
+     1040,
+     130,
+     -10
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "02 · The test",
+   "num": "2007",
+   "title": "First, school *yearbooks*.\nFrom her mom's\nliving room 🛋️",
+   "fs": 74,
+   "ty": 420,
+   "sub": "Fusion Books, with Cliff Obrecht.\nHer mom's living room became\nthe office (Guy Kawasaki podcast).",
+   "sy": 700,
+   "cards": [
+    [
+     "photos/lib/salon-canape-vert.jpg",
+     70,
+     900,
+     480,
+     300,
+     -5,
+     "",
+     "50% 60%"
+    ],
+    [
+     "photos/lib/album-photos-scrapbook.jpg",
+     540,
+     930,
+     430,
+     290,
+     6,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "📚",
+     880,
+     170,
+     120,
+     10
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "theme": "dark",
+   "tag": "03 · The pitch",
+   "num": "100+",
+   "title": "investors said *no* 🙅‍♀️",
+   "fs": 84,
+   "ty": 420,
+   "sub": "\"It was like three years of pitching.\"\nMonths in San Francisco, until\nher visa ran out (Kawasaki, Inc).",
+   "sy": 560,
+   "cards": [
+    [
+     "photos/lib/sf-skyline-maisons.jpg",
+     80,
+     860,
+     580,
+     380,
+     -5,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "❌",
+     780,
+     940,
+     150,
+     12
+    ],
+    [
+     "📉",
+     820,
+     1130,
+     110,
+     -8
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "04 · The trick",
+   "num": "🪁",
+   "title": "Investor Bill Tai loved\nkitesurfing. So she\n*took lessons* 🌊",
+   "fs": 76,
+   "ty": 420,
+   "sub": "Tai invested. He also brought in\nWoody Harrelson and Owen Wilson (Inc).",
+   "sy": 700,
+   "cards": [
+    [
+     "photos/lib/kitesurf-aerien.jpg",
+     80,
+     900,
+     440,
+     330,
+     -6,
+     "",
+     "50% 50%"
+    ],
+    [
+     "photos/lib/kitesurf-vagues.jpg",
+     520,
+     930,
+     450,
+     300,
+     5,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🏄‍♀️",
+     860,
+     170,
+     130,
+     10
+    ]
+   ]
+  },
+  {
+   "type": "quote",
+   "style": "min",
+   "theme": "dark",
+   "tag": "💬 Quote",
+   "title": "I didn't say that I could kite surf, I said I was *taking kitesurfing lessons*.",
+   "author": "Melanie Perkins, Canva co-founder & CEO\n(Remarkable People podcast, Guy Kawasaki)",
+   "ty": 380,
+   "tr": 90,
+   "fs": 86,
+   "sy": 1060,
+   "noswipe": true
+  },
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "05 · 2013",
+   "num": "150,000",
+   "title": "users in year one.\n*$3M* raised 🚀",
+   "fs": 80,
+   "ty": 420,
+   "sub": "Canva launches with co-founder\nCameron Adams, ex-Google (Gulf News).",
+   "sy": 640,
+   "cards": [
+    [
+     "photos/lib/perth-skyline-riviere.jpg",
+     90,
+     880,
+     600,
+     380,
+     -5,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🎉",
+     800,
+     960,
+     160,
+     10
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "theme": "dark",
+   "tag": "06 · Today",
+   "num": "$4B",
+   "title": "in annual revenue,\ngrowing *35%* a year 📈",
+   "fs": 80,
+   "ty": 420,
+   "sub": "265M monthly users, 31M paying.\nValued at $42B (TechCrunch via SaaStr,\nFeb 2026).",
+   "sy": 640,
+   "cards": [
+    [
+     "photos/lib/design-tablette-nuancier.jpg",
+     470,
+     900,
+     480,
+     300,
+     6,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "💰",
+     120,
+     1030,
+     150,
+     -10
+    ]
+   ]
+  },
+  {
+   "type": "cta",
+   "theme": "green",
+   "tag": "💡 The lesson",
+   "title": "Canva made a hard\nthing *easy*. Does\nyour store? 🎯",
+   "fs": 80,
+   "ty": 190,
+   "sub": "✅ 1 clear promise above the fold\n✅ Checkout in a few taps\n✅ Zero jargon on product pages\n\nShopify audit from €49 · Link in bio 🔗\nSave this post 🔖",
+   "sy": 560,
+   "emoji": [
+    [
+     "🪁",
+     830,
+     1060,
+     160,
+     12
+    ]
+   ],
+   "card": [
+    "photos/lib/kitesurf-vagues.jpg",
+    90,
+    1040,
+    480,
+    230,
+    -5
+   ]
+  }
+ ]
+}
