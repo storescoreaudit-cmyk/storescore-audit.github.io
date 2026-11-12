@@ -1,0 +1,317 @@
+{
+ "lang": "fr",
+ "slides": [
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "🛒 Actu · 12 nov.",
+   "cards": [
+    [
+     "photos/lib/supermarche-allee-rayons.jpg",
+     50,
+     170,
+     560,
+     400,
+     -6,
+     "",
+     "50% 50%"
+    ],
+    [
+     "photos/lib/chariots-rouges-abri.jpg",
+     510,
+     290,
+     520,
+     360,
+     6,
+     "",
+     "50% 60%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🇳🇱",
+     860,
+     140,
+     140,
+     14
+    ],
+    [
+     "🤑",
+     40,
+     560,
+     140,
+     -14
+    ],
+    [
+     "🛒",
+     880,
+     620,
+     130,
+     10
+    ],
+    [
+     "🔥",
+     450,
+     600,
+     110,
+     -8
+    ]
+   ],
+   "title": "Parti d'un vieux\nmagasin d'antiquités.\n*23 millions* de clients\npar semaine. 🤯",
+   "fs": 84,
+   "ty": 740,
+   "sub": "L'histoire d'Action (qui vise les USA) 👇",
+   "sy": 1160,
+   "lh": 1.1
+  },
+  {
+   "type": "text",
+   "theme": "dark",
+   "tag": "01 · 1993",
+   "num": "1993",
+   "title": "Un magasin d'antiquités\nd'Enkhuizen devient\nle *1er Action* 🏚️",
+   "fs": 72,
+   "ty": 420,
+   "sub": "Pays-Bas, juillet 1993. Fondateurs :\nGerard Deen et Rob Wagemaker\n(Wikipedia).",
+   "sy": 680,
+   "cards": [
+    [
+     "photos/lib/rue-pavee-hollandaise.jpg",
+     560,
+     900,
+     440,
+     330,
+     5,
+     "",
+     "50% 60%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🧱",
+     120,
+     1040,
+     130,
+     -10
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "02 · Le concept",
+   "num": "150",
+   "title": "nouveaux produits\n*chaque semaine* 🔄",
+   "fs": 80,
+   "ty": 420,
+   "sub": "Et environ 1 500 articles à moins de 1 €\n(action.com). Mêmes produits\npartout en Europe.",
+   "sy": 640,
+   "cards": [
+    [
+     "photos/lib/cliente-bazar-rayons.jpg",
+     80,
+     860,
+     480,
+     300,
+     -5,
+     "",
+     "50% 50%"
+    ],
+    [
+     "photos/lib/bazar-presentoirs.jpg",
+     540,
+     900,
+     430,
+     290,
+     6,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🪴",
+     900,
+     170,
+     120,
+     10
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "theme": "dark",
+   "tag": "03 · La France",
+   "num": "900+",
+   "title": "magasins en France 🇫🇷",
+   "fs": 80,
+   "ty": 420,
+   "sub": "Arrivé en 2012, l'année où Action\ncomptait 300 magasins au total.\n(Sénat, mars 2026 ; Wikipedia)",
+   "sy": 560,
+   "cards": [
+    [
+     "photos/lib/bazar-allee-encombree.jpg",
+     80,
+     880,
+     560,
+     360,
+     -5,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🥐",
+     760,
+     980,
+     150,
+     12
+    ]
+   ]
+  },
+  {
+   "type": "quote",
+   "style": "min",
+   "theme": "light",
+   "tag": "💬 Citation",
+   "title": "L'efficacité\npermet des\n*prix bas*.",
+   "author": "Wouter de Becker, président d'Action France\n(audition au Sénat, 4 mars 2026)",
+   "ty": 380,
+   "tr": 64,
+   "fs": 140,
+   "sy": 1040,
+   "noswipe": true
+  },
+  {
+   "type": "text",
+   "theme": "dark",
+   "tag": "04 · Hier, 12 nov.",
+   "num": "12,8 Md€",
+   "title": "de ventes en 9 mois.\n*+14 %* sur un an 📈",
+   "fs": 80,
+   "ty": 420,
+   "sub": "23,2 M de clients par semaine (20,6 M\nil y a un an). 3 530 magasins, 16 pays\n(RetailDetail, Belga).",
+   "sy": 640,
+   "cards": [
+    [
+     "photos/lib/magasin-allee-claire.jpg",
+     470,
+     880,
+     470,
+     300,
+     6,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "💶",
+     120,
+     1020,
+     150,
+     -10
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "05 · La patronne",
+   "num": "PDG",
+   "title": "Entrée chez Action\ncomme *vendeuse*\nen magasin 👩‍💼",
+   "fs": 80,
+   "ty": 420,
+   "sub": "Hajir Hajji a gravi les échelons.\nPDG depuis le 1er janvier 2022, 1re femme\nà diriger Action (RetailDetail).",
+   "sy": 740,
+   "emoji": [
+    [
+     "🏆",
+     820,
+     160,
+     150,
+     10
+    ],
+    [
+     "🧾",
+     90,
+     1070,
+     130,
+     -12
+    ]
+   ],
+   "cards": [
+    [
+     "photos/lib/chariots-rangee-sombre.jpg",
+     480,
+     960,
+     420,
+     240,
+     5,
+     "",
+     "50% 70%"
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "theme": "dark",
+   "tag": "06 · La suite",
+   "num": "100",
+   "title": "magasins visés aux\n*États-Unis* d'ici fin 2030 🇺🇸",
+   "fs": 74,
+   "ty": 420,
+   "sub": "1ers magasins dans le sud-est,\nfin 2027 ou début 2028 (RetailDetail).",
+   "sy": 640,
+   "cards": [
+    [
+     "photos/lib/boutique-drapeau-americain.jpg",
+     90,
+     880,
+     600,
+     380,
+     -5,
+     "",
+     "50% 40%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🚀",
+     800,
+     960,
+     160,
+     10
+    ]
+   ]
+  },
+  {
+   "type": "cta",
+   "theme": "green",
+   "tag": "💡 La leçon",
+   "title": "Action ne vend pas\njuste pas cher.\nIl donne une *raison\nde revenir*. 🔁",
+   "fs": 78,
+   "ty": 190,
+   "sub": "✅ Des nouveautés régulières\n✅ Des prix clairs, sans pièges\n✅ Une boutique simple à parcourir\n\nAudit de ta boutique Shopify dès 49 €\nLien en bio 🔗 · Enregistre ce post 🔖",
+   "sy": 620,
+   "emoji": [
+    [
+     "🛍️",
+     850,
+     1120,
+     150,
+     10
+    ]
+   ],
+   "card": [
+    "photos/lib/chariots-rouges-abri.jpg",
+    90,
+    1040,
+    480,
+    240,
+    -5
+   ]
+  }
+ ]
+}

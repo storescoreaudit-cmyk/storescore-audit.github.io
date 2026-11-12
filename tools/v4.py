@@ -2,7 +2,7 @@
 """StoreScore carrousels v4 — 1080x1350, détourage, emojis Apple, grain, style "magazine actu".
 Usage: python3 tools/v4.py spec.json outdir
 Slide types: cover | text | photo | split | quote | cta | min | grid
-font:"serif" (citation-portrait) ; lh: interligne du titre (slides text, ex. 1.12) ; cards:[[img,x,y,w,h,rot,(css),(objpos)],...] collage ; style:"min" (par slide) = minimaliste sans grain ; min: huge/hy/hs/hc ; grid: cells[4], cols[2], rows[2] ; photo: pos, mag, huge
+accent:"#ff5fa2" (racine du spec, couleur du surlignage/chiffres) ; hc: couleur du huge (photo) ; font:"serif" (citation-portrait) ; lh: interligne du titre (slides text, ex. 1.12) ; cards:[[img,x,y,w,h,rot,(css),(objpos)],...] collage ; style:"min" (par slide) = minimaliste sans grain ; min: huge/hy/hs/hc ; grid: cells[4], cols[2], rows[2] ; photo: pos, mag, huge
 Champs: title (avec *mot* = surligné), sub, emoji (liste), cutout (photos/cutouts/x.png), photo (photos/lib/x.jpg), bigword, num, tag, theme(dark|light|green)
 Emojis: tout emoji unicode dans un texte est rendu en emoji Apple.
 """
@@ -110,7 +110,7 @@ def slide(s, i, n, lang):
     elif t == "photo":
         h += f'<div class="photo" style="background-image:url({b64(s["photo"])});background-position:{s.get("pos","center")}"></div><div class="fade" style="height:{s.get("fh",75)}%"></div><div style="position:absolute;left:0;right:0;top:0;height:300px;z-index:4;background:linear-gradient(180deg,rgba(0,0,0,.55),rgba(0,0,0,0))"></div>'
         if s.get("mag"): h += f'<div class="mag" style="color:#fff">{rich(s["mag"])}</div>'
-        if s.get("huge"): h += f'<div class="huge" style="bottom:{s.get("hb",520)}px;font-size:{s.get("hs",230)}px;color:#2fe38a">{rich(s["huge"])}</div>'
+        if s.get("huge"): h += f'<div class="huge" style="bottom:{s.get("hb",520)}px;font-size:{s.get("hs",230)}px;color:{s.get("hc","#2fe38a")}">{rich(s["huge"])}</div>'
         h += f'<div class="title" style="bottom:{s.get("ty",330)}px;font-size:{s.get("fs",80)}px;{("line-height:"+str(s["lh"])) if s.get("lh") else ""}">{rich(s["title"])}</div>'
         if s.get("sub"): h += f'<div class="sub" style="bottom:130px">{rich(s["sub"])}</div>'
     elif t == "split":
@@ -148,10 +148,12 @@ def slide(s, i, n, lang):
 def main(spec, out):
     d = json.load(open(spec)); os.makedirs(out, exist_ok=True)
     lang = d.get("lang", "fr"); n = len(d["slides"])
+    acc = d.get("accent")  # couleur d'accent optionnelle (surlignage + chiffres) hors slides vertes
+    css = CSS + (f".dark .title mark,.light .title mark{{background:{acc}}}.dark .num,.light .num{{color:{acc}}}.mn.dark .title mark,.mn.light .title mark{{background:none;color:{acc}}}" if acc else "")
     with sync_playwright() as p:
         b = p.chromium.launch(); pg = b.new_page(viewport={"width": 1080, "height": 1350})
         for i, s in enumerate(d["slides"]):
-            pg.set_content(f"<html><head>{FONTS}<style>{CSS}</style></head><body>{slide(s,i,n,lang)}</body></html>")
+            pg.set_content(f"<html><head>{FONTS}<style>{css}</style></head><body>{slide(s,i,n,lang)}</body></html>")
             pg.wait_for_timeout(700)
             pg.screenshot(path=f"{out}/{i+1:02d}.jpg", type="jpeg", quality=92)
         b.close()
