@@ -118,3 +118,11 @@ Format paysage : utiliser en fond plein écran recadré ou en carte (card) dans 
 - bazar-presentoirs.jpg — Dmitrii E. / Unsplash (photo-1715889868942)
 - boutique-drapeau-americain.jpg — Kiko Camaclang / Unsplash (photo-1759630752910)
 - chariots-rangee-sombre.jpg — Jasper Garratt / Unsplash (photo-1580440282860)
+
+## Ajout du 12 nov 2026 après-midi (Unsplash, licence Unsplash — créditer « Photo : [auteur] / Unsplash, modifiée »)
+- homme-rasage-miroir.jpg — Supply / Unsplash (photo-1510711070725)
+- rasoir-surete-lame.jpg — Nacho Fernández / Unsplash (photo-1563635707357)
+- camera-tournage-lumiere.jpg — Jakob Owens / Unsplash (photo-1625690303837)
+- serveurs-cables.jpg — Taylor Vick / Unsplash (photo-1558494949)
+- rasage-blaireau-bol.jpg — David Trinks / Unsplash (photo-1765501830223)
+- studio-photo-projecteurs.jpg — Alexander Dummer / Unsplash (photo-1471341971476)
