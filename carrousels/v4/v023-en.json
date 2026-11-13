@@ -1,0 +1,143 @@
+{
+ "lang": "en",
+ "accent": "#d4a373",
+ "slides": [
+  {
+   "type": "photo",
+   "theme": "dark",
+   "tag": "📖 True story",
+   "photo": "photos/lib/espresso-machine-tasses.jpg",
+   "pos": "62% center",
+   "fh": 72,
+   "huge": "217 NO'S",
+   "hc": "#d4a373",
+   "hb": 660,
+   "hs": 190,
+   "title": "He pitched 242 investors.\n217 said *no*.\nThen he bought Starbucks.",
+   "ty": 300,
+   "fs": 68,
+   "sub": "How Howard Schultz turned a bean shop\ninto 41,607 coffeehouses 👇",
+   "mag": "Seattle · 1987"
+  },
+  {
+   "type": "photo",
+   "theme": "dark",
+   "tag": "01 · Sept. 1982",
+   "photo": "photos/lib/torrefaction-cafe.jpg",
+   "pos": "center center",
+   "fh": 78,
+   "huge": "1982",
+   "hc": "#d4a373",
+   "hb": 640,
+   "hs": 260,
+   "title": "Howard Schultz joins a\nsmall Seattle coffee-bean\nshop: *Starbucks* ☕",
+   "ty": 360,
+   "fs": 66,
+   "sub": "Director of retail operations & marketing.\nStarbucks only sold beans and equipment\n(Fortune, MoneyWeek)."
+  },
+  {
+   "type": "photo",
+   "theme": "dark",
+   "tag": "02 · 1983",
+   "photo": "photos/lib/espresso-tasse-blanche.jpg",
+   "pos": "center 40%",
+   "fh": 78,
+   "huge": "MILAN",
+   "hc": "#ffffff",
+   "hb": 640,
+   "hs": 250,
+   "title": "On a trip to Milan,\nhe falls for Italian\n*espresso bars* 🇮🇹",
+   "ty": 360,
+   "fs": 68,
+   "sub": "He wants to bring them to America.\nFounder Jerry Baldwin isn't convinced\n(MoneyWeek)."
+  },
+  {
+   "type": "photo",
+   "theme": "dark",
+   "tag": "03 · 1985",
+   "photo": "photos/lib/papier-froisse-noir.jpg",
+   "pos": "center center",
+   "fh": 78,
+   "huge": "217 / 242",
+   "hc": "#ff6b6b",
+   "hb": 640,
+   "hs": 190,
+   "title": "He quits to open his\nown café. Investors keep\nsaying *no* ❌",
+   "ty": 360,
+   "fs": 66,
+   "sub": "He finally opens Il Giornale in 1986\n(Fortune, MoneyWeek)."
+  },
+  {
+   "type": "quote",
+   "style": "min",
+   "theme": "light",
+   "tag": "💬 Quote",
+   "title": "I spoke to 242 people, and 217 of them said *'no.'*",
+   "author": "Howard Schultz,\nformer Starbucks CEO\n(via Fortune)",
+   "ty": 380,
+   "tr": 90,
+   "fs": 100,
+   "sy": 1000,
+   "noswipe": true
+  },
+  {
+   "type": "photo",
+   "theme": "dark",
+   "tag": "04 · 1987",
+   "photo": "photos/lib/salle-conseil-boiseries.jpg",
+   "pos": "center center",
+   "fh": 80,
+   "huge": "$3.8M",
+   "hc": "#d4a373",
+   "hb": 640,
+   "hs": 230,
+   "title": "Starbucks is for sale.\nAn investor tries to\n*steal* the deal 😱",
+   "ty": 360,
+   "fs": 68,
+   "sub": "Deadline cut from 60 to 30 days.\nLawyer Bill Gates Sr. (6ft 7in) told\nthe investor to back off (MoneyWeek)."
+  },
+  {
+   "type": "photo",
+   "theme": "dark",
+   "tag": "05 · Fiscal 2026",
+   "photo": "photos/lib/latte-art-bois.jpg",
+   "pos": "center center",
+   "fh": 78,
+   "huge": "41,607",
+   "hc": "#2fe38a",
+   "hb": 640,
+   "hs": 240,
+   "title": "Starbucks coffeehouses.\n*$37.9 billion* in revenue\nthis fiscal year 📈",
+   "ty": 360,
+   "fs": 66,
+   "sub": "Starbucks FY2026 results\n(Oct. 29, 2026)."
+  },
+  {
+   "type": "cta",
+   "theme": "green",
+   "tag": "💡 The lesson",
+   "title": "Visitors who leave\nwithout buying are\nyour *217 no's*. ☕",
+   "fs": 80,
+   "ty": 190,
+   "sub": "✅ Find out why they leave\n✅ Fix one blocker at a time\n✅ Keep pitching\n\nShopify audit from €49 · Link in bio 🔗\nSave this post 🔖",
+   "sy": 560,
+   "emoji": [
+    [
+     "☕",
+     830,
+     1060,
+     160,
+     12
+    ]
+   ],
+   "card": [
+    "photos/lib/papier-froisse-noir.jpg",
+    90,
+    1040,
+    480,
+    230,
+    -5
+   ]
+  }
+ ]
+}

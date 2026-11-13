@@ -1,0 +1,364 @@
+{
+ "lang": "fr",
+ "accent": "#a78bfa",
+ "slides": [
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "📖 Histoire vraie",
+   "cards": [
+    [
+     "photos/lib/lavande-valensole-arbre.jpg",
+     50,
+     170,
+     560,
+     400,
+     -6,
+     "",
+     "50% 50%"
+    ],
+    [
+     "photos/lib/defile-mode-public.jpg",
+     500,
+     290,
+     530,
+     370,
+     6,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "💜",
+     860,
+     140,
+     140,
+     14
+    ],
+    [
+     "😢",
+     40,
+     560,
+     130,
+     -14
+    ],
+    [
+     "👜",
+     880,
+     630,
+     120,
+     10
+    ],
+    [
+     "✨",
+     450,
+     610,
+     110,
+     -8
+    ]
+   ],
+   "title": "À 18 ans, il perd sa mère.\nÀ 19 ans, il lance\nune marque *pour elle*.",
+   "fs": 80,
+   "ty": 750,
+   "lh": 1.1,
+   "sub": "Aujourd'hui valorisée 576 M€. L'histoire de Jacquemus 👇",
+   "sy": 1160
+  },
+  {
+   "type": "text",
+   "theme": "dark",
+   "tag": "01 · 2009",
+   "num": "19 ANS",
+   "title": "Simon Porte Jacquemus\nlance sa marque en\n*hommage* à sa mère 💜",
+   "fs": 70,
+   "ty": 420,
+   "sub": "Elle est morte quand il avait 18 ans.\nIl a grandi en Provence, à Mallemort\n(Business of Fashion, L'Essentiel de l'Éco).",
+   "sy": 680,
+   "cards": [
+    [
+     "photos/lib/village-provence-colline.jpg",
+     80,
+     890,
+     480,
+     300,
+     -5,
+     "",
+     "50% 50%"
+    ],
+    [
+     "photos/lib/lavande-chemin-portrait.jpg",
+     590,
+     870,
+     360,
+     330,
+     6,
+     "",
+     "50% 60%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🌿",
+     880,
+     170,
+     120,
+     10
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "02 · Le petit boulot",
+   "num": "VENDEUR",
+   "title": "Il est *vendeur* chez\nComme des Garçons,\nà Paris 🛍️",
+   "fs": 72,
+   "ty": 420,
+   "sub": "Il a quitté son école de mode.\nEn 2012, la maison de Rei Kawakubo\nvend sa collection à Tokyo (BoF).",
+   "sy": 680,
+   "cards": [
+    [
+     "photos/lib/tokyo-ruelle-lanternes.jpg",
+     80,
+     890,
+     500,
+     310,
+     -5,
+     "",
+     "50% 50%"
+    ],
+    [
+     "photos/lib/tokyo-shinjuku-nuit.jpg",
+     620,
+     860,
+     320,
+     340,
+     6,
+     "",
+     "50% 40%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🇯🇵",
+     880,
+     560,
+     120,
+     10
+    ]
+   ],
+   "ns": 170
+  },
+  {
+   "type": "text",
+   "theme": "dark",
+   "tag": "03 · 2011",
+   "num": "21 ANS",
+   "title": "Il habille ses amis et\nmonte une *fausse manif*\nà une soirée Vogue 📣",
+   "fs": 70,
+   "ty": 420,
+   "sub": "Avenue Montaigne, pancartes en carton :\n« We Want Jacquemus! ». Il passe à la télé,\nla France le découvre (BoF).",
+   "sy": 680,
+   "cards": [
+    [
+     "photos/lib/defile-robe-blanche.jpg",
+     90,
+     870,
+     340,
+     360,
+     -6,
+     "",
+     "50% 40%"
+    ],
+    [
+     "photos/lib/parisienne-rue.jpg",
+     480,
+     890,
+     470,
+     310,
+     5,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🪧",
+     860,
+     170,
+     130,
+     10
+    ],
+    [
+     "😂",
+     860,
+     780,
+     110,
+     -8
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "04 · 2018",
+   "num": "CHIQUITO",
+   "title": "Un sac si *petit*\nqu'un iPhone\nn'y rentre pas 👜",
+   "fs": 76,
+   "ty": 420,
+   "sub": "Présenté au défilé « La Bomba ».\nPuis Rihanna, Kim Kardashian et\nKylie Jenner le portent (BoF).",
+   "sy": 680,
+   "cards": [
+    [
+     "photos/lib/sac-bandouliere-cognac.jpg",
+     80,
+     870,
+     420,
+     340,
+     -6,
+     "",
+     "50% 60%"
+    ],
+    [
+     "photos/lib/sac-noir-fond-jaune.jpg",
+     520,
+     900,
+     420,
+     290,
+     5,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🤏",
+     900,
+     560,
+     120,
+     10
+    ],
+    [
+     "📱",
+     870,
+     1080,
+     100,
+     -10
+    ]
+   ],
+   "ns": 180
+  },
+  {
+   "type": "quote",
+   "style": "min",
+   "theme": "dark",
+   "tag": "💬 Citation",
+   "title": "Tout le monde me disait que c'était inutile, que personne ne l'achèterait. Et puis… *Rihanna* !",
+   "author": "Simon Porte Jacquemus, à propos du Chiquito\n(Business of Fashion, traduite)",
+   "ty": 330,
+   "tr": 90,
+   "fs": 84,
+   "sy": 1020,
+   "noswipe": true
+  },
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "05 · 2021",
+   "num": "100 M€+",
+   "title": "de chiffre d'affaires,\navec *25 %* de marge\nopérationnelle 💰",
+   "fs": 72,
+   "ty": 420,
+   "sub": "Plus de la moitié des ventes : les sacs.\nAucun investisseur à l'époque\n(Business of Fashion, 2022).",
+   "sy": 680,
+   "cards": [
+    [
+     "photos/lib/boutique-vetements.jpg",
+     90,
+     880,
+     600,
+     340,
+     -5,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "📈",
+     800,
+     980,
+     150,
+     10
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "theme": "dark",
+   "tag": "06 · 2025",
+   "num": "576 M€",
+   "title": "La valorisation de sa\nholding. *L'Oréal* entre\nau capital 💄",
+   "fs": 70,
+   "ty": 420,
+   "sub": "Valorisation : FashionUnited (mai 2025).\nL'Oréal, actionnaire minoritaire.\n2026 : maillot d'avant-match des Bleus.",
+   "sy": 680,
+   "cards": [
+    [
+     "photos/lib/lavande-coucher-soleil.jpg",
+     90,
+     890,
+     600,
+     340,
+     -5,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "⚽",
+     800,
+     980,
+     140,
+     10
+    ],
+    [
+     "🇫🇷",
+     880,
+     170,
+     120,
+     -8
+    ]
+   ]
+  },
+  {
+   "type": "cta",
+   "theme": "green",
+   "tag": "💡 La leçon",
+   "title": "Jacquemus ne vend\npas un sac. Il vend\nune *histoire*. 💜",
+   "fs": 78,
+   "ty": 190,
+   "sub": "✅ Un produit signature reconnaissable\n✅ Des photos qui donnent envie\n✅ Ton histoire sur ta page « À propos »\n\nAudit de ta boutique Shopify dès 49 €\nLien en bio 🔗 · Enregistre ce post 🔖",
+   "sy": 620,
+   "emoji": [
+    [
+     "👜",
+     830,
+     1080,
+     160,
+     12
+    ]
+   ],
+   "card": [
+    "photos/lib/lavande-valensole-arbre.jpg",
+    90,
+    1060,
+    480,
+    230,
+    -5
+   ]
+  }
+ ]
+}
