@@ -1,0 +1,344 @@
+{
+ "lang": "en",
+ "slides": [
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "📖 True story",
+   "cards": [
+    [
+     "photos/lib/randonneurs-montagne.jpg",
+     50,
+     170,
+     560,
+     400,
+     -6,
+     "",
+     "50% 50%"
+    ],
+    [
+     "photos/lib/lunettes-main.jpg",
+     500,
+     290,
+     530,
+     370,
+     6,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "👓",
+     860,
+     140,
+     140,
+     14
+    ],
+    [
+     "😱",
+     40,
+     560,
+     140,
+     -14
+    ],
+    [
+     "🎒",
+     880,
+     630,
+     120,
+     10
+    ],
+    [
+     "💸",
+     450,
+     610,
+     110,
+     -8
+    ]
+   ],
+   "title": "He lost his $700\nglasses on a trip.\nSo he *broke* an industry.",
+   "fs": 82,
+   "ty": 750,
+   "lh": 1.1,
+   "sub": "The Warby Parker story 👇",
+   "sy": 1160
+  },
+  {
+   "type": "text",
+   "theme": "dark",
+   "tag": "01 · 2008",
+   "num": "$700",
+   "title": "Prada glasses,\n*lost* on a\nbackpacking trip 🎒",
+   "fs": 74,
+   "ty": 420,
+   "sub": "Dave Gilboa lost them just before\nstarting his MBA at Wharton\n(CNBC, 2024).",
+   "sy": 700,
+   "cards": [
+    [
+     "photos/lib/randonneur-sac-jaune.jpg",
+     80,
+     900,
+     480,
+     330,
+     -5,
+     "",
+     "50% 50%"
+    ],
+    [
+     "photos/lib/lunettes-table-bois.jpg",
+     560,
+     930,
+     420,
+     300,
+     6,
+     "",
+     "50% 60%"
+    ]
+   ],
+   "emoji": [
+    [
+     "😩",
+     880,
+     170,
+     120,
+     10
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "02 · Wharton",
+   "num": "$120K",
+   "title": "4 classmates.\n*$30,000* each.\nZero salaries 🤝",
+   "fs": 76,
+   "ty": 420,
+   "sub": "Office = Neil Blumenthal's apartment.\nThey launched in February 2010,\nstill full-time students (CNBC).",
+   "sy": 700,
+   "cards": [
+    [
+     "photos/lib/lunettes-livre.jpg",
+     90,
+     920,
+     560,
+     330,
+     -5,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🎓",
+     800,
+     980,
+     150,
+     10
+    ],
+    [
+     "💵",
+     860,
+     170,
+     120,
+     -8
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "theme": "dark",
+   "tag": "03 · The idea",
+   "num": "5",
+   "title": "frames shipped *home*.\nTry them on for 5 days,\nkeep the one you love 📦",
+   "fs": 66,
+   "ty": 420,
+   "sub": "Plus: for every pair sold, they pay for\nanother pair for someone in need.\nTarget price: ~$100, not $700 (Wharton).",
+   "sy": 660,
+   "cards": [
+    [
+     "photos/lib/lunettes-trio-noir.jpg",
+     80,
+     900,
+     440,
+     320,
+     -6,
+     "",
+     "50% 40%"
+    ],
+    [
+     "photos/lib/lunettes-lot.jpg",
+     520,
+     915,
+     450,
+     300,
+     5,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🏠",
+     880,
+     170,
+     120,
+     10
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "04 · The press",
+   "num": "GQ",
+   "title": "called it \"the *Netflix*\nof eyewear\" 📰",
+   "fs": 78,
+   "ty": 420,
+   "sub": "Vogue covered it too. GQ's issue hit\nnewsstands early: the website\nwasn't ready (Business Insider).",
+   "sy": 640,
+   "cards": [
+    [
+     "photos/lib/magazines-rack.jpg",
+     90,
+     880,
+     420,
+     380,
+     -6,
+     "",
+     "50% 40%"
+    ],
+    [
+     "photos/lib/magazines-lot.jpg",
+     500,
+     930,
+     460,
+     300,
+     5,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🔥",
+     860,
+     170,
+     130,
+     10
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "theme": "dark",
+   "tag": "05 · Launch",
+   "num": "21 DAYS",
+   "title": "to hit their *first-year*\nsales goal (3 weeks) 🤯",
+   "fs": 72,
+   "ty": 420,
+   "sub": "Top 15 styles sold out.\n20,000+ people on the waitlist\n(Business Insider).",
+   "sy": 640,
+   "cards": [
+    [
+     "photos/lib/lunettes-main2.jpg",
+     90,
+     880,
+     600,
+     380,
+     -5,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🚀",
+     800,
+     960,
+     160,
+     10
+    ],
+    [
+     "📈",
+     880,
+     1100,
+     110,
+     -8
+    ]
+   ]
+  },
+  {
+   "type": "quote",
+   "style": "min",
+   "theme": "light",
+   "tag": "💬 Quote",
+   "title": "It was literally that moment that the business *took off*.",
+   "author": "Neil Blumenthal,\nWarby Parker co-founder & co-CEO\n(Business Insider)",
+   "ty": 380,
+   "tr": 90,
+   "fs": 90,
+   "sy": 1040,
+   "noswipe": true
+  },
+  {
+   "type": "text",
+   "theme": "dark",
+   "tag": "06 · 2025",
+   "num": "$871.9M",
+   "title": "in revenue. 323 stores.\n*First profitable year* 💰",
+   "fs": 72,
+   "ty": 420,
+   "sub": "Net revenue up 13% vs 2024\n(Warby Parker FY2025 results, SEC filing).",
+   "sy": 640,
+   "cards": [
+    [
+     "photos/lib/opticien-etageres.jpg",
+     90,
+     880,
+     600,
+     380,
+     -5,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🏬",
+     800,
+     980,
+     150,
+     10
+    ]
+   ]
+  },
+  {
+   "type": "cta",
+   "theme": "green",
+   "tag": "💡 The lesson",
+   "title": "Kill the #1 reason\npeople *don't buy*\nonline. 🎯",
+   "fs": 80,
+   "ty": 190,
+   "sub": "✅ Find your buyers' biggest fear\n✅ Answer it on the product page\n✅ Free returns? Say it loud\n\nShopify audit from €49 · Link in bio 🔗\nSave this post 🔖",
+   "sy": 560,
+   "emoji": [
+    [
+     "👓",
+     830,
+     1060,
+     160,
+     12
+    ]
+   ],
+   "card": [
+    "photos/lib/lunettes-trio-noir.jpg",
+    90,
+    1040,
+    480,
+    230,
+    -5
+   ]
+  }
+ ]
+}
