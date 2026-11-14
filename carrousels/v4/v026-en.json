@@ -1,0 +1,342 @@
+{
+ "lang": "en",
+ "accent": "#5ec8ff",
+ "slides": [
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "📖 True story",
+   "cards": [
+    [
+     "photos/lib/snowboard-saut-ciel.jpg",
+     50,
+     170,
+     560,
+     400,
+     -6,
+     "",
+     "50% 40%"
+    ],
+    [
+     "photos/lib/macbook-code-sombre.jpg",
+     500,
+     290,
+     530,
+     370,
+     6,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🏂",
+     860,
+     140,
+     140,
+     14
+    ],
+    [
+     "❄️",
+     40,
+     560,
+     120,
+     -14
+    ],
+    [
+     "💻",
+     880,
+     630,
+     120,
+     10
+    ],
+    [
+     "🤯",
+     450,
+     610,
+     110,
+     -8
+    ]
+   ],
+   "title": "He just wanted to sell\n*snowboards*. He built\nShopify instead.",
+   "fs": 78,
+   "ty": 790,
+   "lh": 1.1,
+   "sub": "Today: $119B in sales in one quarter 👇",
+   "sy": 1160
+  },
+  {
+   "type": "text",
+   "theme": "dark",
+   "tag": "01 · 2002",
+   "num": "2002",
+   "title": "Tobi Lütke, a German\ncoder, meets his future\nwife on a *snowboard* trip 🏂",
+   "fs": 68,
+   "ty": 420,
+   "sub": "Whistler, Canada. He settles with her\nin Ottawa. He'd left high school at 17\nfor a Siemens apprenticeship (Fortune).",
+   "sy": 705,
+   "cards": [
+    [
+     "photos/lib/snowboard-foret-rose.jpg",
+     90,
+     960,
+     420,
+     300,
+     -5,
+     "",
+     "50% 30%"
+    ],
+    [
+     "photos/lib/snowboard-gerbe-neige.jpg",
+     560,
+     950,
+     400,
+     290,
+     6,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🇩🇪",
+     880,
+     170,
+     110,
+     10
+    ],
+    [
+     "🇨🇦",
+     760,
+     175,
+     110,
+     -8
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "02 · 2004",
+   "num": "SNOWDEVIL",
+   "ns": 150,
+   "title": "He opens an *online*\nsnowboard shop 🛒",
+   "fs": 76,
+   "ty": 420,
+   "sub": "With Scott Lake, a family friend.\nProblem: store software is\n\"clunky and expensive\" (NPR, 2019).",
+   "sy": 640,
+   "cards": [
+    [
+     "photos/lib/snowboard-poudreuse.jpg",
+     90,
+     940,
+     560,
+     320,
+     -5,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "😤",
+     760,
+     980,
+     150,
+     10
+    ],
+    [
+     "💸",
+     880,
+     560,
+     110,
+     -8
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "theme": "dark",
+   "tag": "03 · 2 months",
+   "num": "DIY",
+   "ns": 220,
+   "title": "So he codes *his own*\nstore software 💻",
+   "fs": 76,
+   "ty": 420,
+   "sub": "\"I spent 2 months building our own\nSnowdevil store software\" in Ruby on\nRails (Signal v. Noise, 2010).",
+   "sy": 640,
+   "cards": [
+    [
+     "photos/lib/ecran-code-couleurs.jpg",
+     90,
+     950,
+     600,
+     320,
+     -5,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "⌨️",
+     770,
+     990,
+     150,
+     10
+    ],
+    [
+     "☕",
+     880,
+     170,
+     110,
+     -8
+    ]
+   ]
+  },
+  {
+   "type": "quote",
+   "style": "min",
+   "theme": "dark",
+   "tag": "💬 Quote",
+   "title": "We never found anything close to what we wanted, so we *built it ourselves*.",
+   "author": "Tobi Lütke, Shopify founder\n(Signal v. Noise, 2010)",
+   "ty": 360,
+   "tr": 90,
+   "fs": 88,
+   "sy": 1040,
+   "noswipe": true
+  },
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "04 · The pivot",
+   "num": "🏂 → 💻",
+   "ns": 180,
+   "title": "Snowboard sales are *slow*.\nBut other shops want\nhis software 👀",
+   "fs": 72,
+   "ty": 420,
+   "sub": "Other merchants ask to license it.\nThe founders realize the software\nis worth more (NPR, Fortune).",
+   "sy": 680,
+   "cards": [
+    [
+     "photos/lib/laptop-code-terrasse.jpg",
+     90,
+     950,
+     600,
+     320,
+     -5,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "💡",
+     780,
+     990,
+     150,
+     10
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "theme": "dark",
+   "tag": "05 · 2006",
+   "num": "$8,000",
+   "title": "That's Shopify's revenue\nin *October 2006* 😅",
+   "fs": 72,
+   "ty": 420,
+   "sub": "Launched in 2006 (NPR). Tobi and his wife\nlive in her parents' house. Her father\nsometimes covers payroll (Fortune, 2017).",
+   "sy": 640,
+   "cards": [
+    [
+     "photos/lib/macbook-code-sombre.jpg",
+     90,
+     950,
+     560,
+     310,
+     -5,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🏠",
+     760,
+     990,
+     150,
+     10
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "06 · Q3 2026",
+   "num": "$119B",
+   "title": "sold through Shopify\nin *one quarter* 📈",
+   "fs": 76,
+   "ty": 420,
+   "sub": "Up 29.5% year over year.\nShopify revenue: $3.7B, up 32%\n(Shopify, Nov. 3, 2026).",
+   "sy": 640,
+   "cards": [
+    [
+     "photos/lib/snowboard-saut-ciel.jpg",
+     90,
+     940,
+     560,
+     320,
+     -5,
+     "",
+     "50% 40%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🚀",
+     770,
+     980,
+     150,
+     10
+    ],
+    [
+     "🤑",
+     880,
+     170,
+     110,
+     -8
+    ]
+   ]
+  },
+  {
+   "type": "cta",
+   "theme": "green",
+   "tag": "💡 The lesson",
+   "title": "Shop your own\nstore. Fix what\n*annoys you*. 🔧",
+   "fs": 80,
+   "ty": 190,
+   "sub": "✅ Order from your store on your phone\n✅ Count the taps to checkout\n✅ Fix the first thing that bugs you\n\nStoreScore audits your store from €49\nLink in bio 🔗 · Save this post 🔖",
+   "sy": 600,
+   "emoji": [
+    [
+     "🏂",
+     830,
+     1080,
+     160,
+     12
+    ]
+   ],
+   "card": [
+    "photos/lib/snowboard-poudreuse.jpg",
+    90,
+    1060,
+    480,
+    230,
+    -5
+   ]
+  }
+ ]
+}
