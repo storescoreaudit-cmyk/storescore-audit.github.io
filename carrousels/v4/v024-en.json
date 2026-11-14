@@ -1,0 +1,347 @@
+{
+ "lang": "en",
+ "accent": "#ff7a45",
+ "slides": [
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "📖 True story",
+   "cards": [
+    [
+     "photos/lib/centre-commercial-atrium.jpg",
+     50,
+     170,
+     560,
+     400,
+     -6,
+     "",
+     "50% 50%"
+    ],
+    [
+     "photos/lib/baskets-mur-magasin.jpg",
+     500,
+     290,
+     530,
+     370,
+     6,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "👟",
+     860,
+     140,
+     140,
+     14
+    ],
+    [
+     "😤",
+     40,
+     560,
+     130,
+     -14
+    ],
+    [
+     "📸",
+     880,
+     630,
+     120,
+     10
+    ],
+    [
+     "💸",
+     450,
+     610,
+     110,
+     -8
+    ]
+   ],
+   "title": "He couldn't find his shoes\nat the mall. So he built\n*Zappos*.",
+   "fs": 78,
+   "ty": 790,
+   "lh": 1.1,
+   "sub": "Sold to Amazon for $1.2 billion 👇",
+   "sy": 1160
+  },
+  {
+   "type": "text",
+   "theme": "dark",
+   "tag": "01 · 1999",
+   "num": "1999",
+   "title": "Nick Swinmurn wants\na pair of *Airwalk*\ndesert boots 🥾",
+   "fs": 72,
+   "ty": 420,
+   "sub": "He can't find them at the mall.\nHis thought: “Why not do an\nonline shoe store?” (Fortune, 2012)",
+   "sy": 680,
+   "cards": [
+    [
+     "photos/lib/centre-commercial-escalators.jpg",
+     80,
+     930,
+     480,
+     300,
+     -5,
+     "",
+     "50% 50%"
+    ],
+    [
+     "photos/lib/chaussures-boites-rayons.jpg",
+     600,
+     910,
+     340,
+     320,
+     6,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🛍️",
+     880,
+     170,
+     120,
+     10
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "02 · The test",
+   "num": "0 STOCK",
+   "ns": 200,
+   "title": "He walks into a shoe\nstore and makes a\n*weird* deal 🤝",
+   "fs": 72,
+   "ty": 420,
+   "sub": "Footwear Etc., in Sunnyvale, California.\nHe takes photos of their shoes and puts\nthem online. Zero inventory (Fortune).",
+   "sy": 680,
+   "cards": [
+    [
+     "photos/lib/photographe-studio-produit.jpg",
+     80,
+     900,
+     500,
+     320,
+     -5,
+     "",
+     "50% 50%"
+    ],
+    [
+     "photos/lib/baskets-mur-magasin-2.jpg",
+     620,
+     880,
+     330,
+     340,
+     6,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "📷",
+     880,
+     560,
+     120,
+     10
+    ]
+   ]
+  },
+  {
+   "type": "quote",
+   "style": "min",
+   "theme": "dark",
+   "tag": "💬 Quote",
+   "title": "I'll take some pictures, put your shoes online, and if people buy them, I'll buy them from you at *full price*.",
+   "author": "Nick Swinmurn, Zappos founder\n(Fortune, 2012)",
+   "ty": 330,
+   "tr": 90,
+   "fs": 78,
+   "sy": 1060,
+   "noswipe": true
+  },
+  {
+   "type": "text",
+   "theme": "dark",
+   "tag": "03 · It works",
+   "num": "$150K",
+   "title": "A few orders come in.\nThe *demand* is real ✅",
+   "fs": 76,
+   "ty": 420,
+   "sub": "He raises $150,000 from friends,\nco-workers… and his chiropractor.\nHe pays himself about $30,000 a year.\n(Fortune)",
+   "sy": 640,
+   "cards": [
+    [
+     "photos/lib/colis-pile-scotch.jpg",
+     90,
+     940,
+     560,
+     300,
+     -5,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "📦",
+     800,
+     1000,
+     150,
+     10
+    ],
+    [
+     "🙌",
+     880,
+     170,
+     120,
+     -8
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "04 · The name",
+   "num": "ZAPATOS",
+   "ns": 180,
+   "title": "Spanish for *shoes*.\nShoeSite.com becomes\nZappos 👟",
+   "fs": 74,
+   "ty": 420,
+   "sub": "Tony Hsieh and Alfred Lin's fund,\nVenture Frogs, backs the company.\n(Wikipedia, Fortune)",
+   "sy": 705,
+   "cards": [
+    [
+     "photos/lib/chaussures-tas.jpg",
+     90,
+     930,
+     520,
+     330,
+     -5,
+     "",
+     "50% 50%"
+    ],
+    [
+     "photos/lib/baskets-etageres-lumiere.jpg",
+     640,
+     940,
+     290,
+     280,
+     6,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🇪🇸",
+     880,
+     560,
+     120,
+     10
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "theme": "dark",
+   "tag": "05 · 2008",
+   "num": "$1B",
+   "title": "in annual sales.\nFrom *$1.6M* in its\nfirst year 📈",
+   "fs": 76,
+   "ty": 420,
+   "sub": "1999–2000: $1.6M · 2001: $8.6M\n2004: $184M · 2008: $1 billion\n(Wikipedia)",
+   "sy": 730,
+   "cards": [
+    [
+     "photos/lib/baskets-mur-magasin.jpg",
+     90,
+     960,
+     600,
+     330,
+     -5,
+     "",
+     "30% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🚀",
+     800,
+     990,
+     150,
+     10
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "06 · Nov. 2009",
+   "num": "$1.2B",
+   "title": "*Amazon* buys Zappos.\nThe idea started with\na few photos 📸",
+   "fs": 74,
+   "ty": 420,
+   "sub": "Deal announced July 22, 2009,\nclosed in November for about $1.2 billion\n(Wikipedia).",
+   "sy": 730,
+   "cards": [
+    [
+     "photos/lib/chaussures-boites-rayons.jpg",
+     90,
+     960,
+     600,
+     330,
+     -5,
+     "",
+     "60% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🤑",
+     800,
+     990,
+     150,
+     10
+    ],
+    [
+     "👟",
+     880,
+     170,
+     120,
+     -8
+    ]
+   ]
+  },
+  {
+   "type": "cta",
+   "theme": "green",
+   "tag": "💡 The lesson",
+   "title": "Test the demand\n*before* you buy\nthe stock. 👟",
+   "fs": 80,
+   "ty": 190,
+   "sub": "✅ Great product photos\n✅ A clear product page\n✅ Real orders = real proof\n\nShopify store audit from €49\nLink in bio 🔗 · Save this post 🔖",
+   "sy": 600,
+   "emoji": [
+    [
+     "📸",
+     830,
+     1080,
+     160,
+     12
+    ]
+   ],
+   "card": [
+    "photos/lib/baskets-mur-magasin-2.jpg",
+    90,
+    1060,
+    480,
+    230,
+    -5
+   ]
+  }
+ ]
+}
