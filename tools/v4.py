@@ -70,6 +70,7 @@ body{width:1080px;height:1350px;overflow:hidden;font-family:'Inter',sans-serif}
 .gl{position:absolute;z-index:5;font:900 30px 'Inter';letter-spacing:.12em;text-transform:uppercase;opacity:.55}
 .serif .title{font-family:Georgia,'Playfair Display',serif;font-style:italic;font-weight:800;letter-spacing:-1px;line-height:1.08}
 .serif .title mark{font-style:italic}
+.qm{color:#2fe38a}.light .qm{color:#12a35c}
 .mag{position:absolute;left:64px;top:150px;z-index:6;font:900 34px 'Inter';letter-spacing:.3em;text-transform:uppercase}
 """
 FONTS = "<link href='https://fonts.googleapis.com/css2?family=Anton&family=Inter:wght@500;700;800;900&display=swap' rel='stylesheet'>"
@@ -128,7 +129,7 @@ def slide(s, i, n, lang):
     elif t == "quote":
         if s.get("cutout"):
             h += f'<img class="cut" src="{b64(s["cutout"])}" style="height:{s.get("cuth",820)}px;{s.get("cutpos","right:-60px")};z-index:2">'
-        h += f'<div style="position:absolute;left:50px;top:120px;z-index:5;font:900 300px/1 Georgia,serif;color:{"#12a35c" if th=="light" else "#2fe38a"}">&ldquo;</div>'
+        h += f'<div class="qm" style="position:absolute;left:50px;top:120px;z-index:5;font:900 300px/1 Georgia,serif">&ldquo;</div>'
         h += f'<div class="title" style="top:{s.get("ty",380)}px;right:{s.get("tr",380)}px;font:italic 800 {s.get("fs",70)}px/1.12 Georgia,serif;letter-spacing:-1px">{rich(s["title"])}</div>'
         h += f'<div class="sub" style="top:{s.get("sy",1000)}px;font:800 38px Inter;opacity:1">— {rich(s.get("author",""))}</div>'
     elif t == "cta":
@@ -149,7 +150,7 @@ def main(spec, out):
     d = json.load(open(spec)); os.makedirs(out, exist_ok=True)
     lang = d.get("lang", "fr"); n = len(d["slides"])
     acc = d.get("accent")  # couleur d'accent optionnelle (surlignage + chiffres) hors slides vertes
-    css = CSS + (f".dark .title mark,.light .title mark{{background:{acc}}}.dark .num,.light .num{{color:{acc}}}.mn.dark .title mark,.mn.light .title mark{{background:none;color:{acc}}}" if acc else "")
+    css = CSS + (f".dark .title mark,.light .title mark{{background:{acc}}}.dark .num,.light .num{{color:{acc}}}.mn.dark .title mark,.mn.light .title mark{{background:none;color:{acc}}}.dark .qm{{color:{acc}}}" if acc else "")
     with sync_playwright() as p:
         b = p.chromium.launch(); pg = b.new_page(viewport={"width": 1080, "height": 1350})
         for i, s in enumerate(d["slides"]):

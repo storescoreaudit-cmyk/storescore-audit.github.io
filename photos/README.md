@@ -244,3 +244,17 @@ Format paysage : utiliser en fond plein écran recadré ou en carte (card) dans 
 - manucure-vernis-rouge.jpg — Kris Atomic / Unsplash (photo-1457972729786)
 - tribunal-colonnes.jpg — Nathan Cima / Unsplash (photo-1701606115482) — palais de justice de Montpellier
 - vitrine-stilettos-couleurs.jpg — Ben Wicks / Unsplash (photo-1637003833874)
+
+## Ajout du 15 nov 2026 soir (Unsplash, licence Unsplash — créditer « Photo : [auteur] / Unsplash, modifiée »)
+- pot-pate-tartiner-main.jpg — Chris Liverani / Unsplash (photo-1519420573924) — marque Nutella visible (sujet Nutella uniquement)
+- pots-pate-tartiner-trio.jpg — Victor Serban / Unsplash (photo-1584053386451) — marque visible
+- pot-pate-tartiner-fond-rouge.jpg — Silvana Mool / Unsplash (photo-1741586332879) — marque visible
+- tartines-chocolat-assiette.jpg — Imad 786 / Unsplash (photo-1693835791992)
+- village-colline-piemont-orage.jpg — Luis van den Bos / Unsplash (photo-1671655831771) — Langhe, Piémont
+- noisettes-coques-cassees.jpg — Andrey Soldatov / Unsplash (photo-1761591470313)
+- sac-noisettes-table.jpg — Mila / Unsplash (photo-1774106419715)
+- iss-coupole-terre.jpg — NASA / Unsplash (photo-1446776877081) — coupole de l'ISS
+- lada-rouge-neige-ukraine.jpg — Ioann-Mark Kuznietsov / Unsplash (photo-1456246512207) — plaque ukrainienne
+- billets-un-dollar-tas.jpg — Alexander Grey / Unsplash (photo-1526304640581)
+- post-it-jaunes-feutre.jpg — Kelly Sikkema / Unsplash (photo-1553044020)
+- metro-voyageurs-telephones.jpg — Zhen Yao / Unsplash (photo-1748791065609)
