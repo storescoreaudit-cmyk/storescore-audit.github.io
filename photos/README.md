@@ -236,3 +236,11 @@ Format paysage : utiliser en fond plein écran recadré ou en carte (card) dans 
 - canettes-alu-pile.jpg — ObjectType RAW / Unsplash (photo-1777991642395)
 - canettes-dorees-dessus.jpg — Majkl Velner / Unsplash (photo-1699107026455)
 - canette-versee-noir.jpg — Soulride Photography / Unsplash (photo-1768254270166) — marque visible, non utilisée
+
+## Ajout du 15 nov 2026 après-midi (Unsplash, licence Unsplash — créditer « Photo : [auteur] / Unsplash, modifiée »)
+- goutte-vernis-rouge.jpg — Calugar Ana Maria / Unsplash (photo-1664794497175)
+- escarpins-fleurs-bleus.jpg — Mohammad Metri / Unsplash (photo-1543163521)
+- louvre-pyramide-nuit-nb.jpg — Norman Tsui / Unsplash (photo-1514772004429)
+- manucure-vernis-rouge.jpg — Kris Atomic / Unsplash (photo-1457972729786)
+- tribunal-colonnes.jpg — Nathan Cima / Unsplash (photo-1701606115482) — palais de justice de Montpellier
+- vitrine-stilettos-couleurs.jpg — Ben Wicks / Unsplash (photo-1637003833874)
