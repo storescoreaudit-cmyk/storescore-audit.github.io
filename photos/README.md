@@ -221,3 +221,18 @@ Format paysage : utiliser en fond plein écran recadré ou en carte (card) dans 
 - snowboard-gerbe-neige.jpg — Mattias Olsson / Unsplash (photo-1478700485868)
 - macbook-code-sombre.jpg — Arnold Francisca / Unsplash (photo-1555066931)
 - ecran-code-couleurs.jpg — Chris Ried / Unsplash (photo-1515879218367)
+
+## Ajout du 15 nov 2026 matin (Unsplash, licence Unsplash — créditer « Photo : [auteur] / Unsplash, modifiée »)
+- chef-dressage-pince.jpg — Alfonso Betancourt / Unsplash (photo-1775497950035)
+- assiette-gastronomique-bois.jpg — Patrick Browne / Unsplash (photo-1519233991914)
+- route-france-voitures-anciennes-nb.jpg — Vince Veras / Unsplash (photo-1670779431458)
+- cartes-routieres-anciennes.jpg — Andrew Neel / Unsplash (photo-1473163928189)
+- restaurant-tamise-lampes.jpg — takahiro taguchi / Unsplash (photo-1552960226)
+- pneus-empiles.jpg — Robert Laursoo / Unsplash (photo-1578844251758)
+- camion-vintage-rue-paris.jpg — Valentin Lacoste / Unsplash (photo-1773397357491) — non utilisée (camion américain « Chicago Whisky »)
+- concert-foule-mains.jpg — ActionVance / Unsplash (photo-1540039155733)
+- concert-foule-jaune.jpg — Nainoa Shizuru / Unsplash (photo-1459749411175)
+- canette-noire-flottante.jpg — ObjectType RAW / Unsplash (photo-1777991642635)
+- canettes-alu-pile.jpg — ObjectType RAW / Unsplash (photo-1777991642395)
+- canettes-dorees-dessus.jpg — Majkl Velner / Unsplash (photo-1699107026455)
+- canette-versee-noir.jpg — Soulride Photography / Unsplash (photo-1768254270166) — marque visible, non utilisée

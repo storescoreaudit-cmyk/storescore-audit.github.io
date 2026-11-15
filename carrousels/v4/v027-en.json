@@ -1,0 +1,341 @@
+{
+ "lang": "en",
+ "accent": "#c7ff3d",
+ "slides": [
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "📖 True story",
+   "cards": [
+    [
+     "photos/lib/concert-foule-mains.jpg",
+     50,
+     170,
+     560,
+     400,
+     -6,
+     "",
+     "50% 50%"
+    ],
+    [
+     "photos/lib/canette-noire-flottante.jpg",
+     520,
+     280,
+     500,
+     380,
+     6,
+     "",
+     "50% 45%"
+    ]
+   ],
+   "emoji": [
+    [
+     "💀",
+     860,
+     130,
+     140,
+     14
+    ],
+    [
+     "🤘",
+     40,
+     560,
+     120,
+     -14
+    ],
+    [
+     "💧",
+     880,
+     640,
+     120,
+     10
+    ],
+    [
+     "🤯",
+     450,
+     610,
+     110,
+     -8
+    ]
+   ],
+   "title": "He sold *water* in a\nbeer can. It hit a\n$1.4 billion valuation.",
+   "fs": 78,
+   "ty": 790,
+   "lh": 1.1,
+   "sub": "It started with a $1,500 fake ad 👇",
+   "sy": 1160
+  },
+  {
+   "type": "text",
+   "theme": "dark",
+   "tag": "01 · 2009",
+   "num": "2009",
+   "title": "Mike Cessario, an ad guy,\nwatches bands at the\nVans *Warped Tour* 🎸",
+   "fs": 66,
+   "ty": 420,
+   "sub": "The musicians drink water from\nempty energy drink cans (Fortune, 2024).",
+   "sy": 705,
+   "cards": [
+    [
+     "photos/lib/concert-foule-jaune.jpg",
+     90,
+     950,
+     600,
+     320,
+     -5,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🤘",
+     770,
+     990,
+     150,
+     10
+    ],
+    [
+     "🥤",
+     880,
+     170,
+     110,
+     -8
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "02 · The idea",
+   "num": "WHY NOT?",
+   "ns": 150,
+   "title": "Healthy brands are\n*boring*. Why? 🤔",
+   "fs": 76,
+   "ty": 420,
+   "sub": "\"Why aren't there more healthy products\nthat still have funny, cool, irreverent\nbranding?\" (CNBC, 2022)",
+   "sy": 640,
+   "cards": [
+    [
+     "photos/lib/canettes-alu-pile.jpg",
+     90,
+     940,
+     560,
+     320,
+     -5,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🥱",
+     770,
+     980,
+     150,
+     10
+    ],
+    [
+     "💡",
+     880,
+     170,
+     110,
+     -8
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "theme": "dark",
+   "tag": "03 · 2018",
+   "num": "$1,500",
+   "ns": 200,
+   "title": "A 2-minute *fake ad*.\nThe product doesn't\nexist yet 🎬",
+   "fs": 72,
+   "ty": 420,
+   "sub": "Just a 3D can on Facebook. 4 months later:\n3M views, ~80,000 followers (CNBC, 2022).",
+   "sy": 700,
+   "cards": [
+    [
+     "photos/lib/canette-noire-flottante.jpg",
+     90,
+     960,
+     560,
+     300,
+     -5,
+     "",
+     "50% 40%"
+    ]
+   ],
+   "emoji": [
+    [
+     "📈",
+     770,
+     990,
+     150,
+     10
+    ],
+    [
+     "👀",
+     880,
+     170,
+     110,
+     -8
+    ]
+   ]
+  },
+  {
+   "type": "quote",
+   "style": "min",
+   "theme": "dark",
+   "tag": "💬 Quote",
+   "title": "There's no reason that only *beer* can have that kind of cool look and feel.",
+   "author": "Mike Cessario, Liquid Death CEO\n(Fortune, 2024)",
+   "ty": 360,
+   "tr": 90,
+   "fs": 88,
+   "sy": 860,
+   "noswipe": true
+  },
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "04 · 2019",
+   "num": "$2.8M",
+   "ns": 200,
+   "title": "of canned water sold\nin year *one* 💧",
+   "fs": 76,
+   "ty": 420,
+   "sub": "January 2019: $1.6M seed round, online\nsales start. 2020: Whole Foods, ~$10M\n(CNBC, 2022).",
+   "sy": 640,
+   "cards": [
+    [
+     "photos/lib/canettes-dorees-dessus.jpg",
+     90,
+     950,
+     560,
+     310,
+     -5,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🛒",
+     770,
+     990,
+     150,
+     10
+    ],
+    [
+     "💀",
+     880,
+     170,
+     110,
+     -8
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "theme": "dark",
+   "tag": "05 · 2023",
+   "num": "$263M",
+   "ns": 200,
+   "title": "in scanned sales.\nValued at *$1.4B* 🦄",
+   "fs": 76,
+   "ty": 420,
+   "sub": "Sold at 113,000 retailers in the US\nand UK (Fortune, March 2024).",
+   "sy": 640,
+   "cards": [
+    [
+     "photos/lib/concert-foule-mains.jpg",
+     90,
+     950,
+     560,
+     310,
+     -5,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🚀",
+     770,
+     990,
+     150,
+     10
+    ],
+    [
+     "🤑",
+     880,
+     170,
+     110,
+     -8
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "💡 The secret",
+   "num": "📸",
+   "ns": 200,
+   "title": "He baked the marketing\ninto the *product* itself.",
+   "fs": 72,
+   "ty": 420,
+   "sub": "A can you want to be seen with.\nPeople post it to their followers. For free.",
+   "sy": 640,
+   "cards": [
+    [
+     "photos/lib/photographe-studio-produit.jpg",
+     90,
+     920,
+     560,
+     340,
+     -5,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🤳",
+     770,
+     980,
+     150,
+     10
+    ]
+   ]
+  },
+  {
+   "type": "cta",
+   "theme": "green",
+   "tag": "💡 The lesson",
+   "title": "Make your product\n*photo-worthy*. 📸",
+   "fs": 80,
+   "ty": 190,
+   "sub": "✅ Packaging people want to film\n✅ Product photos with personality\n✅ A brand voice that's yours\n\nStoreScore audits your store from €49\nLink in bio 🔗 · Save this post 🔖",
+   "sy": 520,
+   "emoji": [
+    [
+     "💀",
+     830,
+     1080,
+     160,
+     12
+    ]
+   ],
+   "card": [
+    "photos/lib/canettes-alu-pile.jpg",
+    90,
+    1060,
+    480,
+    230,
+    -5
+   ]
+  }
+ ]
+}
