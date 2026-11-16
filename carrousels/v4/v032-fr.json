@@ -1,0 +1,345 @@
+{
+ "lang": "fr",
+ "accent": "#ff4fa3",
+ "slides": [
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "📖 Histoire vraie",
+   "cards": [
+    [
+     "photos/lib/post-it-mur-multicolore.jpg",
+     50,
+     170,
+     580,
+     390,
+     -6,
+     "",
+     "50% 40%"
+    ],
+    [
+     "photos/lib/post-it-deux-jaunes-mur.jpg",
+     580,
+     250,
+     420,
+     480,
+     6,
+     "",
+     "55% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🧪",
+     870,
+     120,
+     140,
+     14
+    ],
+    [
+     "📝",
+     40,
+     560,
+     120,
+     -14
+    ],
+    [
+     "🤯",
+     500,
+     660,
+     110,
+     -8
+    ],
+    [
+     "🟨",
+     900,
+     700,
+     110,
+     12
+    ]
+   ],
+   "title": "Sa colle *ne collait pas*.\n3M en a fait un\nbest-seller mondial.",
+   "fs": 74,
+   "ty": 800,
+   "lh": 1.1,
+   "sub": "L'histoire du Post-it 👇",
+   "sy": 1160
+  },
+  {
+   "type": "text",
+   "theme": "dark",
+   "tag": "01 · 1968",
+   "num": "1968",
+   "title": "Spencer Silver, chimiste\nchez 3M, cherche une\nsuper-colle. Il *rate*.",
+   "fs": 64,
+   "ty": 420,
+   "sub": "Sa colle accroche… mais se décolle\nsans laisser de trace (3M, MNopedia).",
+   "sy": 690,
+   "cards": [
+    [
+     "photos/lib/bechers-fond-noir.jpg",
+     90,
+     960,
+     560,
+     310,
+     -5,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🧪",
+     780,
+     990,
+     150,
+     10
+    ],
+    [
+     "🤔",
+     880,
+     170,
+     110,
+     -8
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "02 · 5 ans de galère",
+   "num": "5 ans",
+   "title": "Personne ne sait\nà quoi elle sert.\nIl *insiste* quand même.",
+   "fs": 66,
+   "ty": 420,
+   "sub": "Il en parle à tous ses collègues\nde 3M (Post-it.com, MNopedia).",
+   "sy": 690,
+   "cards": [
+    [
+     "photos/lib/labo-etageres-verrerie.jpg",
+     90,
+     960,
+     560,
+     310,
+     -5,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "📣",
+     780,
+     990,
+     150,
+     10
+    ],
+    [
+     "🙋‍♂️",
+     880,
+     170,
+     110,
+     -8
+    ]
+   ]
+  },
+  {
+   "type": "quote",
+   "style": "min",
+   "theme": "dark",
+   "tag": "💬 Citation",
+   "title": "On m'a surnommé *Monsieur Persévérant*, parce que je n'abandonnais pas.",
+   "author": "Spencer Silver, inventeur de la colle du Post-it\n(cité par Post-it.com, 3M ; traduit de l'anglais)",
+   "ty": 400,
+   "tr": 90,
+   "fs": 96,
+   "sy": 900,
+   "noswipe": true
+  },
+  {
+   "type": "text",
+   "theme": "dark",
+   "tag": "03 · La chorale",
+   "num": "🎶",
+   "title": "Art Fry, son collègue,\nchante à l'église. Ses\nmarque-pages *tombent*.",
+   "fs": 64,
+   "ty": 420,
+   "sub": "Il pense à la colle de Silver :\nun marque-page qui tient sans\nabîmer le recueil (Post-it.com).",
+   "sy": 690,
+   "cards": [
+    [
+     "photos/lib/recueil-cantiques-ouvert.jpg",
+     90,
+     960,
+     560,
+     310,
+     -5,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "⛪",
+     780,
+     990,
+     150,
+     10
+    ],
+    [
+     "💡",
+     880,
+     170,
+     110,
+     -8
+    ]
+   ],
+   "ns": 190
+  },
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "04 · 1977",
+   "num": "😬",
+   "title": "1er test en magasin,\nnom : *Press 'n Peel*.\nRésultat : mitigé.",
+   "fs": 64,
+   "ty": 420,
+   "sub": "Testé dans plusieurs villes :\nles gens ne comprennent pas\nà quoi ça sert (3M, MNopedia).",
+   "sy": 690,
+   "cards": [
+    [
+     "photos/lib/post-it-tableau-blanc.jpg",
+     90,
+     960,
+     560,
+     310,
+     -5,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "📉",
+     780,
+     990,
+     150,
+     10
+    ],
+    [
+     "🤷",
+     880,
+     170,
+     110,
+     -8
+    ]
+   ],
+   "ns": 190
+  },
+  {
+   "type": "text",
+   "theme": "dark",
+   "tag": "05 · 1978, Boise",
+   "num": "90 %",
+   "title": "des habitants qui l'ont\n*essayé gratuitement*\nveulent l'acheter.",
+   "fs": 64,
+   "ty": 420,
+   "sub": "Le « Boise Blitz » : 3M inonde la ville\nd'Idaho d'échantillons (Post-it.com).",
+   "sy": 690,
+   "cards": [
+    [
+     "photos/lib/post-it-mur-verts-bleus.jpg",
+     90,
+     960,
+     560,
+     310,
+     -5,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🎁",
+     780,
+     990,
+     150,
+     10
+    ],
+    [
+     "🤯",
+     880,
+     170,
+     110,
+     -8
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "06 · 1980 → aujourd'hui",
+   "num": "150+",
+   "title": "pays. Lancé aux USA\nle *6 avril 1980*.\nJaune… par hasard.",
+   "fs": 64,
+   "ty": 420,
+   "sub": "Le labo voisin n'avait que du papier\nbrouillon jaune (Post-it.com).",
+   "sy": 690,
+   "cards": [
+    [
+     "photos/lib/post-it-tableau-ecrits.jpg",
+     90,
+     960,
+     560,
+     310,
+     -5,
+     "",
+     "50% 30%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🌍",
+     780,
+     990,
+     150,
+     10
+    ],
+    [
+     "🟨",
+     880,
+     170,
+     110,
+     -8
+    ]
+   ]
+  },
+  {
+   "type": "cta",
+   "theme": "green",
+   "tag": "💡 La leçon",
+   "title": "Ton produit ne se vend\npas ? *Fais-le essayer*. 🎁",
+   "fs": 76,
+   "ty": 190,
+   "sub": "✅ Échantillon ou mini-format\n✅ Vidéo du produit en vrai\n✅ Retour gratuit = essai sans risque\n\nAudit de ta boutique dès 49 €\nLien en bio 🔗 · Enregistre ce post 🔖",
+   "sy": 520,
+   "emoji": [
+    [
+     "📝",
+     830,
+     1080,
+     160,
+     12
+    ]
+   ],
+   "card": [
+    "photos/lib/post-it-deux-jaunes-mur.jpg",
+    90,
+    1060,
+    480,
+    230,
+    -5
+   ]
+  }
+ ]
+}
