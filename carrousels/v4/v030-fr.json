@@ -1,0 +1,347 @@
+{
+ "lang": "fr",
+ "accent": "#2fd47a",
+ "slides": [
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "📖 Histoire vraie",
+   "cards": [
+    [
+     "photos/lib/crocodile-profil-oeil.jpg",
+     50,
+     170,
+     580,
+     390,
+     -6,
+     "",
+     "55% 50%"
+    ],
+    [
+     "photos/lib/terre-battue-balle-jaune.jpg",
+     580,
+     250,
+     420,
+     480,
+     6,
+     "",
+     "50% 45%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🐊",
+     870,
+     120,
+     140,
+     14
+    ],
+    [
+     "🎾",
+     40,
+     560,
+     120,
+     -14
+    ],
+    [
+     "🤯",
+     500,
+     660,
+     110,
+     -8
+    ],
+    [
+     "💼",
+     900,
+     700,
+     110,
+     12
+    ]
+   ],
+   "title": "Il a *perdu* un pari.\nIl y a gagné une marque\nà 3 Md€ par an.",
+   "fs": 74,
+   "ty": 800,
+   "lh": 1.1,
+   "sub": "L'histoire du crocodile Lacoste 👇",
+   "sy": 1160
+  },
+  {
+   "type": "text",
+   "theme": "dark",
+   "tag": "01 · Boston, 1923",
+   "num": "19 ans",
+   "ns": 190,
+   "title": "René Lacoste, prodige\ndu tennis, flashe sur une\n*valise en crocodile* 💼",
+   "fs": 66,
+   "ty": 420,
+   "sub": "Son capitaine lui promet : si tu gagnes\nton prochain match, elle est à toi\n(lacoste.com).",
+   "sy": 680,
+   "cards": [
+    [
+     "photos/lib/valises-cuir-vintage-pile.jpg",
+     90,
+     960,
+     600,
+     310,
+     -5,
+     "",
+     "50% 45%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🤝",
+     780,
+     990,
+     150,
+     10
+    ],
+    [
+     "😍",
+     880,
+     170,
+     110,
+     -8
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "02 · Le match",
+   "num": "❌",
+   "ns": 190,
+   "title": "Il *perd*. Pas de valise.\nMais un journaliste\naméricain s'en souvient.",
+   "fs": 66,
+   "ty": 420,
+   "sub": "Il le surnomme « le crocodile » pour\nsa ténacité sur le court (lacoste.com).",
+   "sy": 680,
+   "cards": [
+    [
+     "photos/lib/terre-battue-filet.jpg",
+     90,
+     940,
+     560,
+     330,
+     -5,
+     "",
+     "50% 40%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🐊",
+     780,
+     990,
+     150,
+     10
+    ],
+    [
+     "📰",
+     880,
+     170,
+     110,
+     -8
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "theme": "dark",
+   "tag": "03 · 1927",
+   "num": "1927",
+   "title": "Son ami Robert George\nlui *dessine* un crocodile.\nBrodé sur son blazer.",
+   "fs": 64,
+   "ty": 420,
+   "sub": "Le surnom devient un dessin.\nLe dessin devient un emblème\n(Lacoste, 90 ans de style).",
+   "sy": 700,
+   "cards": [
+    [
+     "photos/lib/croquis-crayon.jpg",
+     90,
+     960,
+     560,
+     310,
+     -5,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "✏️",
+     780,
+     990,
+     150,
+     10
+    ],
+    [
+     "🧵",
+     880,
+     170,
+     110,
+     -8
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "04 · La tenue",
+   "num": "👔 → 👕",
+   "ns": 170,
+   "title": "À l'époque, on joue en\nmanches longues… et\n*cravate*. Il dit stop.",
+   "fs": 66,
+   "ty": 420,
+   "sub": "Il fait faire une chemise à manches\ncourtes en maille piquée, col souple\n(Smithsonian Magazine).",
+   "sy": 680,
+   "cards": [
+    [
+     "photos/lib/polo-blanc-cintre.jpg",
+     90,
+     950,
+     560,
+     320,
+     -5,
+     "",
+     "50% 35%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🥵",
+     780,
+     990,
+     150,
+     10
+    ],
+    [
+     "✂️",
+     880,
+     170,
+     110,
+     -8
+    ]
+   ]
+  },
+  {
+   "type": "quote",
+   "style": "min",
+   "theme": "dark",
+   "tag": "💬 Citation",
+   "title": "Un jour, j'ai vu mon ami le marquis de Cholmondeley porter sa chemise de polo sur le court. *Une idée pratique*, me suis-je dit.",
+   "author": "René Lacoste (People, 1979, cité par\nSmithsonian Magazine ; traduit de l'anglais)",
+   "ty": 400,
+   "tr": 90,
+   "fs": 74,
+   "sy": 960,
+   "noswipe": true
+  },
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "05 · 1933",
+   "num": "1933",
+   "title": "Il lance sa marque avec\nAndré Gillier. *1re marque*\nau logo visible 🐊",
+   "fs": 64,
+   "ty": 420,
+   "sub": "Avant lui, aucun vêtement n'affichait\nun logo à l'extérieur (Lacoste).",
+   "sy": 700,
+   "cards": [
+    [
+     "photos/lib/crocodile-gueule-ouverte.jpg",
+     90,
+     950,
+     560,
+     320,
+     -5,
+     "",
+     "40% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🧵",
+     780,
+     990,
+     150,
+     10
+    ],
+    [
+     "🥇",
+     880,
+     170,
+     110,
+     -8
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "theme": "dark",
+   "tag": "06 · Aujourd'hui",
+   "num": "~3 Md€",
+   "ns": 180,
+   "title": "de ventes par an.\nEt en 2026, le croco\ndevient… une *chèvre* 🐐",
+   "fs": 66,
+   "ty": 420,
+   "sub": "CA 2024 : ~3 Md€, +8 % (FashionUnited).\nJuin 2026 : logo « GOAT » pour Djokovic,\n100 polos dorés (Lacoste).",
+   "sy": 680,
+   "cards": [
+    [
+     "photos/lib/court-terre-battue-stade-nuit.jpg",
+     90,
+     980,
+     560,
+     290,
+     -5,
+     "",
+     "50% 60%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🐐",
+     780,
+     1000,
+     150,
+     10
+    ],
+    [
+     "😂",
+     880,
+     170,
+     110,
+     -8
+    ]
+   ]
+  },
+  {
+   "type": "cta",
+   "theme": "green",
+   "tag": "💡 La leçon",
+   "title": "Ton logo ne vend rien.\nTon *histoire*, si. 🐊",
+   "fs": 80,
+   "ty": 190,
+   "sub": "✅ Une page « À propos » avec ton déclic\n✅ L'histoire de ton nom ou ton logo\n✅ Une vraie photo de toi\n\nAudit de ta boutique dès 49 €\nLien en bio 🔗 · Enregistre ce post 🔖",
+   "sy": 520,
+   "emoji": [
+    [
+     "🎾",
+     830,
+     1080,
+     160,
+     12
+    ]
+   ],
+   "card": [
+    "photos/lib/valises-cuir-vintage-pile.jpg",
+    90,
+    1060,
+    480,
+    230,
+    -5
+   ]
+  }
+ ]
+}
