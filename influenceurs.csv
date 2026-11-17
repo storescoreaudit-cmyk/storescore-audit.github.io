@@ -308,7 +308,7 @@ date,type,instagram,nom,niche,abonnes,email,canal,code_partenaire,statut,notes
 2026-11-16,créateur,Clic (podcast),Tom Lavialle,entrepreneurs du web (FR),petit,tomigital@gmail.com,EMAIL,TOM20,EMAIL envoyé 16/11 ~17h35 (relance le 19/11),email: flux Ausha
 2026-11-16,créateur,The Side Hustle Show,Nick Loper,side hustle (EN),150K écoutes/mois,nick@sidehustlenation.com,EMAIL,NICK20,EMAIL envoyé 16/11 ~17h35 (relance le 19/11),email: page press
 2026-11-16,créateur,Nouveaux CEO (podcast),Tony Neves,business en ligne / formations (FR),200K+ réseaux,info+63bbec347ce8ad0011f74ec0@mg-eu.acast.com,EMAIL,TONY20,EMAIL envoyé 16/11 ~17h35 (relance le 19/11),email: flux Acast (redirection)
-2026-11-16,créateur,@parlonsdebusiness,Parlons De Business,business diaspora (FR),39.2K,,DM,,"DM partenariat envoyé 16/11 ~17h40 (vérifié), relance 19/11",suggestion de @yomidenzel
+2026-11-16,créateur,@parlonsdebusiness,Parlons De Business,business diaspora (FR),39.2K,hello@parlonsdebusiness.com,DM,PDB20,"DM partenariat envoyé 16/11 ~17h40 (vérifié), relance 19/11 ; A RÉPONDU 17/11 (« écrire à hello@parlonsdebusiness.com ») → EMAIL partenariat envoyé 17/11 ~14h55 (relance le 20/11)",suggestion de @yomidenzel
 2026-11-16,créateur,@etnbusiness,Ethan Duvin,IA / SaaS / business (FR),34.6K,,DM,ETHAN20,"DM partenariat envoyé 16/11 ~17h40 (vérifié), relance 19/11",suggestion de @yomidenzel
 2026-11-16,créateur,@yann_darwin,Yann Darwin,finance / immo / éco (FR),98.7K,,DM,YANN20,"DM partenariat envoyé 16/11 ~17h40 (vérifié), relance 19/11",suggestion de @yomidenzel
 2026-11-16,créateur,@thibaultbessonmagdelain,Thibault Besson-Magdelain,SEO / IA (FR),34.8K,,DM,THIBAULT20,"DM partenariat envoyé 16/11 ~17h40 (vérifié), relance 19/11",suggestion de @yomidenzel
@@ -334,3 +334,19 @@ date,type,instagram,nom,niche,abonnes,email,canal,code_partenaire,statut,notes
 2026-11-17,boutique,osmeh.ch,Camille et Guillaume (Osmēh),bougies (Genève),,info@osmeh.ch,EMAIL,,EMAIL 63/100 envoyé 17/11 ~14h (relance le 20/11),email: mentions légales
 2026-11-17,boutique,ourseblanche.com,Ourse Blanche,carrés de soie (Angers),,bonjour@ourseblanche.com,EMAIL,,EMAIL 64/100 envoyé 17/11 ~14h (relance le 20/11),email: /contact
 2026-11-17,créateur,Ecommerce Coffee Break (podcast EN),Claus Lauter,e-commerce / Shopify (EN),~15K newsletter,hello@ecommercecoffeebreak.com,EMAIL,CLAUS20,EMAIL envoyé 17/11 ~14h (relance le 20/11),email: newsletter beehiiv #106
+2026-11-17,créateur,@ramzi_kerouicha_,Ramzi Kerouicha,marketing / personal branding entrepreneurs (FR),2.9K,,DM,RAMZI20,"DM partenariat envoyé 17/11 ~14h40 (vérifié), relance 20/11",suggestion de @enz_leer
+2026-11-17,créateur,@ambre_ecom,Ambre,e-commerce / scaling (FR),16.4K,,DM,AMBRE20,"DM partenariat envoyé 17/11 ~14h40 (vérifié), relance 20/11",suggestion de @sebastien.smp
+2026-11-17,créateur,@nathtwobak,Nathanaël Debaque,e-commerce / formation (FR),5.5K,,DM,NATHANAEL20,"DM partenariat envoyé 17/11 ~14h40 (vérifié), relance 20/11",suggestion de @sebastien.smp
+2026-11-17,créateur,@jean_hdr,Jean Hollaender,webinaires / marketing (FR),28.6K,,DM,JEAN20,"DM partenariat envoyé 17/11 ~14h40 (vérifié), relance 20/11",suggestion de @sebastien.smp ; réponse auto reçue (pub webinaire)
+2026-11-17,créateur,@adamcitron_,Adam Citron,e-commerce / marque US (FR),4.1K,,DM,ADAM20,"DM partenariat envoyé 17/11 ~14h40 (vérifié), relance 20/11",suggestion de @sebastien.smp
+2026-11-17,créateur,@gaspardgrosjean,Gaspard Grosjean,e-commerce Google Ads (FR),121K,,DM,GASPARD20,"DM partenariat envoyé 17/11 ~14h40 (vérifié), relance 20/11",vu chez @ambre_ecom (le plus gros du passage)
+2026-11-17,créateur,@gilbert.tonye,Gilbert Tonye,e-commerce / communauté Skool (FR),7.6K,,DM,GILBERT20,"DM partenariat envoyé 17/11 ~14h40 (vérifié), relance 20/11",vu chez @adamcitron_
+2026-11-17,créateur,@mason.ndiaye,Mason Ndiaye,business high-ticket / Skool (FR),13.5K,,DM,MASON20,"DM partenariat envoyé 17/11 ~14h40 (vérifié), relance 20/11",vu chez @jean_hdr
+2026-11-17,créateur,@robin.dormion,Robin Dormion,app founder / viralité (FR),35.6K,,DM,ROBIN20,"DM partenariat envoyé 17/11 ~14h40 (vérifié), relance 20/11",vu chez @enz_leer
+2026-11-07,créateur,@milo.ecomm,Milo,e-commerce / SaaS (FR),2.4K,,DM,MILO20,DM 07/11 (trouvé hors CSV) ; RELANCE DM envoyée 17/11 ~14h50 (vérifiée),à ne plus relancer
+2026-11-17,créateur,@tikproelite_,Flo Jouel,TikTok money (FR),29K,,,,pas de bouton message – vu 17/11,
+2026-11-17,créateur,@growwithmathis,Mathis,IA / argent en ligne (FR),1.8K,,,,"pas de bouton message, trop petit – vu 17/11",
+2026-11-17,créateur,@fabricemaillardet,Fabrice Maillardet,vente à distance (QC),22.6K,,,,pas de bouton message – vu 17/11,
+2026-11-17,créateur,@loicbourget_,Loïc Bourget,viralité entrepreneurs (FR),241K,,,,pas de bouton message – vu 17/11,
+2026-11-17,créateur,@marvinndiaye_,Marvin Ndiaye,entrepreneuriat (FR),383K,,,,trop gros – vu 17/11,
+2026-11-17,créateur,@ilancardon_,Ilan Cardon,e-commerce IA (FR),835,,,,trop petit – écarté 17/11,
