@@ -1,0 +1,33 @@
+{
+ "lang": "en",
+ "accent": "#7c5cff",
+ "slides": [
+  {"type":"min","style":"min","theme":"dark","tag":"🛍️ Holiday 2026","huge":"88%","hy":200,"hs":360,"hc":"#9b85ff",
+   "title":"of Americans plan\nto *shop small* this\nholiday season.","ty":600,"fs":84,
+   "sub":"The highest level since 2012.\nHere's how to get their money 👇","sy":1000,"ss":40},
+  {"type":"min","style":"min","theme":"light","tag":"01 · Why","huge":"72%","hy":210,"hs":300,"hc":"#6a45f5",
+   "title":"shop small to find\n*memorable gifts*.","ty":540,"fs":84,
+   "sub":"70% get joy from discovering new\nsmall businesses during the holidays.","sy":860,"ss":38},
+  {"type":"min","style":"min","theme":"dark","tag":"02 · How they find you","huge":"65%","hy":210,"hs":300,"hc":"#9b85ff",
+   "title":"pick a small business\nfrom *friends & family*\nrecommendations.","ty":540,"fs":80,
+   "sub":"The #1 way shoppers choose\nwhere to buy small.","sy":900,"ss":38},
+  {"type":"min","style":"min","theme":"light","tag":"03 · What convinces them","huge":"45%","hy":210,"hs":300,"hc":"#6a45f5",
+   "title":"check *customer\nreviews*. 39% look at\nsocial media posts.","ty":540,"fs":80,
+   "sub":"Word of mouth, then reviews,\nthen social. In that order.","sy":900,"ss":38},
+  {"type":"min","style":"min","theme":"dark","tag":"04 · The owners","huge":"96%","hy":210,"hs":300,"hc":"#9b85ff",
+   "title":"of small business owners\nare trying *new strategies*\nthis year.","ty":540,"fs":74,
+   "sub":"And 90% expect to use AI tools\nthis holiday season.","sy":900,"ss":38},
+  {"type":"min","style":"min","theme":"light","tag":"05 · The stakes","huge":"70%","hy":210,"hs":300,"hc":"#6a45f5",
+   "title":"say holiday sales will\nshape their *growth\nin 2027*.","ty":540,"fs":80,
+   "sub":"For 82%, support from loyal customers\nmeans the most this time of year.","sy":900,"ss":38},
+  {"type":"quote","style":"min","theme":"dark","tag":"💬 Quote",
+   "title":"Small businesses bring *character and connection* to our communities.",
+   "author":"Elizabeth Rutledge, CMO of American Express\n(press release, Nov. 12, 2026)","ty":380,"tr":90,"fs":100,"sy":1000,"noswipe":true},
+  {"type":"min","style":"min","theme":"light","tag":"06 · Save the date","huge":"Nov 28","hy":210,"hs":260,"hc":"#6a45f5",
+   "title":"is *Small Business\nSaturday*. The day after\nBlack Friday.","ty":540,"fs":76,
+   "sub":"American Express created it in 2010\n(Amex 2026 Shop Small Impact Study,\nTeneo, 1,008 US adults, Sept. 2026).","sy":880,"ss":36},
+  {"type":"cta","style":"min","theme":"green","tag":"💡 The lesson",
+   "title":"Make it easy to\n*recommend you*. 🤝","ty":220,"fs":84,
+   "sub":"✅ A referral code or gift card\n✅ Reviews right next to Add to cart\n✅ Your face & story on the About page\n✅ A thank-you note in every order\n\nStoreScore audits your store from €49\nLink in bio 🔗 · Save this post 🔖","sy":500,"ss":44}
+ ]
+}
