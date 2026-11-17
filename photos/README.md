@@ -308,3 +308,17 @@ Format paysage : utiliser en fond plein écran recadré ou en carte (card) dans 
 - glacier-tabourets-oranges.jpg — Emmy Gaddy / Unsplash (photo-1668742777532)
 - glace-chocolat-cornets-bac.jpg — American Heritage Chocolate / Unsplash (photo-1673551493011)
 - glace-cuillere-planche.jpg — Anshu A / Unsplash (photo-1532537455099)
+
+## Ajout du 17 nov 2026 après-midi (Unsplash, licence Unsplash — créditer « Photo : [auteur] / Unsplash, modifiée »)
+- canette-energy-drink-sombre.jpg — Marcel Strauß / Unsplash (photo-1612635901022) — canette Red Bull, fond sombre
+- bangkok-tuktuks-neon-nuit.jpg — Mikhail Blinov / Unsplash (photo-1766256711872)
+- alpes-salzbourg-coucher.jpg — Johanna Huber / Unsplash (photo-1545758000)
+- parachutiste-chute-libre-ciel.jpg — Filipe Dos Santos Mendes / Unsplash (photo-1483301563007)
+- panier-osier-main.jpg — Annie Spratt / Unsplash (photo-1516283112080)
+- sac-cuir-noir-main.jpg — Sincerely Media / Unsplash (photo-1537440437066)
+- marteau-encheres-bleu.jpg — Jakub Żerdzicki / Unsplash (photo-1676181739859)
+- foule-photos-galerie-nb.jpg — John / Unsplash (photo-1761054783454)
+- hublot-aile-nuages.jpg — Alex Azabache / Unsplash (photo-1568323993144)
+- hublot-femme-cabine-sombre.jpg — Rafael Garcin / Unsplash (photo-1785517741658) (non utilisée)
+- cabine-avion-sieges.jpg — Alexander Schimmeck / Unsplash (photo-1762960246763)
+- sac-geant-rose-rue.jpg — Zoshua Colah / Unsplash (photo-1722236525371) — sac géant rose façon Birkin dans une rue
