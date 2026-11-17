@@ -1,0 +1,338 @@
+{
+ "lang": "en",
+ "accent": "#c13584",
+ "slides": [
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "📖 True story",
+   "cards": [
+    [
+     "photos/lib/whisky-verre-glace-sombre.jpg",
+     50,
+     170,
+     560,
+     400,
+     -6,
+     "",
+     "50% 60%"
+    ],
+    [
+     "photos/lib/telephone-photo-coucher-soleil.jpg",
+     590,
+     240,
+     410,
+     500,
+     6,
+     "",
+     "45% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🥃",
+     880,
+     120,
+     140,
+     14
+    ],
+    [
+     "📸",
+     40,
+     560,
+     120,
+     -14
+    ],
+    [
+     "✂️",
+     500,
+     670,
+     110,
+     -8
+    ],
+    [
+     "💸",
+     900,
+     720,
+     110,
+     12
+    ]
+   ],
+   "title": "His app was a flop.\nHe deleted everything\nbut *the photos*.",
+   "fs": 80,
+   "ty": 810,
+   "lh": 1.1,
+   "sub": "Then it sold for $1 billion 👇",
+   "sy": 1160
+  },
+  {
+   "type": "text",
+   "theme": "dark",
+   "tag": "01 · The app",
+   "num": "2010",
+   "title": "Kevin Systrom builds\n*Burbn*, an app named\nafter bourbon.",
+   "fs": 64,
+   "ty": 420,
+   "sub": "Check-ins, a game, photos...\nHe raises $500K from Baseline Ventures\nand Andreessen Horowitz (The Next Web).",
+   "sy": 690,
+   "cards": [
+    [
+     "photos/lib/telephone-photo-mains-interieur.jpg",
+     90,
+     960,
+     560,
+     310,
+     -5,
+     "",
+     "50% 45%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🥃",
+     780,
+     990,
+     150,
+     10
+    ],
+    [
+     "📍",
+     880,
+     170,
+     110,
+     -8
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "02 · The problem",
+   "num": "100",
+   "title": "users. Too many features,\n*zero momentum*.",
+   "fs": 64,
+   "ty": 420,
+   "sub": "\"We had decided that Burbn wasn't\ngoing to do anything,\" Systrom said\n(How I Built This, NPR).",
+   "sy": 690,
+   "cards": [
+    [
+     "photos/lib/telephone-photo-ruelle.jpg",
+     90,
+     960,
+     560,
+     310,
+     -5,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "📉",
+     780,
+     990,
+     150,
+     10
+    ],
+    [
+     "😬",
+     880,
+     170,
+     110,
+     -8
+    ]
+   ]
+  },
+  {
+   "type": "quote",
+   "style": "min",
+   "theme": "dark",
+   "tag": "💬 Quote",
+   "title": "When we looked at our user base, our whole hundred people, each of them loved the *photo aspect*.",
+   "author": "Kevin Systrom, co-founder of Instagram\n(How I Built This, NPR, 2016)",
+   "ty": 360,
+   "tr": 90,
+   "fs": 86,
+   "sy": 1010,
+   "noswipe": true
+  },
+  {
+   "type": "text",
+   "theme": "dark",
+   "tag": "03 · The cut",
+   "num": "✂️",
+   "title": "They cut everything\nbut *the photos*.\nThen add filters.",
+   "fs": 64,
+   "ty": 420,
+   "sub": "His girlfriend's tip on a trip to Mexico:\n\"You should probably add filters.\"\nThe first one: X-Pro II (NPR).",
+   "sy": 690,
+   "cards": [
+    [
+     "photos/lib/plage-paillotes.jpg",
+     90,
+     960,
+     560,
+     310,
+     -5,
+     "",
+     "50% 40%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🎨",
+     780,
+     990,
+     150,
+     10
+    ],
+    [
+     "🌴",
+     880,
+     170,
+     110,
+     -8
+    ]
+   ],
+   "ns": 190
+  },
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "04 · Launch night",
+   "num": "25,000",
+   "title": "people sign up in\n*24 hours*. The server\nkeeps crashing.",
+   "fs": 64,
+   "ty": 420,
+   "sub": "October 2010 (TechCrunch, NPR).\n1 million users by December 2010\n(The Next Web).",
+   "sy": 690,
+   "cards": [
+    [
+     "photos/lib/telephone-photo-rue-nuit.jpg",
+     90,
+     960,
+     560,
+     310,
+     -5,
+     "",
+     "50% 55%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🚀",
+     780,
+     990,
+     150,
+     10
+    ],
+    [
+     "🔥",
+     880,
+     170,
+     110,
+     -8
+    ]
+   ],
+   "ns": 180
+  },
+  {
+   "type": "text",
+   "theme": "dark",
+   "tag": "05 · The deal",
+   "num": "$1B",
+   "title": "Facebook buys Instagram.\nIt has *13 employees*\nand no revenue.",
+   "fs": 64,
+   "ty": 420,
+   "sub": "April 2012, in cash and stock\n(TechCrunch, Wikipedia).",
+   "sy": 690,
+   "cards": [
+    [
+     "photos/lib/billets-un-dollar-tas.jpg",
+     90,
+     960,
+     560,
+     310,
+     -5,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "💸",
+     780,
+     990,
+     150,
+     10
+    ],
+    [
+     "🤝",
+     880,
+     170,
+     110,
+     -8
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "06 · Today",
+   "num": "3B",
+   "title": "people use Instagram every\nmonth. Including *you*,\nright now. 👀",
+   "fs": 64,
+   "ty": 420,
+   "sub": "Mark Zuckerberg, September 2025\n(Reuters).",
+   "sy": 690,
+   "cards": [
+    [
+     "photos/lib/telephone-photo-ocean.jpg",
+     90,
+     960,
+     560,
+     310,
+     -5,
+     "",
+     "60% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "📱",
+     780,
+     990,
+     150,
+     10
+    ],
+    [
+     "🤯",
+     880,
+     170,
+     110,
+     -8
+    ]
+   ]
+  },
+  {
+   "type": "cta",
+   "theme": "green",
+   "tag": "💡 The lesson",
+   "title": "Find what customers\n*love*. Cut the rest. ✂️",
+   "fs": 80,
+   "ty": 190,
+   "sub": "✅ Check your top 3 best-sellers\n✅ Put them first on your homepage\n✅ Remove menus & pop-ups nobody uses\n\nStore audit from €49\nLink in bio 🔗 · Save this post 🔖",
+   "sy": 520,
+   "ss": 44,
+   "emoji": [
+    [
+     "📸",
+     850,
+     1100,
+     150,
+     10
+    ]
+   ]
+  }
+ ]
+}

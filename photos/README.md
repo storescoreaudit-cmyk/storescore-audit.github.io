@@ -322,3 +322,17 @@ Format paysage : utiliser en fond plein écran recadré ou en carte (card) dans 
 - hublot-femme-cabine-sombre.jpg — Rafael Garcin / Unsplash (photo-1785517741658) (non utilisée)
 - cabine-avion-sieges.jpg — Alexander Schimmeck / Unsplash (photo-1762960246763)
 - sac-geant-rose-rue.jpg — Zoshua Colah / Unsplash (photo-1722236525371) — sac géant rose façon Birkin dans une rue
+- ecriture-cursive-ombres-nb.jpg — Micah Boswell / Unsplash (photo-1543769657) — écriture manuscrite + ombres
+- main-stylo-carnet-ligne.jpg — Khoiru Abdan / Unsplash (photo-1687145183501)
+- carnet-stylo-table-cafe.jpg — Priscilla Du Preez / Unsplash (photo-1643148636630)
+- lettre-ancienne-calligraphie.jpg — Alessio Fiorentino / Unsplash (photo-1561812938)
+- stylo-bille-lettre-dear.jpg — Towfiqu barbhuiya / Unsplash (photo-1634562876572)
+- stylo-bille-fond-turquoise.jpg — Liviu C. / Unsplash (photo-1585336261022)
+- stylo-bleu-carnet-bois.jpg — Daniel Álvasd / Unsplash (photo-1601321268954)
+- whisky-verre-glace-sombre.jpg — Stefanie Jockschat / Unsplash (photo-1767536196118)
+- telephone-photo-coucher-soleil.jpg — Mantas Hesthaven / Unsplash (photo-1500763702684)
+- telephone-photo-ocean.jpg — Jordan McQueen / Unsplash (photo-1425315283416)
+- telephone-photo-rue-nuit.jpg — Dan Silva / Unsplash (photo-1523371683773)
+- telephone-photo-ruelle.jpg — Michael Sala / Unsplash (photo-1601134991665)
+- plage-paillotes.jpg — Chris-Håvard Berge / Unsplash (photo-1581329223402)
+- telephone-photo-mains-interieur.jpg — charlesdeluvio / Unsplash (photo-1543525469)
