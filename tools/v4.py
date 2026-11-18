@@ -136,7 +136,7 @@ def slide(s, i, n, lang):
         if s.get("cutout"):
             h += f'<img class="cut" src="{b64(s["cutout"])}" style="height:{s.get("cuth",700)}px;{s.get("cutpos","right:-40px")};opacity:.95">'
         h += f'<div class="title" style="top:{s.get("ty",260)}px;font-size:{s.get("fs",88)}px">{rich(s["title"])}</div>'
-        if s.get("sub"): h += f'<div class="sub" style="font-size:46px;top:{s.get("sy",640)}px;right:{s.get("tr",64)}px">{rich(s["sub"])}</div>'
+        if s.get("sub"): h += f'<div class="sub" style="font-size:{s.get("ss",46)}px;top:{s.get("sy",640)}px;right:{s.get("tr",64)}px">{rich(s["sub"])}</div>'
     for c in s.get("cards", []):
         h += f'<div class="card" style="left:{c[1]}px;top:{c[2]}px;width:{c[3]}px;height:{c[4]}px;transform:rotate({c[5]}deg);{c[6] if len(c)>6 else ""}"><img src="{b64(c[0])}" style="object-position:{c[7] if len(c)>7 else "center"}"></div>'
     if s.get("card"):

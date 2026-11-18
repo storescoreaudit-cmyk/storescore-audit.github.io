@@ -356,3 +356,18 @@ Format paysage : utiliser en fond plein écran recadré ou en carte (card) dans 
 - bougie-coulures-guirlande.jpg — Sixteen Miles Out / Unsplash (photo-1764683197547)
 - etiquettes-papier-quatre.jpg — Angèle Kamp / Unsplash (photo-1571907483086)
 - cintres-etiquette-70.jpg — Artem Beliaikin / Unsplash (photo-1594969155368)
+
+## Ajout du 18 nov 2026 soir (Unsplash, licence Unsplash — créditer « Photo : [auteur] / Unsplash, modifiée »)
+- hibou-grand-duc-yeux-orange.jpg — Dirk van Wolferen / Unsplash (photo-1579264688258)
+- hibou-souche-foret.jpg — Sonder Quest / Unsplash (photo-1543549790)
+- chouette-effraie-envol.jpg — Ronan Furuta / Unsplash (photo-1531275467514)
+- cybertruck-showroom.jpg — Zion C / Unsplash (photo-1785910723932)
+- cybertruck-noir-garage-sombre.jpg — Rana Singh / Unsplash (photo-1768352841952)
+- telephone-appli-mains-sombre.jpg — Christian Wiediger / Unsplash (photo-1521931961826)
+- telephone-notifications-ecran-verrouille.jpg — Jamie Street / Unsplash (photo-1514464750060)
+- defile-mannequin-robe-fond-noir.jpg — Anton van der Weijst / Unsplash (photo-1521722776011)
+- mode-jupe-tulle-nb.jpg — Ben Scott / Unsplash (photo-1601597565151)
+- croquis-mode-planches.jpg — Charlota Blunarova / Unsplash (photo-1557777586)
+- vitrine-mannequins-robes-nuit.jpg — Jana Shnipelson / Unsplash (photo-1681337150861)
+- paris-cour-velo-lampadaire.jpg — JOHN TOWNER / Unsplash (photo-1471623320832)
+- croquis-robe-jaune-annees50.jpg — Europeana / Unsplash (photo-1719947348832) — non utilisée
