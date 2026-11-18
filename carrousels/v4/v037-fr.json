@@ -1,0 +1,338 @@
+{
+ "lang": "fr",
+ "accent": "#2f5bff",
+ "slides": [
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "📖 Histoire vraie",
+   "cards": [
+    [
+     "photos/lib/gare-bondee-verriere.jpg",
+     50,
+     170,
+     560,
+     400,
+     -6,
+     "",
+     "50% 35%"
+    ],
+    [
+     "photos/lib/etiquettes-papier-quatre.jpg",
+     590,
+     240,
+     410,
+     500,
+     6,
+     "",
+     "40% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🛍️",
+     880,
+     120,
+     140,
+     14
+    ],
+    [
+     "🏷️",
+     40,
+     560,
+     120,
+     -14
+    ],
+    [
+     "🎩",
+     500,
+     670,
+     110,
+     -8
+    ],
+    [
+     "📦",
+     900,
+     720,
+     110,
+     12
+    ]
+   ],
+   "title": "Ta boutique en ligne\nutilise des idées\n*de 1852*.",
+   "fs": 84,
+   "ty": 810,
+   "lh": 1.08,
+   "sub": "Il a inventé le shopping moderne 👇",
+   "sy": 1160
+  },
+  {
+   "type": "text",
+   "theme": "dark",
+   "tag": "01 · Le vendeur",
+   "num": "1852",
+   "title": "Aristide Boucicaut, fils\nde fermier, s'associe à\nune *petite mercerie*.",
+   "fs": 64,
+   "ty": 420,
+   "sub": "Au Bon Marché, rue de Sèvres à Paris :\n4 rayons, 12 employés, 300 m²\nà l'origine (Wikipedia).",
+   "sy": 690,
+   "cards": [
+    [
+     "photos/lib/rouleaux-tissu-bleus.jpg",
+     90,
+     960,
+     560,
+     310,
+     -5,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🧵",
+     780,
+     990,
+     150,
+     10
+    ],
+    [
+     "🧑‍🌾",
+     880,
+     170,
+     110,
+     -8
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "02 · Le prix",
+   "num": "🏷️",
+   "title": "Fini le marchandage :\nle prix est *affiché*.\nPour tout le monde.",
+   "fs": 64,
+   "ty": 420,
+   "sub": "On entre sans obligation d'acheter.\nPetites marges, gros volumes\n(EBSCO, Paris ZigZag).",
+   "sy": 690,
+   "cards": [
+    [
+     "photos/lib/cintres-etiquette-70.jpg",
+     90,
+     960,
+     560,
+     310,
+     -5,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "💶",
+     780,
+     990,
+     150,
+     10
+    ],
+    [
+     "🤝",
+     880,
+     170,
+     110,
+     -8
+    ]
+   ],
+   "ns": 190
+  },
+  {
+   "type": "text",
+   "theme": "dark",
+   "tag": "03 · La confiance",
+   "num": "↩️",
+   "title": "Pas satisfaite ?\n*On échange ou\non rembourse.*",
+   "fs": 64,
+   "ty": 420,
+   "sub": "Une garantie rare à l'époque,\nqui rassure les clientes\n(Wikipedia, EBSCO).",
+   "sy": 690,
+   "cards": [
+    [
+     "photos/lib/colis-remise-mains.jpg",
+     90,
+     960,
+     560,
+     310,
+     -5,
+     "",
+     "50% 45%"
+    ]
+   ],
+   "emoji": [
+    [
+     "✅",
+     780,
+     990,
+     150,
+     10
+    ],
+    [
+     "🙌",
+     880,
+     170,
+     110,
+     -8
+    ]
+   ],
+   "ns": 190
+  },
+  {
+   "type": "quote",
+   "style": "min",
+   "theme": "dark",
+   "tag": "💬 Citation",
+   "title": "C'était la *cathédrale du commerce moderne*, solide et légère, faite pour un peuple de clientes.",
+   "author": "Émile Zola, Au Bonheur des Dames (1883),\nroman inspiré du Bon Marché",
+   "ty": 360,
+   "tr": 90,
+   "fs": 88,
+   "sy": 1010,
+   "noswipe": true
+  },
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "04 · Le marketing",
+   "num": "6 M",
+   "title": "de *catalogues* envoyés\naux clientes. Bien avant\nInternet. 📬",
+   "fs": 64,
+   "ty": 420,
+   "sub": "Plus : livraison à domicile, pubs dans\nles journaux, soldes réguliers comme\nla « semaine du blanc ».",
+   "sy": 690,
+   "cards": [
+    [
+     "photos/lib/journaux-pile.jpg",
+     90,
+     960,
+     560,
+     310,
+     -5,
+     "",
+     "50% 40%"
+    ]
+   ],
+   "emoji": [
+    [
+     "📦",
+     780,
+     990,
+     150,
+     10
+    ],
+    [
+     "📰",
+     880,
+     170,
+     110,
+     -8
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "theme": "dark",
+   "tag": "05 · Les chiffres",
+   "num": "×144",
+   "title": "Les ventes passent de\n500 000 F (1852) à\n*72 millions* (1877).",
+   "fs": 64,
+   "ty": 420,
+   "sub": "1 888 employés en 1879. Agrandi en 1872\navec l'entreprise de Gustave Eiffel\n(Wikipedia).",
+   "sy": 690,
+   "cards": [
+    [
+     "photos/lib/salle-conseil-boiseries.jpg",
+     90,
+     960,
+     560,
+     310,
+     -5,
+     "",
+     "50% 30%"
+    ]
+   ],
+   "emoji": [
+    [
+     "📈",
+     780,
+     990,
+     150,
+     10
+    ],
+    [
+     "🗼",
+     880,
+     170,
+     110,
+     -8
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "06 · Aujourd'hui",
+   "num": "LVMH",
+   "title": "Le Bon Marché est\ntoujours là, *rue de Sèvres*,\n170 ans plus tard.",
+   "fs": 64,
+   "ty": 420,
+   "sub": "Racheté par Bernard Arnault en 1984,\nmembre fondateur de LVMH (Wikipedia).",
+   "sy": 690,
+   "cards": [
+    [
+     "photos/lib/parisienne-rue.jpg",
+     90,
+     960,
+     560,
+     310,
+     -5,
+     "",
+     "50% 40%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🇫🇷",
+     780,
+     990,
+     150,
+     10
+    ],
+    [
+     "✨",
+     880,
+     170,
+     110,
+     -8
+    ]
+   ]
+  },
+  {
+   "type": "cta",
+   "theme": "green",
+   "tag": "💡 La leçon",
+   "title": "Les règles de 1852\nvendent *encore*. 🛍️",
+   "fs": 80,
+   "ty": 190,
+   "sub": "✅ Prix + frais de port visibles tout de suite\n✅ Retours simples, écrits en gros\n✅ De belles « vitrines » : photos soignées\n✅ Des temps forts : soldes, ventes privées\n\nAudit de ta boutique dès 49 €\nLien en bio 🔗 · Enregistre ce post 🔖",
+   "sy": 500,
+   "ss": 42,
+   "emoji": [
+    [
+     "🏷️",
+     850,
+     1100,
+     150,
+     10
+    ]
+   ]
+  }
+ ]
+}

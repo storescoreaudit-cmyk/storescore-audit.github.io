@@ -345,3 +345,14 @@ Format paysage : utiliser en fond plein écran recadré ou en carte (card) dans 
 - ferrari-dino-phare.jpg — Joost Crop / Unsplash (photo-1528561404880) — phare d'une Ferrari Dino rouge, fond sombre
 - miura-jaune-salon.jpg — Flavien / Unsplash (photo-1771387568932) — Lamborghini Miura jaune dans un salon
 - lamborghini-logo-capot-noir.jpg — Chris Kursikowski / Unsplash (photo-1632479803237) — écusson taureau sur capot noir (vertical)
+
+## Ajout du 18 nov 2026 après-midi (Unsplash, licence Unsplash — créditer « Photo : [auteur] / Unsplash, modifiée »)
+- bougie-pot-verre-fourrure.jpg — Joyce G / Unsplash (photo-1603006905003)
+- crayons-cire-alignes.jpg — Josh Eckstein / Unsplash (photo-1541018939203) — marque Crayola visible
+- crayons-cire-boite.jpg — Leisy Vidal / Unsplash (photo-1511288842297) — marque Crayola visible
+- bougie-sapin-noel-bokeh.jpg — Anthony Cantin / Unsplash (photo-1764522274917)
+- bougie-fine-noir.jpg — Sixteen Miles Out / Unsplash (photo-1762871627042)
+- bougies-pommes-de-pin.jpg — Merve Sehirli Nasir / Unsplash (photo-1765541268140)
+- bougie-coulures-guirlande.jpg — Sixteen Miles Out / Unsplash (photo-1764683197547)
+- etiquettes-papier-quatre.jpg — Angèle Kamp / Unsplash (photo-1571907483086)
+- cintres-etiquette-70.jpg — Artem Beliaikin / Unsplash (photo-1594969155368)
