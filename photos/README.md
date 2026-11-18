@@ -336,3 +336,12 @@ Format paysage : utiliser en fond plein écran recadré ou en carte (card) dans 
 - telephone-photo-ruelle.jpg — Michael Sala / Unsplash (photo-1601134991665)
 - plage-paillotes.jpg — Chris-Håvard Berge / Unsplash (photo-1581329223402)
 - telephone-photo-mains-interieur.jpg — charlesdeluvio / Unsplash (photo-1543525469)
+
+## Ajout du 18 nov 2026 matin (Unsplash, licence Unsplash — créditer « Photo : [auteur] / Unsplash, modifiée »)
+- tracteur-blanc-grange.jpg — Eric Prouzet / Unsplash (photo-1692365375389) — vieux tracteur dans une grange sombre
+- tracteur-rouge-piste.jpg — Chris Bischoff / Unsplash (photo-1779205143472) — homme sur tracteur rouge vintage (marque Farmall visible)
+- route-collines-dorees.jpg — Lorenzo Gerosa / Unsplash (photo-1630511390971) — route sinueuse, collines dorées (Italie)
+- volant-course-vintage.jpg — Matthieu Rochette / Unsplash (photo-1679604421625) — volant bois + compteurs d'une Ferrari de course ancienne
+- ferrari-dino-phare.jpg — Joost Crop / Unsplash (photo-1528561404880) — phare d'une Ferrari Dino rouge, fond sombre
+- miura-jaune-salon.jpg — Flavien / Unsplash (photo-1771387568932) — Lamborghini Miura jaune dans un salon
+- lamborghini-logo-capot-noir.jpg — Chris Kursikowski / Unsplash (photo-1632479803237) — écusson taureau sur capot noir (vertical)
