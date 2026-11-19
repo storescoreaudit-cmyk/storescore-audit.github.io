@@ -371,3 +371,8 @@ Format paysage : utiliser en fond plein écran recadré ou en carte (card) dans 
 - vitrine-mannequins-robes-nuit.jpg — Jana Shnipelson / Unsplash (photo-1681337150861)
 - paris-cour-velo-lampadaire.jpg — JOHN TOWNER / Unsplash (photo-1471623320832)
 - croquis-robe-jaune-annees50.jpg — Europeana / Unsplash (photo-1719947348832) — non utilisée
+- epicerie-ancienne-etageres.jpg — Mateo Krossler / Unsplash (photo-1771772238766)
+- biscuits-papier-journal.jpg — George Gkaniatsas / Unsplash (photo-1573827196605)
+- biscuits-pile-sables.jpg — Jeff Siepman / Unsplash (photo-1588070141852) — non utilisée
+- caisse-enregistreuse-doree.jpg — Ramiro Mendes / Unsplash (photo-1505166065723)
+- bretagne-ruelle-village-mer.jpg — Gilles Boutault / Unsplash (photo-1728402777379) — non utilisée
