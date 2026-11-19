@@ -1,0 +1,376 @@
+{
+ "lang": "fr",
+ "accent": "#ff8c1a",
+ "slides": [
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "📖 Histoire vraie",
+   "cards": [
+    [
+     "photos/lib/oursons-gomme-gros-plan.jpg",
+     50,
+     170,
+     520,
+     560,
+     -6,
+     "",
+     "50% 50%"
+    ],
+    [
+     "photos/lib/casseroles-cuivre-fourneau.jpg",
+     600,
+     250,
+     420,
+     500,
+     6,
+     "",
+     "50% 30%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🐻",
+     470,
+     120,
+     130,
+     14
+    ],
+    [
+     "🍬",
+     40,
+     610,
+     120,
+     -12
+    ],
+    [
+     "✨",
+     890,
+     700,
+     120,
+     12
+    ],
+    [
+     "🚲",
+     880,
+     140,
+     110,
+     -10
+    ]
+   ],
+   "title": "Un sac de sucre et\n*une casserole*.",
+   "fs": 92,
+   "ty": 820,
+   "lh": 1.08,
+   "sub": "Aujourd'hui : 160 millions d'oursons\npar jour. L'histoire d'Haribo 👇",
+   "sy": 1095
+  },
+  {
+   "type": "text",
+   "theme": "dark",
+   "tag": "01 · Le départ",
+   "num": "1920",
+   "title": "Hans Riegel, 27 ans,\nlance sa confiserie\ndans une *cuisine* à Bonn.",
+   "fs": 64,
+   "ty": 420,
+   "sub": "Sac de sucre, plaque de marbre,\ntabouret, fourneau, casserole en cuivre\net rouleau (site officiel Haribo).",
+   "sy": 690,
+   "cards": [
+    [
+     "photos/lib/casseroles-cuivre-fourneau.jpg",
+     90,
+     960,
+     560,
+     310,
+     -5,
+     "",
+     "50% 75%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🍳",
+     780,
+     990,
+     150,
+     10
+    ],
+    [
+     "🇩🇪",
+     880,
+     170,
+     110,
+     -8
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "02 · L'équipe",
+   "num": "🚲",
+   "title": "1re employée : sa femme\n*Gertrud*. Elle livre\nla production à vélo.",
+   "fs": 64,
+   "ty": 420,
+   "sub": "Le nom vient de là : HAns RIegel\nBOnn. HARIBO (site officiel Haribo,\nSmithsonian).",
+   "sy": 690,
+   "cards": [
+    [
+     "photos/lib/bocaux-bonbons-sweet-shop.jpg",
+     90,
+     960,
+     560,
+     310,
+     -5,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "👩",
+     780,
+     990,
+     150,
+     10
+    ],
+    [
+     "📦",
+     880,
+     170,
+     110,
+     -8
+    ]
+   ],
+   "ns": 190
+  },
+  {
+   "type": "text",
+   "theme": "dark",
+   "tag": "03 · L'idée",
+   "num": "1922",
+   "title": "Il invente l'*ours dansant*,\nen gomme. Deux ours\npour 1 pfennig.",
+   "fs": 64,
+   "ty": 420,
+   "sub": "Plus grand et plus fin que les oursons\nd'aujourd'hui (site officiel Haribo).\nL'Allemagne est en pleine inflation.",
+   "sy": 690,
+   "cards": [
+    [
+     "photos/lib/oursons-orange-flottants.jpg",
+     90,
+     960,
+     560,
+     310,
+     -5,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🐻",
+     780,
+     990,
+     150,
+     10
+    ],
+    [
+     "💃",
+     880,
+     170,
+     110,
+     -8
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "04 · Le slogan",
+   "num": "1930",
+   "title": "« Haribo macht\nKinder froh » : Haribo\nrend *les enfants* heureux.",
+   "fs": 64,
+   "ty": 420,
+   "sub": "Une phrase simple, facile à retenir.\nEn 1933 : 400 salariés\n(site officiel Haribo).",
+   "sy": 690,
+   "cards": [
+    [
+     "photos/lib/bonbons-etal-marche.jpg",
+     90,
+     960,
+     560,
+     310,
+     -5,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "📣",
+     780,
+     990,
+     150,
+     10
+    ],
+    [
+     "😁",
+     880,
+     170,
+     110,
+     -8
+    ]
+   ]
+  },
+  {
+   "type": "quote",
+   "style": "min",
+   "theme": "dark",
+   "tag": "💬 Citation",
+   "title": "On connaît l'histoire d'Apple qui a démarré dans un *garage*. Haribo, à l'époque, c'était un peu ça.",
+   "author": "Christian Bahlmann, directeur de la\ncommunication d'Haribo (Smithsonian, traduit)",
+   "ty": 360,
+   "tr": 90,
+   "fs": 76,
+   "sy": 1000,
+   "noswipe": true
+  },
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "05 · La chute",
+   "num": "30",
+   "title": "salariés seulement après\nla guerre. Hans Riegel est\nmort en 1945, *à 52 ans*.",
+   "fs": 64,
+   "ty": 420,
+   "sub": "Ses fils Hans et Paul reprennent\nen 1946. En 1950 : environ 1 000\nsalariés (site officiel Haribo).",
+   "sy": 690,
+   "cards": [
+    [
+     "photos/lib/reglisse-bol-fond-jaune.jpg",
+     90,
+     960,
+     560,
+     310,
+     -5,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🔁",
+     780,
+     990,
+     150,
+     10
+    ],
+    [
+     "💪",
+     880,
+     170,
+     110,
+     -8
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "theme": "dark",
+   "tag": "06 · La star",
+   "num": "1960",
+   "title": "L'ours dansant devient\nle *Goldbär* (ours d'or).\n1967 : arrivée en France.",
+   "fs": 64,
+   "ty": 420,
+   "sub": "Même produit, même forme reconnaissable,\nnouveau nom (site officiel Haribo,\nSmithsonian).",
+   "sy": 690,
+   "cards": [
+    [
+     "photos/lib/oursons-arc-en-ciel-rang.jpg",
+     90,
+     960,
+     560,
+     310,
+     -5,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🥇",
+     780,
+     990,
+     150,
+     10
+    ],
+    [
+     "🇫🇷",
+     880,
+     170,
+     110,
+     -8
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "07 · Aujourd'hui",
+   "num": "160 M",
+   "title": "d'oursons d'or fabriqués\n*chaque jour* dans\nle monde (Smithsonian).",
+   "fs": 64,
+   "ty": 420,
+   "sub": "16 sites dans 11 pays, environ\n8 500 salariés, vendu dans près\nde 200 pays (site officiel Haribo).",
+   "sy": 690,
+   "cards": [
+    [
+     "photos/lib/oursons-tas-fond-blanc.jpg",
+     90,
+     960,
+     560,
+     310,
+     -5,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🌍",
+     780,
+     990,
+     150,
+     10
+    ],
+    [
+     "🍭",
+     880,
+     170,
+     110,
+     -8
+    ]
+   ]
+  },
+  {
+   "type": "cta",
+   "theme": "green",
+   "tag": "💡 La leçon",
+   "title": "Un produit star.\n*Une phrase* qu'on retient.",
+   "fs": 78,
+   "ty": 190,
+   "sub": "Haribo a commencé avec presque rien.\nPas besoin d'un gros budget pour ça.\n\n✅ Ton produit star en 1re image\n✅ Un slogan de 5 mots max en haut\n✅ Une forme, une couleur, un nom simples\n✅ Commence avec ce que tu as\n\nAudit de ta boutique dès 49 €\nLien en bio 🔗 · Enregistre ce post 🔖",
+   "sy": 470,
+   "ss": 40,
+   "emoji": [
+    [
+     "🐻",
+     830,
+     1090,
+     160,
+     10
+    ]
+   ]
+  }
+ ]
+}
