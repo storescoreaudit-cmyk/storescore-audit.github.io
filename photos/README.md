@@ -376,3 +376,21 @@ Format paysage : utiliser en fond plein écran recadré ou en carte (card) dans 
 - biscuits-pile-sables.jpg — Jeff Siepman / Unsplash (photo-1588070141852) — non utilisée
 - caisse-enregistreuse-doree.jpg — Ramiro Mendes / Unsplash (photo-1505166065723)
 - bretagne-ruelle-village-mer.jpg — Gilles Boutault / Unsplash (photo-1728402777379) — non utilisée
+
+## Ajout du 19 nov 2026 après-midi (Unsplash, licence Unsplash)
+- espresso-coule-verre-sombre.jpg — Scott K / Unsplash (photo-1772134141698)
+- rome-ruelle-nuit-terrasses.jpg — Yoav Aziz / Unsplash (photo-1647953815782)
+- capsules-cafe-couleurs-tas.jpg — Jisu Han / Unsplash (photo-1514212586585)
+- capsules-violettes-une-doree.jpg — Robert Clark / Unsplash (photo-1730026090184)
+- capsules-opercules-metal.jpg — Declan Sun / Unsplash (photo-1678097539755)
+- espresso-machine-verre-tasse.jpg — Nathan Dumlao / Unsplash (photo-1583165278997)
+- grains-cafe-torrefies-plein-cadre.jpg — Mona Jain / Unsplash (photo-1783926014847)
+- creme-pot-flottant-rocher.jpg — Eveling Salazar / Unsplash (photo-1763503839418)
+- creme-trace-fond-blanc.jpg — Jocelyn Morales / Unsplash (photo-1608068811588)
+- creme-pot-mains-peignoir.jpg — Poko Skincare / Unsplash (photo-1629380108574)
+- telephone-turquoise-vintage.jpg — Diogo Brandao / Unsplash (photo-1565277441243)
+- telephone-jaune-fond-jaune.jpg — Mike Meyers / Unsplash (photo-1557180295)
+- cadeau-kraft-ruban-rose.jpg — Jess Bailey / Unsplash (photo-1513201099705)
+- cadeaux-rouges-noeuds-or.jpg — Igor Omilaev / Unsplash (photo-1697717852279)
+- cadeau-blanc-noeud-rouge-fond-rouge.jpg — Anastasiia Chepinska / Unsplash (photo-1671150590216)
+- parfum-flacon-givre-ombre.jpg — Angélica Echeverry / Unsplash (photo-1572566202186)

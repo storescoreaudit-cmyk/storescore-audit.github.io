@@ -1,0 +1,338 @@
+{
+ "lang": "en",
+ "accent": "#e0457b",
+ "slides": [
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "📖 True story",
+   "cards": [
+    [
+     "photos/lib/creme-pot-flottant-rocher.jpg",
+     50,
+     170,
+     520,
+     560,
+     -6,
+     "",
+     "50% 45%"
+    ],
+    [
+     "photos/lib/cadeau-kraft-ruban-rose.jpg",
+     600,
+     250,
+     420,
+     500,
+     6,
+     "",
+     "45% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🎁",
+     470,
+     120,
+     130,
+     14
+    ],
+    [
+     "💄",
+     40,
+     610,
+     120,
+     -12
+    ],
+    [
+     "✨",
+     890,
+     700,
+     120,
+     12
+    ],
+    [
+     "💸",
+     890,
+     140,
+     110,
+     -10
+    ]
+   ],
+   "title": "She gave her creams\naway *for free*.",
+   "fs": 92,
+   "ty": 820,
+   "lh": 1.08,
+   "sub": "It built a $15 billion beauty empire.\nEstée Lauder's playbook 👇",
+   "sy": 1095
+  },
+  {
+   "type": "text",
+   "theme": "dark",
+   "tag": "01 · The start",
+   "num": "1946",
+   "title": "Estée and Joseph Lauder\nlaunch *her* skincare\nbrand in New York.",
+   "fs": 64,
+   "ty": 420,
+   "sub": "Her first creams came from her uncle,\nJohn Schotz, a chemist. She sold them\nin beauty salons (FundingUniverse).",
+   "sy": 690,
+   "cards": [
+    [
+     "photos/lib/creme-trace-fond-blanc.jpg",
+     90,
+     960,
+     560,
+     310,
+     -5,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🧪",
+     780,
+     990,
+     150,
+     10
+    ],
+    [
+     "🗽",
+     880,
+     170,
+     110,
+     -8
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "02 · The first deal",
+   "num": "$800",
+   "title": "Her first big order,\nfrom *Saks Fifth Avenue*.\nThe year: 1947.",
+   "fs": 64,
+   "ty": 420,
+   "sub": "She won the buyer over after a demo\nat the Waldorf Astoria (Estée Lauder\nCompanies, FundingUniverse).",
+   "sy": 690,
+   "cards": [
+    [
+     "photos/lib/grand-magasin.jpg",
+     90,
+     960,
+     560,
+     310,
+     -5,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🛍️",
+     780,
+     990,
+     150,
+     10
+    ],
+    [
+     "🤝",
+     880,
+     170,
+     110,
+     -8
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "theme": "dark",
+   "tag": "03 · The trick",
+   "num": "🎁",
+   "ns": 190,
+   "title": "A *free gift* with every\npurchase, so customers\ncome back for more.",
+   "fs": 64,
+   "ty": 420,
+   "sub": "She pioneered \"gift with purchase\".\nIt became a beauty industry\nstandard (Estée Lauder Companies).",
+   "sy": 690,
+   "cards": [
+    [
+     "photos/lib/cadeaux-rouges-noeuds-or.jpg",
+     90,
+     960,
+     560,
+     310,
+     -5,
+     "",
+     "50% 55%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🔁",
+     780,
+     990,
+     150,
+     10
+    ],
+    [
+     "😍",
+     880,
+     170,
+     110,
+     -8
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "04 · Word of mouth",
+   "num": "📞",
+   "ns": 190,
+   "title": "Her motto:\n\"Telephone, Telegraph,\n*Tell a Woman*.\"",
+   "fs": 64,
+   "ty": 420,
+   "sub": "Her bet: a happy customer talks.\nA free sample gets her talking.",
+   "sy": 690,
+   "cards": [
+    [
+     "photos/lib/telephone-turquoise-vintage.jpg",
+     90,
+     960,
+     560,
+     310,
+     -5,
+     "",
+     "50% 72%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🗣️",
+     780,
+     990,
+     150,
+     10
+    ],
+    [
+     "💬",
+     880,
+     170,
+     110,
+     -8
+    ]
+   ]
+  },
+  {
+   "type": "quote",
+   "style": "min",
+   "theme": "dark",
+   "tag": "💬 Quote",
+   "title": "I didn't get there by wishing for it or hoping for it, but by *working* for it.",
+   "author": "Estée Lauder, to her sales force\n(obituary, Business Report, 2004)",
+   "ty": 360,
+   "tr": 90,
+   "fs": 92,
+   "sy": 1000,
+   "noswipe": true
+  },
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "05 · The hit",
+   "num": "1953",
+   "title": "Youth-Dew: a bath oil\nthat doubles as *perfume*.\n$8.50 a bottle.",
+   "fs": 64,
+   "ty": 420,
+   "sub": "By the mid-1950s: 5,000 bottles\na week (FundingUniverse).",
+   "sy": 690,
+   "cards": [
+    [
+     "photos/lib/parfum-flacon-givre-ombre.jpg",
+     90,
+     960,
+     560,
+     310,
+     -5,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🛁",
+     780,
+     990,
+     150,
+     10
+    ],
+    [
+     "🌹",
+     880,
+     170,
+     110,
+     -8
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "theme": "dark",
+   "tag": "06 · Today",
+   "num": "$15B",
+   "title": "in net sales in fiscal\n2026. *Clinique*, MAC,\nLa Mer and more.",
+   "fs": 64,
+   "ty": 420,
+   "sub": "Year ended June 2026, +5% (company\nresults). Free samples are still\neverywhere in beauty.",
+   "sy": 690,
+   "cards": [
+    [
+     "photos/lib/creme-pot-mains-peignoir.jpg",
+     90,
+     960,
+     560,
+     310,
+     -5,
+     "",
+     "50% 30%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🌍",
+     780,
+     990,
+     150,
+     10
+    ],
+    [
+     "💖",
+     880,
+     170,
+     110,
+     -8
+    ]
+   ]
+  },
+  {
+   "type": "cta",
+   "theme": "green",
+   "tag": "💡 The lesson",
+   "title": "Let customers\n*try it first*.",
+   "fs": 92,
+   "ty": 190,
+   "sub": "A sample costs less than an ad.\n\n✅ A free mini with every first order\n✅ A gift above a cart threshold\n✅ Ask for a review after the sample\n✅ Make it easy to share\n\nStoreScore audits your store from €49\nLink in bio 🔗 · Save this post 🔖",
+   "sy": 470,
+   "ss": 44,
+   "emoji": [
+    [
+     "🎁",
+     830,
+     1080,
+     170,
+     -8
+    ]
+   ]
+  }
+ ]
+}
