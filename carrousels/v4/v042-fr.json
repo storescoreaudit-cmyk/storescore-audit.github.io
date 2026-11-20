@@ -1,0 +1,33 @@
+{
+ "lang": "fr",
+ "accent": "#7c5cff",
+ "slides": [
+  {"type": "min", "style": "min", "theme": "dark", "tag": "⭐ Nouvelle étude", "huge": "59 %", "hy": 200, "hs": 340, "hc": "#a48bff",
+   "title": "des acheteurs partent\ns'ils voient des signes\nde *faux avis*.", "ty": 600, "fs": 78,
+   "sub": "Étude Bazaarvoice du 19 nov. 2026,\nà une semaine du Black Friday 👇", "sy": 1000, "ss": 40},
+  {"type": "min", "style": "min", "theme": "light", "tag": "01 · Le n°1 des refus", "huge": "73 %", "hy": 210, "hs": 300, "hc": "#5b3df5",
+   "title": "disent que des avis surtout\n*négatifs* sont la 1re raison\nde renoncer à un cadeau.", "ty": 540, "fs": 70,
+   "sub": "Les avis décident avant le prix.", "sy": 900, "ss": 38},
+  {"type": "min", "style": "min", "theme": "dark", "tag": "02 · Le réflexe", "huge": "55 %", "hy": 210, "hs": 300, "hc": "#a48bff",
+   "title": "lisent d'abord les avis\n*1 et 2 étoiles* pour vérifier\nque les avis sont vrais.", "ty": 540, "fs": 70,
+   "sub": "Que des 5 étoiles ? Ça sent le faux.", "sy": 900, "ss": 38},
+  {"type": "min", "style": "min", "theme": "light", "tag": "03 · L'IA ne suffit pas", "huge": "1 %", "hy": 210, "hs": 300, "hc": "#5b3df5",
+   "title": "achètent tout de suite un\ncadeau conseillé par l'IA.\n*54 % filent aux avis*.", "ty": 540, "fs": 70,
+   "sub": "L'IA donne l'idée.\nLes avis clients font la vente.", "sy": 900, "ss": 38},
+  {"type": "min", "style": "min", "theme": "dark", "tag": "04 · Ce qui rassure", "huge": "67 %", "hy": 210, "hs": 300, "hc": "#a48bff",
+   "title": "citent d'abord les *avis\nvérifiés* pour oser une\nmarque jamais testée.", "ty": 540, "fs": 70,
+   "sub": "Juste derrière : les photos\net vidéos de clients (49 %).", "sy": 900, "ss": 38},
+  {"type": "min", "style": "min", "theme": "light", "tag": "05 · Attention à l'IA", "huge": "30 %", "hy": 210, "hs": 300, "hc": "#5b3df5",
+   "title": "sont rebutés par des\n*mannequins ou photos IA*\ndans les pubs de fêtes.", "ty": 540, "fs": 70,
+   "sub": "Contre 18 % en mars\n(acheteurs nord-américains).", "sy": 900, "ss": 38},
+  {"type": "quote", "style": "min", "theme": "dark", "tag": "💬 Citation",
+   "title": "Les acheteurs savent très bien *où ils veulent que l'IA intervienne*.",
+   "author": "Jo Callahan, VP Brand Strategy & Experience\nchez Bazaarvoice (19 nov. 2026, traduit)",
+   "ty": 360, "tr": 90, "fs": 92, "sy": 1000, "noswipe": true},
+  {"type": "min", "style": "min", "theme": "light", "tag": "06 · La source", "huge": "3 100+", "hy": 210, "hs": 260, "hc": "#5b3df5",
+   "title": "consommateurs interrogés\npar *Bazaarvoice* en mars\net en novembre 2026.", "ty": 540, "fs": 70,
+   "sub": "Amérique du Nord, Europe/Moyen-Orient/\nAfrique et Asie-Pacifique.\nMarge d'erreur ± 2,2 %.", "sy": 880, "ss": 36},
+  {"type": "cta", "style": "min", "theme": "green", "tag": "💡 La leçon", "title": "Des avis vrais,\n*même les mauvais.* ⭐", "ty": 220, "fs": 84,
+   "sub": "✅ Avis vérifiés, visibles sur chaque fiche\n✅ Garde les 1 et 2 étoiles (et réponds-y)\n✅ Photos et vidéos de vrais clients\n✅ Zéro photo produit générée par IA\n\nAudit de ta boutique dès 49 €\nLien en bio 🔗 · Enregistre ce post 🔖", "sy": 500, "ss": 40}
+ ]
+}

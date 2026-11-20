@@ -412,3 +412,11 @@ Format paysage : utiliser en fond plein écran recadré ou en carte (card) dans 
 - rothenburg-colombages-rue.jpg — Alain Rouiller / Unsplash (photo-1768557598931)
 - cimetiere-automne-tombes.jpg — Yilei (Jerry) Bao / Unsplash (photo-1764824766050)
 - formes-chaussures-bois.jpg — Jez Timms / Unsplash (photo-1520012538304)
+
+## Ajout du 20 nov 2026 matin (Unsplash, licence Unsplash — créditer « Photo : [auteur] / Unsplash, modifiée »)
+- milkshake-diner-table-rouge.jpg — Chris Boland / Unsplash (photo-1678712803863)
+- neon-burgers-fenetre.jpg — Leon Bublitz / Unsplash (photo-1565607569011)
+- steaks-hache-grill-flammes.jpg — Joshua Kantarges / Unsplash (photo-1554306297)
+- diner-facade-rue-coin.jpg — Stephen McFadden / Unsplash (photo-1654132464261)
+- diner-banquettes-rouges.jpg — Spencer Davis / Unsplash (photo-1555992336) — panneaux « Golden Valley Food Bank » visibles
+- comptoir-burger-clients-tabourets.jpg — Tetiana Shevereva / Unsplash (photo-1593462386344) — néon « Free burgers tomorrow »

@@ -1,0 +1,76 @@
+{
+ "lang": "en",
+ "accent": "#ff4b3e",
+ "slides": [
+  {
+   "type": "photo", "theme": "dark", "tag": "📖 True story",
+   "photo": "photos/lib/milkshake-diner-table-rouge.jpg", "pos": "50% 50%", "fh": 62,
+   "mag": "California · 1954",
+   "title": "Age 52. He sold\nmilkshake machines.\nThen *a burger stand*\nchanged his life.",
+   "ty": 290, "fs": 80, "lh": 1.04,
+   "sub": "How Ray Kroc turned it into\nMcDonald's 👇"
+  },
+  {
+   "type": "photo", "theme": "dark", "tag": "01 · The salesman",
+   "photo": "photos/lib/valises-cuir-vintage-pile.jpg", "pos": "50% 50%", "fh": 86,
+   "huge": "52", "hb": 680, "hs": 290, "hc": "#ff7a6e",
+   "title": "Ray Kroc is a traveling\nsalesman of *Multimixer*\nmilkshake machines.",
+   "ty": 380, "fs": 56, "lh": 1.08,
+   "sub": "He had mortgaged his home to become\nthe machine's distributor (247 Wall St)."
+  },
+  {
+   "type": "photo", "theme": "dark", "tag": "02 · The clue",
+   "photo": "photos/lib/neon-burgers-fenetre.jpg", "pos": "50% 40%", "fh": 86,
+   "huge": "8", "hb": 680, "hs": 290, "hc": "#ff7a6e",
+   "title": "One small restaurant in\nSan Bernardino orders\n*8 of his machines*.",
+   "ty": 380, "fs": 56, "lh": 1.08,
+   "sub": "An unusual order. He drives out\nto see why (Wikipedia,\nEncyclopedia.com, 247 Wall St)."
+  },
+  {
+   "type": "photo", "theme": "dark", "tag": "03 · The system",
+   "photo": "photos/lib/steaks-hache-grill-flammes.jpg", "pos": "50% 50%", "fh": 86,
+   "huge": "15¢", "hb": 680, "hs": 290, "hc": "#ff7a6e",
+   "title": "The McDonald brothers'\n*Speedee system*: a short\nmenu, burgers in seconds.",
+   "ty": 380, "fs": 56, "lh": 1.08,
+   "sub": "15-cent hamburgers since 1948.\n100+ customers at lunchtime\n(McDonald's, PBS SoCal)."
+  },
+  {
+   "type": "quote", "style": "min", "theme": "dark", "tag": "💬 Quote",
+   "title": "Visions of McDonald's restaurants dotting crossroads all over the country *paraded through my brain*.",
+   "author": "Ray Kroc, Grinding It Out\n(via Encyclopedia.com)",
+   "ty": 340, "tr": 90, "fs": 82, "sy": 1010, "noswipe": true
+  },
+  {
+   "type": "photo", "theme": "dark", "tag": "04 · The first one",
+   "photo": "photos/lib/diner-facade-rue-coin.jpg", "pos": "50% 50%", "fh": 86,
+   "huge": "1955", "hb": 680, "hs": 290, "hc": "#ff7a6e",
+   "title": "April 15: Kroc opens his\nfirst McDonald's in\n*Des Plaines, Illinois*.",
+   "ty": 380, "fs": 56, "lh": 1.08,
+   "sub": "He sells franchises of the brothers'\nsystem across America\n(McDonald's, EBSCO)."
+  },
+  {
+   "type": "photo", "theme": "dark", "tag": "05 · The buyout",
+   "photo": "photos/lib/poignee-de-main.jpg", "pos": "50% 50%", "fh": 86,
+   "huge": "$2.7M", "hb": 680, "hs": 250, "hc": "#ff7a6e",
+   "title": "In 1961, the salesman\n*buys out* the\nMcDonald brothers.",
+   "ty": 380, "fs": 56, "lh": 1.08,
+   "sub": "$2.7 million (McDonald's, UNH).\nBy his death in 1984: about 7,500\nrestaurants (Wikipedia)."
+  },
+  {
+   "type": "photo", "theme": "dark", "tag": "06 · Today",
+   "photo": "photos/lib/diner-banquettes-rouges.jpg", "pos": "50% 60%", "fh": 86,
+   "huge": "$139B", "hb": 680, "hs": 250, "hc": "#ff7a6e",
+   "title": "McDonald's systemwide\nsales in 2025. *Over\n45,000 locations*.",
+   "ty": 380, "fs": 56, "lh": 1.08,
+   "sub": "In 100+ countries. Full-year 2025\nresults (McDonald's, February 2026)."
+  },
+  {
+   "type": "cta", "theme": "green", "tag": "💡 The lesson",
+   "title": "Don't just sell.\n*Build a system*.",
+   "fs": 84, "ty": 190,
+   "sub": "Kroc didn't invent the burger.\nHe made the experience fast and\nthe same every time.\n\n✅ A short, clear catalog\n✅ A checkout in a few taps\n✅ Delivery times you always keep\n✅ The same experience for every buyer\n\nStoreScore audits your store from €49\nLink in bio 🔗 · Save this post 🔖",
+   "sy": 450, "ss": 38,
+   "emoji": [["🍔", 830, 1100, 160, 10]]
+  }
+ ]
+}
