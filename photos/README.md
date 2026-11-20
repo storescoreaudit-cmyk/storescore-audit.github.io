@@ -436,3 +436,6 @@ Format paysage : utiliser en fond plein écran recadré ou en carte (card) dans 
 - pepites-or-table-bois.jpg — suradeach saetang / Unsplash (photo-1737815914093)
 - maison-bois-desert.jpg — Sarah Lachise / Unsplash (photo-1475331728068)
 - verres-jus-raisin.jpg — Monika Grabkowska / Unsplash (photo-1530816878870) — en fait smoothie myrtille
+- voile-nylon-noir.jpg — Pawel Czerwinski / Unsplash (photo-1732869416322) — voile transparent sur fond noir
+- pantalon-blanc-rideaux.jpg — GLOBALDSIO IT SOLUTION / Unsplash (photo-1704775991545) — femme pantalon blanc, rideaux crème
+- gainant-sport-nb.jpg — Ato Aikins / Unsplash (photo-1731512589836) — femme tenue gainante, noir et blanc
