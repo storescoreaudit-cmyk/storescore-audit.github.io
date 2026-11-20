@@ -1,0 +1,86 @@
+{
+ "lang": "fr",
+ "accent": "#3fa9f5",
+ "slides": [
+  {
+   "type": "text", "theme": "light", "tag": "📖 Histoire vraie",
+   "cards": [
+    ["photos/lib/femmes-canape-salon-b.jpg", 40, 180, 600, 470, -6, "", "50% 55%"],
+    ["photos/lib/boites-plastique-couleurs.jpg", 600, 300, 430, 400, 7, "", "50% 50%"]
+   ],
+   "emoji": [["🥣", 520, 130, 130, 14], ["🎉", 40, 600, 120, -12], ["✨", 900, 720, 110, 12], ["🏠", 900, 170, 110, -10]],
+   "title": "Ses boîtes ne se\nvendaient pas. *Elle*\na trouvé pourquoi.",
+   "fs": 88, "ty": 790, "lh": 1.06,
+   "sub": "Brownie Wise, mère seule près de\nDétroit, et les réunions Tupperware 👇",
+   "sy": 1110
+  },
+  {
+   "type": "text", "theme": "dark", "tag": "01 · Le produit", "num": "1946",
+   "title": "Earl Tupper sort le\n*Wonder Bowl*, un bol en\nplastique à 39 cents.",
+   "fs": 64, "ty": 420,
+   "sub": "Mais en magasin, il ne se vend pas.\nLe plastique est inconnu à la maison\net le couvercle doit être « purgé »\nd'air pour fermer (Smithsonian).",
+   "sy": 660,
+   "cards": [["photos/lib/etagere-boites-plastique.jpg", 90, 990, 560, 290, -5, "", "50% 45%"]],
+   "emoji": [["🤷", 780, 1010, 150, 10], ["🏬", 880, 170, 110, -8]]
+  },
+  {
+   "type": "text", "theme": "light", "tag": "02 · La vendeuse", "num": "1949",
+   "title": "Brownie Wise, divorcée,\nvend des produits\nménagers *à domicile*.",
+   "fs": 64, "ty": 420,
+   "sub": "Son équipe vend plus de 150 000 $\nde Tupperware, plus que n'importe\nquel magasin (Wikipedia, The Week).",
+   "sy": 690,
+   "cards": [["photos/lib/femmes-canape-salon-a.jpg", 90, 960, 560, 310, -5, "", "50% 50%"]],
+   "emoji": [["👩", 780, 990, 150, 10], ["🚪", 880, 170, 110, -8]]
+  },
+  {
+   "type": "text", "theme": "dark", "tag": "03 · La démo", "num": "🍇",
+   "title": "Elle lance un bol rempli\nde *jus de raisin* à\ntravers le salon.",
+   "fs": 64, "ty": 420,
+   "sub": "Il ne s'ouvre pas. Rien ne coule.\nLes gens doivent le toucher, le serrer,\nle faire tomber (Smithsonian, The Week).",
+   "sy": 690, "ns": 190,
+   "cards": [["photos/lib/verres-jus-raisin.jpg", 90, 960, 560, 310, -5, "", "50% 40%"]],
+   "emoji": [["😮", 780, 990, 150, 10], ["💥", 880, 170, 110, -8]]
+  },
+  {
+   "type": "text", "theme": "light", "tag": "04 · Le pari", "num": "1951",
+   "title": "Tupper retire ses boîtes\ndes magasins. Vente\n*uniquement en réunions*.",
+   "fs": 64, "ty": 420,
+   "sub": "Sur l'idée de Brownie Wise, qui devient\nvice-présidente. Rare pour une femme\nà l'époque (Wikipedia, Smithsonian).",
+   "sy": 690,
+   "cards": [["photos/lib/cuisine-retro-damier.jpg", 90, 960, 560, 310, -5, "", "50% 60%"]],
+   "emoji": [["🏠", 780, 990, 150, 10], ["🚫", 880, 170, 110, -8]]
+  },
+  {
+   "type": "quote", "style": "min", "theme": "dark", "tag": "💬 Citation",
+   "title": "Construis les gens, et ils *construiront l'entreprise*.",
+   "author": "Brownie Wise, la phrase qu'on lui\nassociait (Smithsonian, traduit)",
+   "ty": 380, "tr": 90, "fs": 92, "sy": 1000, "noswipe": true
+  },
+  {
+   "type": "text", "theme": "light", "tag": "05 · Le sommet", "num": "25 M$",
+   "title": "de ventes en 1954.\n*20 000 personnes*\ndans son réseau.",
+   "fs": 64, "ty": 420,
+   "sub": "La même année, elle est la 1re femme\nen couverture de Business Week\n(Smithsonian, The Week).",
+   "sy": 690, "ns": 190,
+   "cards": [["photos/lib/boites-plastique-couleurs.jpg", 90, 960, 560, 310, -5, "", "50% 50%"]],
+   "emoji": [["🏆", 780, 990, 150, 10], ["📰", 880, 170, 110, -8]]
+  },
+  {
+   "type": "text", "theme": "dark", "tag": "06 · La chute", "num": "1958",
+   "title": "Janvier : Tupper la\n*renvoie*. Sans contrat,\nsans aucune action.",
+   "fs": 64, "ty": 420,
+   "sub": "Elle obtient environ 30 000 $.\nLa même année, il vend l'entreprise\n16 M$ à Rexall (Smithsonian, Wikipedia).",
+   "sy": 690,
+   "cards": [["photos/lib/caisse-enregistreuse-doree.jpg", 90, 960, 560, 310, -5, "", "50% 50%"]],
+   "emoji": [["💔", 780, 990, 150, 10], ["📉", 880, 170, 110, -8]]
+  },
+  {
+   "type": "cta", "theme": "green", "tag": "💡 La leçon",
+   "title": "Ne décris pas\nton produit. *Montre-le*.",
+   "fs": 80, "ty": 190,
+   "sub": "Le bol ne se vendait pas en rayon.\nIl s'est vendu quand on l'a vu marcher.\n\n✅ Une vidéo démo sur chaque fiche\n✅ Montre le test (chute, étanchéité…)\n✅ Photos et vidéos de tes clients\n✅ Un live ou un créateur qui l'utilise\n\nAudit de ta boutique dès 49 €\nLien en bio 🔗 · Enregistre ce post 🔖",
+   "sy": 470, "ss": 40,
+   "emoji": [["🥣", 830, 1090, 160, 10]]
+  }
+ ]
+}

@@ -420,3 +420,19 @@ Format paysage : utiliser en fond plein écran recadré ou en carte (card) dans 
 - diner-facade-rue-coin.jpg — Stephen McFadden / Unsplash (photo-1654132464261)
 - diner-banquettes-rouges.jpg — Spencer Davis / Unsplash (photo-1555992336) — panneaux « Golden Valley Food Bank » visibles
 - comptoir-burger-clients-tabourets.jpg — Tetiana Shevereva / Unsplash (photo-1593462386344) — néon « Free burgers tomorrow »
+
+## Ajout du 20 nov 2026 après-midi (Unsplash, licence Unsplash — créditer « Photo : [auteur] / Unsplash, modifiée »)
+- denim-poche-bouton.jpg — engin akyurt / Unsplash (photo-1611007724518)
+- jeans-coutures-poches.jpg — Roberto Sorin / Unsplash (photo-1640336437301)
+- jeans-pile-pliee.jpg — Taylor Daugherty / Unsplash (photo-1645380672072) — basket blanche visible en bas
+- machine-coudre-atelier.jpg — Aurora Song / Unsplash (photo-1781883289526)
+- cable-cars-sf.jpg — Ragnar Vorel / Unsplash (photo-1503609796759)
+- lettres-manuscrites-bois.jpg — Juneta Jurgaityte / Unsplash (photo-1775297251758)
+- boites-plastique-couleurs.jpg — Syed Hussaini / Unsplash (photo-1576729388723)
+- cuisine-retro-damier.jpg — Clay Banks / Unsplash (photo-1781439453239)
+- femmes-canape-salon-a.jpg — Annie Spratt / Unsplash (photo-1757845670102) — photo d'archive N&B années 50
+- femmes-canape-salon-b.jpg — Annie Spratt / Unsplash (photo-1757845670212) — même scène en couleur
+- etagere-boites-plastique.jpg — Eugenia Pan'kiv / Unsplash (photo-1688366150258)
+- pepites-or-table-bois.jpg — suradeach saetang / Unsplash (photo-1737815914093)
+- maison-bois-desert.jpg — Sarah Lachise / Unsplash (photo-1475331728068)
+- verres-jus-raisin.jpg — Monika Grabkowska / Unsplash (photo-1530816878870) — en fait smoothie myrtille
