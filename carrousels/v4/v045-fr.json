@@ -1,0 +1,340 @@
+{
+ "lang": "fr",
+ "accent": "#e8322b",
+ "slides": [
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "📖 Histoire vraie",
+   "cards": [
+    [
+     "photos/lib/cola-verse-glacons-noir.jpg",
+     40,
+     170,
+     560,
+     520,
+     -6,
+     "",
+     "50% 70%"
+    ],
+    [
+     "photos/lib/tickets-verts-bol.jpg",
+     600,
+     290,
+     430,
+     420,
+     7,
+     "",
+     "50% 60%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🥤",
+     500,
+     120,
+     130,
+     14
+    ],
+    [
+     "🎟️",
+     40,
+     600,
+     120,
+     -12
+    ],
+    [
+     "✨",
+     900,
+     720,
+     110,
+     12
+    ],
+    [
+     "💸",
+     900,
+     160,
+     110,
+     -10
+    ]
+   ],
+   "title": "9 verres par jour.\nPuis un *coupon*\na tout changé.",
+   "fs": 92,
+   "ty": 790,
+   "lh": 1.06,
+   "sub": "Coca-Cola, 1886 : comment une boisson\ninconnue est devenue un réflexe 👇",
+   "sy": 1110
+  },
+  {
+   "type": "text",
+   "theme": "dark",
+   "tag": "01 · L'invention",
+   "num": "1886",
+   "title": "Un pharmacien d'Atlanta\ncrée un *sirop*. Prix :\n5 cents le verre.",
+   "fs": 64,
+   "ty": 420,
+   "sub": "Le 8 mai, John Pemberton l'apporte\nà la Jacobs' Pharmacy. Il y est vendu\nà la fontaine à soda (site Coca-Cola).",
+   "sy": 660,
+   "cards": [
+    [
+     "photos/lib/flacons-pharmacie-anciens.jpg",
+     90,
+     990,
+     560,
+     290,
+     -5,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🧪",
+     780,
+     1010,
+     150,
+     10
+    ],
+    [
+     "💊",
+     880,
+     170,
+     110,
+     -8
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "02 · Le flop",
+   "num": "9",
+   "title": "verres vendus par jour,\nen moyenne, pendant\n*la 1re année*.",
+   "fs": 64,
+   "ty": 420,
+   "sub": "Une boisson que personne ne connaît,\net qu'il faut payer pour la goûter\n(site officiel Coca-Cola).",
+   "sy": 690,
+   "cards": [
+    [
+     "photos/lib/soda-glacons-gros-plan.jpg",
+     90,
+     960,
+     560,
+     310,
+     -5,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "😬",
+     780,
+     990,
+     150,
+     10
+    ],
+    [
+     "📉",
+     880,
+     170,
+     110,
+     -8
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "theme": "dark",
+   "tag": "03 · Le rachat",
+   "num": "2 300 $",
+   "title": "Asa Candler, homme\nd'affaires d'Atlanta,\n*rachète tout*.",
+   "fs": 64,
+   "ty": 420,
+   "sub": "Pemberton lui vend ses dernières parts\njuste avant sa mort en 1888. Contrôle\ntotal en 1891 : 2 300 $ (Coca-Cola).",
+   "sy": 690,
+   "ns": 190,
+   "cards": [
+    [
+     "photos/lib/pieces-monnaie-tas.jpg",
+     90,
+     960,
+     560,
+     310,
+     -5,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🤝",
+     780,
+     990,
+     150,
+     10
+    ],
+    [
+     "💰",
+     880,
+     170,
+     110,
+     -8
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "04 · L'idée",
+   "num": "🎟️",
+   "title": "Des *coupons* pour\nun verre offert. Des\nmilliers distribués.",
+   "fs": 64,
+   "ty": 420,
+   "sub": "On goûte gratuitement, puis on revient\npayer 5 cents. 8,5 millions de coupons\néchangés de 1894 à 1913 (Coca-Cola).",
+   "sy": 690,
+   "ns": 190,
+   "cards": [
+    [
+     "photos/lib/tickets-verts-bol.jpg",
+     90,
+     960,
+     560,
+     310,
+     -5,
+     "",
+     "50% 45%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🎁",
+     780,
+     990,
+     150,
+     10
+    ],
+    [
+     "🥤",
+     880,
+     170,
+     110,
+     -8
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "theme": "dark",
+   "tag": "05 · Le résultat",
+   "num": "1 sur 9",
+   "title": "C'est la part d'Américains\nqui avaient goûté\nCoca-Cola *en 1913*.",
+   "fs": 64,
+   "ty": 420,
+   "sub": "Et dès 1892, les ventes de sirop\navaient presque été multipliées par 10\n(Coca-Cola, Coca-Cola Australie).",
+   "sy": 690,
+   "ns": 190,
+   "cards": [
+    [
+     "photos/lib/soda-fountain-retro-sirops.jpg",
+     90,
+     960,
+     560,
+     310,
+     -5,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🇺🇸",
+     780,
+     990,
+     150,
+     10
+    ],
+    [
+     "📈",
+     880,
+     170,
+     110,
+     -8
+    ]
+   ]
+  },
+  {
+   "type": "quote",
+   "style": "min",
+   "theme": "dark",
+   "tag": "💬 Citation",
+   "title": "Coca-Cola est désormais bu dans *chaque État et territoire* des États-Unis.",
+   "author": "Asa Candler, rapport annuel aux\nactionnaires, 1895 (Coca-Cola, traduit)",
+   "ty": 380,
+   "tr": 90,
+   "fs": 92,
+   "sy": 1000,
+   "noswipe": true
+  },
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "06 · Aujourd'hui",
+   "num": "47,9 Md$",
+   "title": "de chiffre d'affaires\nen 2025. Le sirop à\n5 cents est *devenu géant*.",
+   "fs": 64,
+   "ty": 420,
+   "sub": "+2 % sur un an (résultats annuels\nCoca-Cola, 10 février 2026).",
+   "sy": 690,
+   "ns": 170,
+   "cards": [
+    [
+     "photos/lib/bouteilles-chaine-embouteillage.jpg",
+     90,
+     960,
+     560,
+     310,
+     -5,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🏆",
+     780,
+     990,
+     150,
+     10
+    ],
+    [
+     "🌍",
+     880,
+     170,
+     110,
+     -8
+    ]
+   ]
+  },
+  {
+   "type": "cta",
+   "theme": "green",
+   "tag": "💡 La leçon",
+   "title": "Le 1er verre offert.\nLe *2e* payé.",
+   "fs": 84,
+   "ty": 200,
+   "sub": "Le plus dur, c'est la 1re fois.\nEnlève le risque, puis fais revenir.\n\n✅ Un mini ou un échantillon offert\n✅ 1re commande sans risque (retour gratuit)\n✅ Un code de bienvenue simple\n✅ Une relance pour la 2e commande\n\nAudit de ta boutique dès 49 €\nLien en bio 🔗 · Enregistre ce post 🔖",
+   "sy": 430,
+   "ss": 38,
+   "emoji": [
+    [
+     "🎟️",
+     830,
+     1100,
+     160,
+     10
+    ]
+   ]
+  }
+ ]
+}

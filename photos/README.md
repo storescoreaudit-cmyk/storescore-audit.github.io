@@ -439,3 +439,16 @@ Format paysage : utiliser en fond plein écran recadré ou en carte (card) dans 
 - voile-nylon-noir.jpg — Pawel Czerwinski / Unsplash (photo-1732869416322) — voile transparent sur fond noir
 - pantalon-blanc-rideaux.jpg — GLOBALDSIO IT SOLUTION / Unsplash (photo-1704775991545) — femme pantalon blanc, rideaux crème
 - gainant-sport-nb.jpg — Ato Aikins / Unsplash (photo-1731512589836) — femme tenue gainante, noir et blanc
+- cola-verse-glacons-noir.jpg — Qasim Malick / Unsplash (photo-1629186235045) — cola versé dans un verre, glaçons, fond noir (canette sans logo lisible)
+- cola-verre-palme-ombre.jpg — Blake Wisz / Unsplash (photo-1517959105821) — verre de cola, ombre de palme
+- soda-glacons-gros-plan.jpg — Faris Mohammed / Unsplash (photo-1544241907) — soda brun et glaçons en gros plan
+- soda-fountain-retro-sirops.jpg — James Coleman / Unsplash (photo-1776476269455) — bar « Soda Fountain » rétro, sirops
+- flacons-pharmacie-anciens.jpg — Daria Nepriakhina / Unsplash (photo-1465077751796) — flacons de pharmacie anciens (glycérine)
+- bouteilles-chaine-embouteillage.jpg — Waldemar Brandt / Unsplash (photo-1530037335614) — bouteilles vertes sur chaîne, sans marque
+- tickets-verts-bol.jpg — Obi / Unsplash (photo-1715520928476) — tickets verts « TICKET » dans un bol
+- pieces-monnaie-tas.jpg — shraga kopstein / Unsplash (photo-1657581443324) — tas de pièces du monde
+- boutique-penombre-portant-cliente.jpg — Kiko Camaclang / Unsplash (photo-1759630752910) — cliente devant un portant, boutique sombre
+- tshirts-noirs-portant-blanc.jpg — No Revisions / Unsplash (photo-1529720317453) — t-shirts noirs sur portant, mur blanc
+- la-corogne-plage-coucher-soleil.jpg — Jose Antonio Gallego Vazquez / Unsplash (photo-1628365563212) — La Corogne, plage et immeubles au coucher du soleil
+- la-corogne-galerias-blanches.jpg — maria Yolanda C.P. / Unsplash (photo-1679430083411) — galerías blanches de La Corogne
+- la-corogne-place-maria-pita.jpg — Vladan Raznatovic / Unsplash (photo-1679432494197) — place María Pita sous les arcades
