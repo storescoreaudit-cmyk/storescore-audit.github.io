@@ -452,3 +452,9 @@ Format paysage : utiliser en fond plein écran recadré ou en carte (card) dans 
 - la-corogne-plage-coucher-soleil.jpg — Jose Antonio Gallego Vazquez / Unsplash (photo-1628365563212) — La Corogne, plage et immeubles au coucher du soleil
 - la-corogne-galerias-blanches.jpg — maria Yolanda C.P. / Unsplash (photo-1679430083411) — galerías blanches de La Corogne
 - la-corogne-place-maria-pita.jpg — Vladan Raznatovic / Unsplash (photo-1679432494197) — place María Pita sous les arcades
+- chocolat-coule-bol-sombre.jpg — Arwen / Unsplash (photo-1777647322811) — pâte de chocolat versée, fond sombre (vertical)
+- chocolat-noir-casse-flou.jpg — Ihor N / Unsplash (photo-1589552950457) — morceaux de chocolat noir cassés, flou
+- chocolat-caisse-bois-netto.jpg — Simone van der Koelen / Unsplash (photo-1522249341405) — tablettes dans une caisse en bois « NETTO 2 KG »
+- chocolat-morceaux-tissu-brun.jpg — Tamanna Rumee / Unsplash (photo-1772986258634) — morceaux de chocolat sur tissu brun
+- chocolat-lait-tablettes-blanc.jpg — Tetiana Bykovets / Unsplash (photo-1623660053975) — tablettes de chocolat au lait, fond blanc (vertical)
+- chocolat-lait-tablettes-ardoise.jpg — Towfiqu barbhuiya / Unsplash (photo-1626697556651) — tablettes au lait sur ardoise
