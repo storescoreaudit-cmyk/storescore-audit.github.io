@@ -458,3 +458,14 @@ Format paysage : utiliser en fond plein écran recadré ou en carte (card) dans 
 - chocolat-morceaux-tissu-brun.jpg — Tamanna Rumee / Unsplash (photo-1772986258634) — morceaux de chocolat sur tissu brun
 - chocolat-lait-tablettes-blanc.jpg — Tetiana Bykovets / Unsplash (photo-1623660053975) — tablettes de chocolat au lait, fond blanc (vertical)
 - chocolat-lait-tablettes-ardoise.jpg — Towfiqu barbhuiya / Unsplash (photo-1626697556651) — tablettes au lait sur ardoise
+
+## Ajout du 21 nov 2026 soir (Unsplash, licence Unsplash — créditer « Photo : [auteur] / Unsplash, modifiée »)
+- montre-gousset-bois-sombre.jpg — Kjartan Einarsson / Unsplash (photo-1516456277948)
+- montres-gousset-suspendues.jpg — Alex Guillaume / Unsplash (photo-1533603905650)
+- montre-gousset-doree-noir.jpg — William Warby / Unsplash (photo-1703925154183)
+- locomotive-vapeur-fumee.jpg — Wolfgang Weiser / Unsplash (photo-1758005164666)
+- capsules-bouteilles-blanc.jpg — Timothy Dykes / Unsplash (photo-1613176630633) — capsules de bière (marques visibles)
+- rasoir-surete-dore-blanc.jpg — Laura Mitulla / Unsplash (photo-1559839433)
+- rasoir-vintage-lames-gillette.jpg — David Trinks / Unsplash (photo-1784098616300) — boîte « Gillette Platinum »
+- rasoir-jetable-bleu.jpg — Brett Jordan / Unsplash (photo-1559715544)
+- lame-rasoir-cartouche-sombre.jpg — Murphy Stay / Unsplash (photo-1758665707514)

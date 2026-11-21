@@ -1,0 +1,341 @@
+{
+ "lang": "fr",
+ "accent": "#3a7bd5",
+ "slides": [
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "📖 Histoire vraie",
+   "cards": [
+    [
+     "photos/lib/rasoir-vintage-lames-gillette.jpg",
+     40,
+     170,
+     560,
+     520,
+     -6,
+     "",
+     "50% 55%"
+    ],
+    [
+     "photos/lib/rasoir-surete-dore-blanc.jpg",
+     600,
+     290,
+     430,
+     420,
+     7,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🪒",
+     500,
+     120,
+     130,
+     14
+    ],
+    [
+     "💸",
+     40,
+     600,
+     120,
+     -12
+    ],
+    [
+     "🔁",
+     900,
+     720,
+     110,
+     12
+    ],
+    [
+     "✨",
+     900,
+     160,
+     110,
+     -10
+    ]
+   ],
+   "title": "51 rasoirs vendus\nla 1re année. Puis il\na vendu *les lames*.",
+   "fs": 92,
+   "ty": 790,
+   "lh": 1.06,
+   "sub": "King Gillette, 1903 : l'idée qui fait\nencore revenir les clients 👇",
+   "sy": 1110
+  },
+  {
+   "type": "text",
+   "theme": "dark",
+   "tag": "01 · Le conseil",
+   "num": "1891",
+   "title": "Gillette vend des\n*bouchons* de bouteille.\nSon patron lui donne une idée.",
+   "fs": 64,
+   "ty": 420,
+   "sub": "William Painter : trouve un produit qui,\nune fois utilisé, est jeté… et que\nle client revient acheter (Wikipedia).",
+   "sy": 690,
+   "ns": 190,
+   "cards": [
+    [
+     "photos/lib/capsules-bouteilles-blanc.jpg",
+     90,
+     990,
+     560,
+     290,
+     -5,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🍾",
+     780,
+     1010,
+     150,
+     10
+    ],
+    [
+     "💡",
+     880,
+     170,
+     110,
+     -8
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "02 · Le déclic",
+   "num": "1895",
+   "title": "Un matin, son rasoir\nne coupe plus. Il imagine\nune lame *qu'on jette*.",
+   "fs": 64,
+   "ty": 420,
+   "sub": "Il faudra 6 ans et un ingénieur,\nWilliam Nickerson, pour fabriquer une\nlame assez fine et pas chère.",
+   "sy": 690,
+   "ns": 190,
+   "cards": [
+    [
+     "photos/lib/homme-rasage-miroir.jpg",
+     90,
+     980,
+     560,
+     300,
+     -5,
+     "",
+     "50% 40%"
+    ]
+   ],
+   "emoji": [
+    [
+     "😤",
+     780,
+     1000,
+     150,
+     10
+    ],
+    [
+     "🧠",
+     880,
+     170,
+     110,
+     -8
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "theme": "dark",
+   "tag": "03 · Le flop",
+   "num": "51",
+   "title": "rasoirs et 168 lames\nvendus en 1903, *la 1re\nannée*. Un rasoir : 5 $.",
+   "fs": 64,
+   "ty": 420,
+   "sub": "5 $ de l'époque, environ 179 $\nd'aujourd'hui (Wikipedia). Ses amis\nvoyaient son rasoir comme une blague.",
+   "sy": 690,
+   "cards": [
+    [
+     "photos/lib/rasage-blaireau-bol.jpg",
+     90,
+     980,
+     560,
+     300,
+     -5,
+     "",
+     "50% 45%"
+    ]
+   ],
+   "emoji": [
+    [
+     "😬",
+     780,
+     1000,
+     150,
+     10
+    ],
+    [
+     "📉",
+     880,
+     170,
+     110,
+     -8
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "04 · Le décollage",
+   "num": "90 884",
+   "title": "rasoirs vendus en 1904.\nEt chaque rasoir\nappelle *des lames*.",
+   "fs": 64,
+   "ty": 420,
+   "sub": "La même année, le brevet est accordé,\nle 15 novembre 1904 (Wikipedia,\nHistoryNet).",
+   "sy": 690,
+   "ns": 190,
+   "cards": [
+    [
+     "photos/lib/rasoir-surete-lame.jpg",
+     90,
+     980,
+     560,
+     300,
+     -5,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🚀",
+     780,
+     1000,
+     150,
+     10
+    ],
+    [
+     "📈",
+     880,
+     170,
+     110,
+     -8
+    ]
+   ]
+  },
+  {
+   "type": "quote",
+   "style": "min",
+   "theme": "dark",
+   "tag": "💬 Citation",
+   "title": "Le plus grand atout de ce business, c'est la chaîne presque *sans fin* de consommation de lames.",
+   "author": "King C. Gillette, note interne de 1906\n(Fortune Small Business, traduit)",
+   "ty": 330,
+   "tr": 90,
+   "fs": 84,
+   "sy": 900,
+   "noswipe": true
+  },
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "05 · La guerre",
+   "num": "32 M",
+   "title": "de lames pour les soldats\naméricains pendant\n*la Première Guerre*.",
+   "fs": 64,
+   "ty": 420,
+   "sub": "Et 3,5 millions de rasoirs. Toute une\ngénération prend l'habitude Gillette\n(Wikipedia, Fortune Small Business).",
+   "sy": 690,
+   "ns": 190,
+   "cards": [
+    [
+     "photos/lib/lame-rasoir-cartouche-sombre.jpg",
+     90,
+     980,
+     560,
+     300,
+     -5,
+     "",
+     "50% 45%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🪖",
+     780,
+     1000,
+     150,
+     10
+    ],
+    [
+     "🔁",
+     880,
+     170,
+     110,
+     -8
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "theme": "dark",
+   "tag": "06 · Aujourd'hui",
+   "num": "+50 Md$",
+   "title": "C'est le prix payé\npar Procter & Gamble\npour Gillette *en 2005*.",
+   "fs": 64,
+   "ty": 420,
+   "sub": "Plus de 50 milliards de dollars\n(Wikipedia). Grâce à un produit\nqu'on rachète sans y penser.",
+   "sy": 690,
+   "ns": 170,
+   "cards": [
+    [
+     "photos/lib/rasoir-jetable-bleu.jpg",
+     90,
+     980,
+     560,
+     300,
+     -5,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🏆",
+     780,
+     1000,
+     150,
+     10
+    ],
+    [
+     "💰",
+     880,
+     170,
+     110,
+     -8
+    ]
+   ]
+  },
+  {
+   "type": "cta",
+   "theme": "green",
+   "tag": "💡 La leçon",
+   "title": "Ne vends pas une fois.\nVends *la suite*.",
+   "fs": 84,
+   "ty": 200,
+   "sub": "Ton meilleur client, c'est celui\nqui revient sans que tu le relances.\n\n✅ Un produit qui se recharge ou se rachète\n✅ Un abonnement avec une petite remise\n✅ Un rappel quand son stock se termine\n✅ Un pack découverte pour commencer\n\nAudit de ta boutique dès 49 €\nLien en bio 🔗 · Enregistre ce post 🔖",
+   "sy": 430,
+   "ss": 38,
+   "emoji": [
+    [
+     "🪒",
+     830,
+     1100,
+     160,
+     10
+    ]
+   ]
+  }
+ ]
+}
