@@ -484,3 +484,11 @@ Format paysage : utiliser en fond plein écran recadré ou en carte (card) dans 
 - telephone-chatgpt-ask-anything.jpg — Tim Witzdam / Unsplash (photo-1746883741162, qSN755lI9Cw) — iPhone posé, ChatGPT « What can I help with? », coucher de soleil
 - telephone-chatgpt-what-can-i-help.jpg — Tim Witzdam / Unsplash (photo-1746883741191, yWyBU5v3FLI) — même scène, gros plan incliné
 - main-telephone-chatgpt-recommandations.jpg — Aerps.com / Unsplash (photo-1746286721374, FJxPbYCZ_Z0) — main tenant un iPhone, ChatGPT liste de restaurants
+
+## Ajout du 22 nov 2026 soir (Unsplash, licence Unsplash — créditer « Photo : [auteur] / Unsplash, modifiée »)
+- walkman-rouge-casque-orange.jpg — Marlon Medau / Unsplash (h2NFe_SgCzM)
+- baladeur-casque-orange-gris.jpg — Walkman noir sur fond orange, Florian Schmetz / Unsplash (Rks6FTfX5OU) ; walkman-noir-orange-couverture.jpg = recadrage 1080x1350 avec fondu noir (même photo)
+- baladeur-bleu-main.jpg — cassette bleue insérée dans une platine, Silas Gregory / Unsplash (6h_rHUrJQSE)
+- magneto-bleu-table.jpg — cassette bleue sur table blanche, Silas Gregory / Unsplash (8IAGrtVFwLc)
+- passage-pieton-casque-chicago.jpg — femme au casque, passage piéton Chicago, Jay Nuetey / Unsplash (og4uJb1bc1k)
+- passant-casque-lumiere-rouge.jpg — passant flou au casque, lumière rouge, Abhishek Tiwari / Unsplash (lwZVgnFw0Wg)
