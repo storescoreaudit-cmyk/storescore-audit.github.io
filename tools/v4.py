@@ -2,7 +2,7 @@
 """StoreScore carrousels v4 — 1080x1350, détourage, emojis Apple, grain, style "magazine actu".
 Usage: python3 tools/v4.py spec.json outdir
 Slide types: cover | text | photo | split | quote | cta | min | grid
-accent:"#ff5fa2" (racine du spec, couleur du surlignage/chiffres) ; accent_light: accent des slides claires ; hc: couleur du huge (photo) ; font:"serif" (citation-portrait) ; lh: interligne du titre (slides text, ex. 1.12) ; cards:[[img,x,y,w,h,rot,(css),(objpos)],...] collage ; style:"min" (par slide) = minimaliste sans grain ; min: huge/hy/hs/hc ; grid: cells[4], cols[2], rows[2] ; photo: pos, mag, huge
+accent:"#ff5fa2" ; accent_fg: texte surligné (racine du spec, couleur du surlignage/chiffres) ; accent_light: accent des slides claires ; hc: couleur du huge (photo) ; font:"serif" (citation-portrait) ; lh: interligne du titre (slides text, ex. 1.12) ; cards:[[img,x,y,w,h,rot,(css),(objpos)],...] collage ; style:"min" (par slide) = minimaliste sans grain ; min: huge/hy/hs/hc ; grid: cells[4], cols[2], rows[2] ; photo: pos, mag, huge
 Champs: title (avec *mot* = surligné), sub, emoji (liste), cutout (photos/cutouts/x.png), photo (photos/lib/x.jpg), bigword, num, tag, theme(dark|light|green)
 Emojis: tout emoji unicode dans un texte est rendu en emoji Apple.
 """
@@ -151,6 +151,8 @@ def main(spec, out):
     lang = d.get("lang", "fr"); n = len(d["slides"])
     acc = d.get("accent")  # couleur d'accent optionnelle (surlignage + chiffres) hors slides vertes
     css = CSS + (f".dark .title mark,.light .title mark{{background:{acc}}}.dark .num,.light .num{{color:{acc}}}.mn.dark .title mark,.mn.light .title mark{{background:none;color:{acc}}}.dark .qm{{color:{acc}}}" if acc else "")
+    afg = d.get("accent_fg")  # couleur du texte surligné (ex. blanc sur violet)
+    if afg: css += f".dark .title mark,.light .title mark{{color:{afg}}}"
     accl = d.get("accent_light")  # accent plus foncé pour les slides claires (ex. jaune illisible sur crème)
     if accl: css += f".mn.light .title mark{{color:{accl}}}.light .qm{{color:{accl}}}.light .title mark{{background:{accl};color:#fff}}"
     with sync_playwright() as p:

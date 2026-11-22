@@ -473,3 +473,14 @@ Format paysage : utiliser en fond plein écran recadré ou en carte (card) dans 
 ## Ajout du 22 nov 2026 matin (Unsplash, licence Unsplash — créditer « Photo : [auteur] / Unsplash, modifiée »)
 - chewing-gum-wrigleys-spearmint-rouge.jpg — Aleks Dorohovich / Unsplash (photo-1535983200711, GexpQNo1lcI) — 3 paquets Wrigley's Spearmint sur fond rouge
 - distributeur-bonbons-rouge.jpg — Sebastian Moock / Unsplash (photo-1627658555302, m6IQvwCDSzk) — distributeur rouge, reflet au centre
+
+## Ajout du 22 nov 2026 après-midi (Unsplash, licence Unsplash — créditer « Photo : [auteur] / Unsplash, modifiée »)
+- coccinelle-vw-route-dore.jpg — Pau Gomez / Unsplash (photo-1761231558155, ywvIWmBLO1M) — Coccinelle VW ancienne beige roulant, lumière dorée
+- coccinelle-vw-bleue-garee.jpg — St.Vic / Unsplash (photo-1749252166337, 9Mgzj4QlXJs) — Coccinelle bleue garée, vue arrière 3/4
+- coccinelle-vw-orange-arriere.jpg — Guillaume Lorain / Unsplash (photo-1526834265482, Yo1IygnBlZs) — Coccinelle orange, détail arrière, portrait
+- pizzas-four-retro.jpg — Stefan C. Asafti / Unsplash (photo-1565357253897, x5jilo3ck3o) — 3 pizzas dans un four rétro crème
+- pizza-four-sombre.jpg — Ivan Benets / Unsplash (photo-1650645120743, 9FoCIS8Ei94) — pizza sur plaque dans un four sombre
+- pizza-table-bieres-amis.jpg — Adam Smotkin / Unsplash (photo-1536090219743, nv3lL1MzOto) — pizzas sur planches noires, bières (logo de verre petit)
+- telephone-chatgpt-ask-anything.jpg — Tim Witzdam / Unsplash (photo-1746883741162, qSN755lI9Cw) — iPhone posé, ChatGPT « What can I help with? », coucher de soleil
+- telephone-chatgpt-what-can-i-help.jpg — Tim Witzdam / Unsplash (photo-1746883741191, yWyBU5v3FLI) — même scène, gros plan incliné
+- main-telephone-chatgpt-recommandations.jpg — Aerps.com / Unsplash (photo-1746286721374, FJxPbYCZ_Z0) — main tenant un iPhone, ChatGPT liste de restaurants
