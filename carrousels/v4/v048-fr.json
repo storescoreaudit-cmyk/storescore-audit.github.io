@@ -1,0 +1,163 @@
+{
+ "lang": "fr",
+ "accent": "#e8322b",
+ "slides": [
+  {
+   "type": "photo",
+   "theme": "dark",
+   "tag": "📖 Histoire vraie",
+   "photo": "photos/lib/chewing-gum-wrigleys-spearmint-rouge.jpg",
+   "pos": "38% 50%",
+   "fh": 74,
+   "mag": "Chicago · 1891",
+   "title": "Ce chewing-gum\nétait un *cadeau*\ngratuit.",
+   "ty": 270,
+   "fs": 96,
+   "lh": 1.04,
+   "sub": "Comment un vendeur de savon a bâti\nun empire avec un simple bonus 👇",
+   "emoji": [
+    [
+     "🎁",
+     840,
+     260,
+     150,
+     12
+    ]
+   ]
+  },
+  {
+   "type": "photo",
+   "theme": "dark",
+   "tag": "01 · Le départ",
+   "photo": "photos/lib/pieces-monnaie-tas.jpg",
+   "pos": "50% 50%",
+   "fh": 86,
+   "huge": "32 $",
+   "hb": 680,
+   "hs": 290,
+   "hc": "#ffd27a",
+   "title": "William Wrigley, 29 ans,\narrive à *Chicago* avec\n32 $ en poche.",
+   "ty": 380,
+   "fs": 56,
+   "lh": 1.08,
+   "sub": "Il y vend le savon de l'usine de son\npère (Wikipedia, Encyclopedia of\nWorld Biography)."
+  },
+  {
+   "type": "photo",
+   "theme": "dark",
+   "tag": "02 · Le 1er cadeau",
+   "photo": "photos/lib/epicerie-ancienne-etageres.jpg",
+   "pos": "50% 50%",
+   "fh": 86,
+   "huge": "+ 🎁",
+   "hb": 680,
+   "hs": 260,
+   "hc": "#ffd27a",
+   "title": "Les épiciers boudent son\nsavon. Il leur offre de la\n*levure chimique* en plus.",
+   "ty": 380,
+   "fs": 56,
+   "lh": 1.08,
+   "sub": "Surprise : la levure se vend mieux\nque le savon. Il change de produit\n(JSTOR Daily, Wikipedia)."
+  },
+  {
+   "type": "photo",
+   "theme": "dark",
+   "tag": "03 · Le 2e cadeau",
+   "photo": "photos/lib/distributeur-bonbons-rouge.jpg",
+   "pos": "50% 62%",
+   "fh": 86,
+   "huge": "x2",
+   "hb": 680,
+   "hs": 290,
+   "hc": "#ffd27a",
+   "title": "Avec chaque boîte de\nlevure : *2 paquets de\nchewing-gum* offerts.",
+   "ty": 380,
+   "fs": 56,
+   "lh": 1.08,
+   "sub": "Et les clients réclament… le chewing-\ngum. 1892 : ses premières marques,\nLotta et Vassar (Encyclopedia of WB)."
+  },
+  {
+   "type": "photo",
+   "theme": "dark",
+   "tag": "04 · Le pivot",
+   "photo": "photos/lib/bocaux-bonbons-sweet-shop.jpg",
+   "pos": "50% 50%",
+   "fh": 86,
+   "huge": "1893",
+   "hb": 680,
+   "hs": 290,
+   "hc": "#ffd27a",
+   "title": "Juicy Fruit, puis Spearmint :\nle cadeau devient\n*le produit*.",
+   "ty": 380,
+   "fs": 56,
+   "lh": 1.08,
+   "sub": "Lancés en 1893-1894. Le savon et\nla levure passent au second plan\n(Encyclopedia of WB, Today I Found Out)."
+  },
+  {
+   "type": "quote",
+   "style": "min",
+   "theme": "dark",
+   "tag": "💬 Citation",
+   "title": "Tout le monde aime un petit *extra*, gratuitement.",
+   "author": "William Wrigley Jr., phrase qu'il répétait\nsouvent : « Everybody likes something extra,\nfor nothing » (Encyclopedia of World Biography)",
+   "ty": 360,
+   "tr": 90,
+   "fs": 104,
+   "sy": 960
+  },
+  {
+   "type": "photo",
+   "theme": "dark",
+   "tag": "05 · Le pari",
+   "photo": "photos/lib/journaux-pile.jpg",
+   "pos": "50% 50%",
+   "fh": 86,
+   "huge": "1907",
+   "hb": 680,
+   "hs": 290,
+   "hc": "#ffd27a",
+   "title": "Crise financière : les prix\nde la pub s'effondrent.\nLui *achète en masse*.",
+   "ty": 380,
+   "fs": 56,
+   "lh": 1.08,
+   "sub": "284 000 $ dépensés pour plus de\n1,5 million $ d'espaces publicitaires\n(Encyclopedia of World Biography)."
+  },
+  {
+   "type": "photo",
+   "theme": "dark",
+   "tag": "06 · L'échantillon",
+   "photo": "photos/lib/boite-aux-lettres-us-mail.jpg",
+   "pos": "50% 45%",
+   "fh": 86,
+   "huge": "1,5 M",
+   "hb": 680,
+   "hs": 290,
+   "hc": "#ffd27a",
+   "title": "d'adresses reçoivent du\nchewing-gum *gratuit*\npar la poste en 1915.",
+   "ty": 380,
+   "fs": 56,
+   "lh": 1.08,
+   "sub": "Adresses tirées des annuaires\ntéléphoniques. 7 millions de foyers\nen 1919 (Today I Found Out)."
+  },
+  {
+   "type": "cta",
+   "theme": "green",
+   "tag": "💡 La leçon",
+   "title": "Ton bonus peut devenir\nton *best-seller*.",
+   "fs": 80,
+   "ty": 200,
+   "sub": "À sa mort en 1932, son entreprise\nfait 75 M$ de chiffre d'affaires (EWB).\n\n✅ Offre un petit extra qui surprend\n✅ Regarde ce que tes clients réclament\n✅ Fais goûter : échantillon, essai\n✅ Ose être visible quand les autres se taisent\n\nAudit de ta boutique dès 49 €\nLien en bio 🔗 · Enregistre ce post 🔖",
+   "sy": 430,
+   "ss": 38,
+   "emoji": [
+    [
+     "🍬",
+     840,
+     1110,
+     150,
+     10
+    ]
+   ]
+  }
+ ]
+}

@@ -469,3 +469,7 @@ Format paysage : utiliser en fond plein écran recadré ou en carte (card) dans 
 - rasoir-vintage-lames-gillette.jpg — David Trinks / Unsplash (photo-1784098616300) — boîte « Gillette Platinum »
 - rasoir-jetable-bleu.jpg — Brett Jordan / Unsplash (photo-1559715544)
 - lame-rasoir-cartouche-sombre.jpg — Murphy Stay / Unsplash (photo-1758665707514)
+
+## Ajout du 22 nov 2026 matin (Unsplash, licence Unsplash — créditer « Photo : [auteur] / Unsplash, modifiée »)
+- chewing-gum-wrigleys-spearmint-rouge.jpg — Aleks Dorohovich / Unsplash (photo-1535983200711, GexpQNo1lcI) — 3 paquets Wrigley's Spearmint sur fond rouge
+- distributeur-bonbons-rouge.jpg — Sebastian Moock / Unsplash (photo-1627658555302, m6IQvwCDSzk) — distributeur rouge, reflet au centre

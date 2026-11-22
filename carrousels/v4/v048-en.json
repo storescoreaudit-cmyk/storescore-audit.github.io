@@ -1,0 +1,29 @@
+{
+ "lang": "en",
+ "accent": "#4f8cff",
+ "accent_light": "#1f5fe0",
+ "slides": [
+  {"type":"min","style":"min","theme":"dark","tag":"📦 Holiday 2026","huge":"54 %","hy":200,"hs":380,"hc":"#4f8cff",
+   "title":"of shoppers would\n*pay more* just to get\ntheir gifts on time.","ty":640,"fs":78,
+   "sub":"New survey, 2,470 shoppers worldwide.\nBlack Friday is in 5 days. Here's what\nthey expect from your store 👇","sy":1000,"ss":38},
+  {"type":"min","style":"min","theme":"light","tag":"01 · The #1 factor","huge":"73 %","hy":210,"hs":320,"hc":"#1f5fe0",
+   "title":"say on-time arrival is\n*very important* or\nessential.","ty":560,"fs":72,
+   "sub":"The top factor of five when choosing\nwhere to shop online (project44,\nsurvey closed Nov. 3, 2026).","sy":860,"ss":36},
+  {"type":"min","style":"min","theme":"dark","tag":"02 · The cost","huge":"47 %","hy":210,"hs":320,"hc":"#4f8cff",
+   "title":"are unlikely to shop\nagain with a store that\n*delivered late*.","ty":560,"fs":72,
+   "sub":"One late parcel can cost you\nthe customer, not just the order.","sy":860,"ss":36},
+  {"type":"min","style":"min","theme":"light","tag":"03 · The tracking","huge":"72 %","hy":210,"hs":320,"hc":"#1f5fe0",
+   "title":"want *real-time*\nupdates on their\nparcel.","ty":560,"fs":72,
+   "sub":"And 25 % won't buy at all from\na store that doesn't offer them.","sy":860,"ss":36},
+  {"type":"min","style":"min","theme":"dark","tag":"04 · The timing","huge":"39 %","hy":210,"hs":320,"hc":"#4f8cff",
+   "title":"hadn't planned to start\nholiday shopping before\n*mid-November*.","ty":560,"fs":72,
+   "sub":"So the rush is starting right now.\nYour delivery promise has to hold.","sy":860,"ss":36},
+  {"type":"min","style":"min","theme":"light","tag":"05 · The worry","huge":"32 %","hy":210,"hs":320,"hc":"#1f5fe0",
+   "title":"rank *higher shipping\ncosts* as their #1\nholiday concern.","ty":560,"fs":72,
+   "sub":"Yet 54 % would still pay more for\na guaranteed date. Certainty sells.","sy":860,"ss":36},
+  {"type":"quote","style":"min","theme":"dark","tag":"💬 Quote","title":"Great customer experience is a *promise kept*.",
+   "author":"Jett McCandless, founder and CEO\nof project44 (Nov. 19, 2026)","ty":380,"tr":90,"fs":118,"sy":1000,"noswipe":true},
+  {"type":"cta","style":"min","theme":"green","tag":"💡 The lesson","title":"Promise a date.\n*Then keep it.* 📦","ty":220,"fs":84,
+   "sub":"✅ Show the delivery date on every\n     product page, not just at checkout\n✅ Only promise dates you can hold\n✅ Send tracking the moment it ships\n✅ Post your last order date for Christmas\n\nStore audit from €49\nLink in bio 🔗 · Save this post 🔖","sy":500,"ss":38}
+ ]
+}
