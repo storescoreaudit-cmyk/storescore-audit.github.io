@@ -509,3 +509,23 @@ Format paysage : utiliser en fond plein écran recadré ou en carte (card) dans 
 - stand-hotdog-pluie-nyc.jpg — Matthew Stephenson / Unsplash (photo-1746457383455) — rue de Manhattan sous la pluie, stand au loin
 - stand-hotdog-rouge.jpg — Dennis Cortés / Unsplash (photo-1759406421084) — chariot Lucky Dogs, parasol Coca-Cola, La Nouvelle-Orléans
 - chariot-allee-nuit.jpg — Nay Myat Min / Unsplash (photo-1704713911962) — chariot dans une allée de supérette, paysage
+
+## Ajout du 23 nov 2026 soir (Unsplash, licence Unsplash — créditer « Photo : [auteur] / Unsplash, modifiée »)
+- uniqlo-logo-rouge.jpg — Russel Bailo / Unsplash (photo-1755830806887)
+- lettre-q-rouge.jpg — Rubaitul Azad / Unsplash (photo-1649180573784)
+- tshirts-plies-couleurs-bois.jpg — Md Salman / Unsplash (photo-1562157873)
+- hiroshima-tramways.jpg — Josip Ivanković / Unsplash (photo-1768117785372)
+- hong-kong-mongkok-neons.jpg — Chi Hung Wong / Unsplash (photo-1616394158624)
+- uniqlo-rideau-ferme.jpg — Fan Wang / Unsplash (photo-1767277746644)
+- harajuku-takeshita-foule.jpg — Chrishaun Byrom / Unsplash (photo-1686340521065)
+- londres-oxford-circus-bus.jpg — Krists Luhaers / Unsplash (photo-1524136861124)
+- uniqlo-facade-nuit.jpg — FourFour / Unsplash (photo-1569117382952)
+- pulls-tresses-couleurs.jpg — Adrien Olichon / Unsplash (photo-1758537698215)
+- femme-profil-tresse-fond-or.jpg — Jessica Felicio / Unsplash (photo-1527203561188)
+- coton-capsules-louisiane.jpg — Karl Wiggers / Unsplash (photo-1633527992904)
+- linge-etendoir-nb.jpg — Dieter K / Unsplash (photo-1677312641701)
+- peigne-cheveux-fond-sombre.jpg — Kier in Sight Archives / Unsplash (photo-1773078280398)
+- flacons-apothicaire-anciens.jpg — Paolo Chiabrando / Unsplash (photo-1753820183195)
+- porte-bois-chaine-nb.jpg — Shantanu Kumar / Unsplash (photo-1680605809291)
+- usine-brique-cheminee.jpg — Vladislav Vedenskii / Unsplash (photo-1680595848057)
+- fauteuil-salon-coiffure-vintage.jpg — jay huang / Unsplash (photo-1629881544138)
