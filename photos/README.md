@@ -501,3 +501,11 @@ Format paysage : utiliser en fond plein écran recadré ou en carte (card) dans 
 - faisceaux-laser-rouges-noir.jpg — Warren Valentine / Unsplash (photo-1687549181609, xRq7paWIdXc) — portrait, faisceaux rouges convergents
 - ecran-bourse-graphiques.jpg — Nicholas Cappello / Unsplash (photo-1560221328, Wb63zqJ5gnE)
 - bureau-trading-ecrans.jpg — Jakub Żerdzicki / Unsplash (photo-1744782211816, VM_6EtTAfDQ) — non utilisée
+
+## Ajout du 23 nov 2026 soir (Unsplash, licence Unsplash — créditer « Photo : [auteur] / Unsplash, modifiée »)
+- hotdog-brun.jpg — 王 大洪 (mr_wdh) / Unsplash (photo-1638368593249) — hot-dog garni en gros plan, frites, fond sombre (portrait)
+- hotdog-fond-bleu.jpg — Drew Dempsey / Unsplash (photo-1678033382919) — hot-dog dans une barquette carton, fond bleu uni ; hotdog-fond-bleu-haut.jpg = même photo recadrée, hot-dog en haut
+- stand-hotdog-nuit.jpg — Konstantin Metto / Unsplash (photo-1740403024947) — kiosque « Hot Dog » éclairé la nuit
+- stand-hotdog-pluie-nyc.jpg — Matthew Stephenson / Unsplash (photo-1746457383455) — rue de Manhattan sous la pluie, stand au loin
+- stand-hotdog-rouge.jpg — Dennis Cortés / Unsplash (photo-1759406421084) — chariot Lucky Dogs, parasol Coca-Cola, La Nouvelle-Orléans
+- chariot-allee-nuit.jpg — Nay Myat Min / Unsplash (photo-1704713911962) — chariot dans une allée de supérette, paysage
