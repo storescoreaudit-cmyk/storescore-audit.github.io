@@ -1,0 +1,302 @@
+{
+ "lang": "fr",
+ "accent": "#ff0033",
+ "accent_fg": "#ffffff",
+ "slides": [
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "🛍️ Actu Black Friday",
+   "cards": [
+    [
+     "photos/lib/telephone-youtube-app-sombre.jpg",
+     50,
+     170,
+     540,
+     560,
+     -6,
+     "",
+     "50% 50%"
+    ],
+    [
+     "photos/lib/telephone-youtube-logo-blanc.jpg",
+     610,
+     290,
+     420,
+     420,
+     7,
+     "",
+     "55% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🤖",
+     520,
+     95,
+     140,
+     12
+    ],
+    [
+     "📺",
+     30,
+     620,
+     130,
+     -12
+    ],
+    [
+     "😱",
+     930,
+     170,
+     100,
+     -10
+    ],
+    [
+     "🛒",
+     950,
+     650,
+     100,
+     10
+    ]
+   ],
+   "title": "Les IA citent\n*YouTube* avant\nta boutique.",
+   "fs": 104,
+   "ty": 790,
+   "lh": 1.02,
+   "sub": "Black Friday : ce que révèle une étude\nsur 3 000 réponses d'IA 👇",
+   "sy": 1130
+  },
+  {
+   "type": "text",
+   "theme": "dark",
+   "tag": "01 · Le n°1",
+   "num": "16,8 %",
+   "ns": 200,
+   "title": "des citations des IA\nvont à *YouTube*, devant\nles médias et les boutiques.",
+   "fs": 62,
+   "ty": 420,
+   "sub": "Ahrefs : 3 000 réponses de ChatGPT,\nGemini, Copilot, Perplexity et Google,\noct. 2025 → nov. 2026 (via mind Retail).",
+   "sy": 680,
+   "cards": [
+    [
+     "photos/lib/logo-youtube-telephone-noir.jpg",
+     90,
+     990,
+     560,
+     290,
+     -5,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🏆",
+     780,
+     1010,
+     150,
+     10
+    ],
+    [
+     "📺",
+     880,
+     170,
+     110,
+     -8
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "02 · Et ta boutique ?",
+   "num": "9,8 %",
+   "ns": 200,
+   "title": "seulement pour les\n*sites e-commerce*.\nMoins que la presse.",
+   "fs": 62,
+   "ty": 420,
+   "sub": "Presse et médias : 12,5 %.\nTa fiche produit passe derrière\nune vidéo et un article (Ahrefs).",
+   "sy": 680,
+   "cards": [
+    [
+     "photos/lib/telephone-resultats-recherche.jpg",
+     90,
+     990,
+     560,
+     290,
+     -5,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "😬",
+     780,
+     1010,
+     150,
+     10
+    ],
+    [
+     "🛒",
+     880,
+     170,
+     110,
+     -8
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "theme": "dark",
+   "tag": "03 · Sur Google",
+   "num": "49 %",
+   "ns": 200,
+   "title": "des Aperçus IA de Google\nsur des requêtes d'achat\ncitent *YouTube*.",
+   "fs": 62,
+   "ty": 420,
+   "sub": "Ahrefs a aussi zoomé sur 481 Aperçus\nIA liés au Black Friday. Résultat\nprésenté le 17 nov. 2026.",
+   "sy": 680,
+   "cards": [
+    [
+     "photos/lib/telephone-google-main.jpg",
+     90,
+     990,
+     560,
+     290,
+     -5,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🔎",
+     780,
+     1010,
+     150,
+     10
+    ],
+    [
+     "📺",
+     880,
+     170,
+     110,
+     -8
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "04 · Les acheteurs",
+   "num": "1 sur 2",
+   "ns": 190,
+   "title": "Français envisage l'IA\npour ses *cadeaux de Noël*.\n75 % chez les moins de 35 ans.",
+   "fs": 60,
+   "ty": 420,
+   "sub": "Fevad x Toluna Harris Interactive,\n1 018 personnes, 10-13 nov. 2026.\n21 % pour comparer les prix.",
+   "sy": 680,
+   "cards": [
+    [
+     "photos/lib/cadeau-blanc-noeud-rouge-fond-rouge.jpg",
+     90,
+     990,
+     560,
+     290,
+     -5,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🎁",
+     780,
+     1010,
+     150,
+     10
+    ],
+    [
+     "🤖",
+     880,
+     170,
+     110,
+     -8
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "theme": "dark",
+   "tag": "05 · Le piège",
+   "num": "92,7 %",
+   "ns": 200,
+   "title": "du temps, les sources\ncitées *changent* d'une\nrecherche à l'autre.",
+   "fs": 62,
+   "ty": 420,
+   "sub": "Converteo x Qwairy : 736 requêtes\nsur Google AI Overviews en France\n(août 2026, via le JDN).",
+   "sy": 680,
+   "cards": [
+    [
+     "photos/lib/telephone-appli-mains-sombre.jpg",
+     90,
+     990,
+     560,
+     290,
+     -5,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🎲",
+     780,
+     1010,
+     150,
+     10
+    ],
+    [
+     "🔄",
+     880,
+     170,
+     110,
+     -8
+    ]
+   ]
+  },
+  {
+   "type": "quote",
+   "style": "min",
+   "theme": "dark",
+   "tag": "💬 Citation",
+   "title": "Pour les marques, la visibilité se rejoue *en permanence*.",
+   "author": "Les auteurs de l'étude Converteo x Qwairy\nsur les AI Overviews en France\n(JDN, 29 oct. 2026)",
+   "ty": 360,
+   "tr": 90,
+   "fs": 92,
+   "sy": 930
+  },
+  {
+   "type": "cta",
+   "theme": "green",
+   "tag": "💡 La leçon",
+   "title": "Sois là où\nl'IA *regarde*.",
+   "fs": 88,
+   "ty": 200,
+   "sub": "YouTube, avis, presse… et ta boutique.\n\n✅ Une vidéo démo par produit phare\n✅ Fiches claires : prix, taille, livraison\n✅ Des avis clients bien visibles\n✅ Fais parler de toi (presse, créateurs)\n\nAudit de ta boutique dès 49 €\nLien en bio 🔗 · Enregistre ce post 🔖",
+   "sy": 470,
+   "ss": 38,
+   "emoji": [
+    [
+     "📺",
+     840,
+     1100,
+     160,
+     10
+    ]
+   ]
+  }
+ ]
+}

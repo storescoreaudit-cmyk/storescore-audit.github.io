@@ -492,3 +492,12 @@ Format paysage : utiliser en fond plein écran recadré ou en carte (card) dans 
 - magneto-bleu-table.jpg — cassette bleue sur table blanche, Silas Gregory / Unsplash (8IAGrtVFwLc)
 - passage-pieton-casque-chicago.jpg — femme au casque, passage piéton Chicago, Jay Nuetey / Unsplash (og4uJb1bc1k)
 - passant-casque-lumiere-rouge.jpg — passant flou au casque, lumière rouge, Abhishek Tiwari / Unsplash (lwZVgnFw0Wg)
+
+## Ajout du 23 nov 2026 midi (Unsplash, licence Unsplash — créditer « Photo : [auteur] / Unsplash, modifiée »)
+- telephone-youtube-logo-blanc.jpg — Christian Wiediger / Unsplash (photo-1548328928, usWE9pOuTfE)
+- telephone-youtube-app-sombre.jpg — Zulfugar Karimov / Unsplash (photo-1762330470472, f00CbjZuO1Y)
+- logo-youtube-telephone-noir.jpg — Zulfugar Karimov / Unsplash (photo-1762340274924, f2gNpjHgiUM)
+- lumiere-rouge-trainees-noir.jpg — matthew Feeney / Unsplash (photo-1559999831, ytT1T8cEPmA) — traînées rouges type laser
+- faisceaux-laser-rouges-noir.jpg — Warren Valentine / Unsplash (photo-1687549181609, xRq7paWIdXc) — portrait, faisceaux rouges convergents
+- ecran-bourse-graphiques.jpg — Nicholas Cappello / Unsplash (photo-1560221328, Wb63zqJ5gnE)
+- bureau-trading-ecrans.jpg — Jakub Żerdzicki / Unsplash (photo-1744782211816, VM_6EtTAfDQ) — non utilisée
