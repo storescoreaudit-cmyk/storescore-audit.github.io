@@ -1,0 +1,348 @@
+{
+ "lang": "fr",
+ "accent": "#ff5a1f",
+ "accent_fg": "#ffffff",
+ "slides": [
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "📖 Histoire vraie",
+   "cards": [
+    [
+     "photos/lib/canne-a-peche-moulinet.jpg",
+     40,
+     180,
+     560,
+     560,
+     -7,
+     "",
+     "30% 50%"
+    ],
+    [
+     "photos/lib/poele-oeuf-plat-noire.jpg",
+     600,
+     290,
+     430,
+     430,
+     6,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🎣",
+     500,
+     110,
+     140,
+     12
+    ],
+    [
+     "😳",
+     20,
+     640,
+     130,
+     -12
+    ],
+    [
+     "🍳",
+     920,
+     170,
+     110,
+     -10
+    ],
+    [
+     "💥",
+     950,
+     650,
+     100,
+     10
+    ]
+   ],
+   "title": "Un *pêcheur* a inventé\nla poêle qui\nn'attache pas.",
+   "fs": 90,
+   "ty": 770,
+   "lh": 1.04,
+   "sub": "Grâce à sa femme… et à un produit\n« qui ne sert à rien » 👇",
+   "sy": 1090
+  },
+  {
+   "type": "text",
+   "theme": "dark",
+   "tag": "01 · Le produit",
+   "num": "1938",
+   "ns": 200,
+   "title": "Chez DuPont, aux États-Unis,\nRoy Plunkett découvre\nle *Téflon* par hasard.",
+   "fs": 62,
+   "ty": 420,
+   "sub": "Une matière sur laquelle\npresque rien n'accroche (Slate).",
+   "sy": 690,
+   "cards": [
+    [
+     "photos/lib/cuisine-grise-casseroles-poivrier.jpg",
+     90,
+     990,
+     560,
+     290,
+     -5,
+     "",
+     "50% 60%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🧪",
+     780,
+     1010,
+     150,
+     10
+    ],
+    [
+     "🇺🇸",
+     880,
+     170,
+     110,
+     -8
+    ]
+   ],
+   "lh": 1.12
+  },
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "02 · Le pêcheur",
+   "num": "1954",
+   "ns": 200,
+   "title": "Marc Grégoire, ingénieur\nfrançais, veut que ses\n*cannes à pêche glissent* mieux.",
+   "fs": 62,
+   "ty": 420,
+   "sub": "Il appelle le bureau parisien du fabricant.\nOn lui vend du Téflon… en le prévenant\nque ça ne sert à rien (Slate).",
+   "sy": 690,
+   "cards": [
+    [
+     "photos/lib/mains-canne-a-peche-lac.jpg",
+     90,
+     990,
+     560,
+     290,
+     -5,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🎣",
+     780,
+     1010,
+     150,
+     10
+    ],
+    [
+     "🇫🇷",
+     880,
+     170,
+     110,
+     -8
+    ]
+   ],
+   "lh": 1.12
+  },
+  {
+   "type": "text",
+   "theme": "dark",
+   "tag": "03 · L'idée",
+   "num": "Colette",
+   "ns": 190,
+   "title": "Sa femme lui lance :\net si tu en mettais\n*sur mes poêles* ?",
+   "fs": 62,
+   "ty": 420,
+   "sub": "Colette Grégoire le met au défi\nde créer une poêle anti-adhésive\n(Wikipedia, Slate).",
+   "sy": 690,
+   "cards": [
+    [
+     "photos/lib/cuisine-rose-ustensiles-suspendus.jpg",
+     90,
+     990,
+     560,
+     290,
+     -5,
+     "",
+     "60% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "💡",
+     780,
+     1010,
+     150,
+     10
+    ],
+    [
+     "👩‍🍳",
+     880,
+     170,
+     110,
+     -8
+    ]
+   ],
+   "lh": 1.12
+  },
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "04 · L'astuce",
+   "num": "TEF+AL",
+   "ns": 190,
+   "title": "Il attaque l'aluminium à l'acide\npour faire de *micro-trous*.\nLe Téflon s'y accroche enfin.",
+   "fs": 60,
+   "ty": 420,
+   "sub": "Brevet en 1954. Le nom ?\nTEFlon + ALuminium = Tefal\n(Slate, Wikipedia).",
+   "sy": 690,
+   "cards": [
+    [
+     "photos/lib/poele-noire-plaque-cuisine-grise.jpg",
+     90,
+     990,
+     560,
+     290,
+     -5,
+     "",
+     "50% 55%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🔬",
+     780,
+     1010,
+     150,
+     10
+    ],
+    [
+     "🍳",
+     880,
+     170,
+     110,
+     -8
+    ]
+   ],
+   "lh": 1.12
+  },
+  {
+   "type": "text",
+   "theme": "dark",
+   "tag": "05 · Le carton",
+   "num": "3 M",
+   "ns": 200,
+   "title": "d'articles vendus par an\nen 1960. Le couple a fondé\n*Tefal en 1956*.",
+   "fs": 62,
+   "ty": 420,
+   "sub": "Slogan : « La poêle Tefal,\nla poêle qui n'attache vraiment pas »\n(Wikipedia).",
+   "sy": 690,
+   "cards": [
+    [
+     "photos/lib/cuisine-casseroles-poeles-inox.jpg",
+     90,
+     990,
+     560,
+     290,
+     -5,
+     "",
+     "50% 45%"
+    ]
+   ],
+   "emoji": [
+    [
+     "📈",
+     780,
+     1010,
+     150,
+     10
+    ],
+    [
+     "🔥",
+     880,
+     170,
+     110,
+     -8
+    ]
+   ],
+   "lh": 1.12
+  },
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "06 · New York",
+   "num": "200",
+   "ns": 220,
+   "title": "poêles chez Macy's,\nle 15 décembre 1960.\n*Toutes vendues en 2 jours*.",
+   "fs": 62,
+   "ty": 420,
+   "sub": "À 6,95 $, malgré 50 cm de neige et −13 °C.\nUn journaliste, Thomas Hardie, avait\ngalèré pour convaincre un magasin (Slate).",
+   "sy": 690,
+   "cards": [
+    [
+     "photos/lib/new-york-rue-hiver-passants.jpg",
+     90,
+     990,
+     560,
+     290,
+     -5,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "❄️",
+     780,
+     1010,
+     150,
+     10
+    ],
+    [
+     "🗽",
+     880,
+     170,
+     110,
+     -8
+    ]
+   ],
+   "lh": 1.12
+  },
+  {
+   "type": "quote",
+   "style": "min",
+   "theme": "dark",
+   "tag": "💬 Citation",
+   "title": "Ce produit *ne sert à rien* car il ne colle à rien.",
+   "author": "Le vendeur de Téflon à Marc Grégoire, 1954\n(raconté par Slate)\nAujourd'hui, Tefal appartient au Groupe SEB\ndepuis 1968 (Wikipedia).",
+   "ty": 330,
+   "tr": 90,
+   "fs": 100,
+   "sy": 900
+  },
+  {
+   "type": "cta",
+   "theme": "green",
+   "tag": "💡 La leçon",
+   "title": "Ton meilleur usage,\n*un client* le verra\navant toi.",
+   "fs": 84,
+   "ty": 200,
+   "sub": "Le Téflon « ne servait à rien ».\nUne question en cuisine a tout changé.\n\n✅ Demande à tes clients comment ils l'utilisent\n✅ Mets cet usage en photo sur ta fiche\n✅ Teste petit (200 poêles) avant de voir grand\n✅ Un nom simple qui dit ce que c'est\n\nAudit de ta boutique dès 49 €\nLien en bio 🔗 · Enregistre ce post 🔖",
+   "sy": 540,
+   "ss": 36,
+   "emoji": [
+    [
+     "🍳",
+     850,
+     1120,
+     150,
+     10
+    ]
+   ]
+  }
+ ]
+}
