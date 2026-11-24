@@ -1,0 +1,349 @@
+{
+ "lang": "en",
+ "accent": "#c6f432",
+ "accent_fg": "#111111",
+ "accent_light": "#5b8c00",
+ "slides": [
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "📖 True story",
+   "cards": [
+    [
+     "photos/lib/crocs-gris-pied.jpg",
+     40,
+     170,
+     560,
+     560,
+     -7,
+     "",
+     "50% 60%"
+    ],
+    [
+     "photos/lib/crocodile-gueule-ouverte.jpg",
+     600,
+     290,
+     430,
+     430,
+     6,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🐊",
+     480,
+     100,
+     140,
+     12
+    ],
+    [
+     "😬",
+     20,
+     640,
+     130,
+     -12
+    ],
+    [
+     "⛵",
+     930,
+     170,
+     110,
+     -10
+    ],
+    [
+     "💰",
+     950,
+     650,
+     100,
+     10
+    ]
+   ],
+   "title": "The shoe everyone\ncalled *ugly* built a\n$4 billion company.",
+   "fs": 88,
+   "ty": 770,
+   "lh": 1.04,
+   "sub": "\"Clown shoes.\" Then it got weird 👇",
+   "sy": 1100
+  },
+  {
+   "type": "text",
+   "theme": "dark",
+   "tag": "01 · The trip",
+   "num": "2002",
+   "ns": 200,
+   "title": "Three friends in their 40s,\non a Caribbean sailing trip,\nbet on a *foam boat shoe*.",
+   "fs": 60,
+   "ty": 420,
+   "lh": 1.12,
+   "sub": "Scott Seamans found the clog in Canada\n(Foam Creations) and added a heel strap\n(Quartr).",
+   "sy": 690,
+   "cards": [
+    [
+     "photos/lib/voilier-quai-crepuscule.jpg",
+     90,
+     990,
+     560,
+     290,
+     -5,
+     "",
+     "50% 60%"
+    ]
+   ],
+   "emoji": [
+    [
+     "⛵",
+     780,
+     1010,
+     150,
+     10
+    ],
+    [
+     "🇨🇦",
+     880,
+     170,
+     110,
+     -8
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "02 · The test",
+   "num": "1,000",
+   "ns": 200,
+   "title": "pairs at the Fort Lauderdale\nboat show, Nov. 2002.\n*All sold out*, at $30 each.",
+   "fs": 60,
+   "ty": 420,
+   "lh": 1.12,
+   "sub": "Per Quartr. Footwear News says\nthe first batch was 200 pairs.\nEither way: gone.",
+   "sy": 690,
+   "cards": [
+    [
+     "photos/lib/voiliers-lac-geneve.jpg",
+     90,
+     990,
+     560,
+     290,
+     -5,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🛥️",
+     780,
+     1010,
+     150,
+     10
+    ],
+    [
+     "💸",
+     880,
+     170,
+     110,
+     -8
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "theme": "dark",
+   "tag": "03 · The rocket",
+   "num": "$850M",
+   "ns": 190,
+   "title": "in sales in 2007.\n46.9 million pairs.\n*Up from $110M in 2005.*",
+   "fs": 60,
+   "ty": 420,
+   "lh": 1.12,
+   "sub": "Feb. 2006: Nasdaq IPO, the largest\nin footwear history (Quartr).",
+   "sy": 690,
+   "cards": [
+    [
+     "photos/lib/chaussures-boite-couleurs.jpg",
+     90,
+     990,
+     560,
+     290,
+     -5,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🚀",
+     780,
+     1010,
+     150,
+     10
+    ],
+    [
+     "📈",
+     880,
+     170,
+     110,
+     -8
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "04 · The crash",
+   "num": "−95%",
+   "ns": 200,
+   "title": "The stock by the end of 2008.\n*Too many pairs,\ntoo fast.*",
+   "fs": 60,
+   "ty": 420,
+   "lh": 1.12,
+   "sub": "Inventory fears halved the share price\nin two weeks in Nov. 2007. Losses in 2009,\nprofit again in 2010 (Quartr).",
+   "sy": 690,
+   "cards": [
+    [
+     "photos/lib/ecran-bourse-graphiques.jpg",
+     90,
+     990,
+     560,
+     290,
+     -5,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "📉",
+     780,
+     1010,
+     150,
+     10
+    ],
+    [
+     "😱",
+     880,
+     170,
+     110,
+     -8
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "theme": "dark",
+   "tag": "05 · The add-on",
+   "num": "$10M",
+   "ns": 200,
+   "title": "In 2006, Crocs buys *Jibbitz*:\nlittle charms you clip\ninto the holes.",
+   "fs": 60,
+   "ty": 420,
+   "lh": 1.12,
+   "sub": "Price: $10M, plus up to $10M more\nif targets were hit. In 2024, Jibbitz made\nover $260M, 6%+ of sales (Quartr).",
+   "sy": 690,
+   "cards": [
+    [
+     "photos/lib/crocs-gris-pied.jpg",
+     90,
+     990,
+     560,
+     290,
+     -5,
+     "",
+     "50% 45%"
+    ]
+   ],
+   "emoji": [
+    [
+     "⭐",
+     780,
+     1010,
+     150,
+     10
+    ],
+    [
+     "🌈",
+     880,
+     170,
+     110,
+     -8
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "06 · The twist",
+   "num": "2016",
+   "ns": 200,
+   "title": "Designer Christopher Kane\nputs Crocs *on the runway*\nin London. Balenciaga follows.",
+   "fs": 58,
+   "ty": 420,
+   "lh": 1.12,
+   "sub": "Then Post Malone, Bad Bunny, KFC…\nThey didn't hide the \"ugly\".\nThey leaned in (Quartr).",
+   "sy": 690,
+   "cards": [
+    [
+     "photos/lib/defile-projecteurs.jpg",
+     90,
+     990,
+     560,
+     290,
+     -5,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🎤",
+     780,
+     1010,
+     150,
+     10
+    ],
+    [
+     "🍗",
+     880,
+     170,
+     110,
+     -8
+    ]
+   ]
+  },
+  {
+   "type": "quote",
+   "style": "min",
+   "theme": "dark",
+   "tag": "💬 Quote",
+   "title": "You love us or hate us – and that's OK because that means *you're paying attention* to us.",
+   "author": "Michelle Poole\nCrocs brand president, 2020-2024\n(via Quartr)",
+   "ty": 300,
+   "tr": 90,
+   "fs": 84,
+   "sy": 960
+  },
+  {
+   "type": "cta",
+   "theme": "green",
+   "tag": "💡 The lesson",
+   "title": "Your weird\nis *your marketing*.",
+   "fs": 90,
+   "ty": 200,
+   "sub": "Crocs didn't fix the look. They sold it.\n\n✅ Say out loud what makes you different\n✅ Offer the add-on on every product page\n✅ Test small first (one boat show)\n✅ Watch your stock: growth can hurt too\n\nStore audit from €49\nLink in bio 🔗 · Save this post 🔖",
+   "sy": 480,
+   "ss": 38,
+   "emoji": [
+    [
+     "🐊",
+     860,
+     1110,
+     150,
+     10
+    ]
+   ]
+  }
+ ]
+}

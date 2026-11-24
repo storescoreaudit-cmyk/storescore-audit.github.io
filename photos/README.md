@@ -548,3 +548,13 @@ Format paysage : utiliser en fond plein écran recadré ou en carte (card) dans 
 - cuisine-casseroles-poeles-inox.jpg — Ricky Singh / Unsplash (photo-1633536704679)
 - cuisine-grise-casseroles-poivrier.jpg — Becca Tapert / Unsplash (photo-1556909212)
 - cuisine-rose-ustensiles-suspendus.jpg — dada design / Unsplash (photo-1654064756668)
+
+## Ajout du 24 nov 2026 soir (Unsplash, licence Unsplash — créditer « Photo : [auteur] / Unsplash, modifiée »)
+- crocs-gris-pied.jpg — Nathan Dumlao / Unsplash (photo-1603145733190)
+- open-neon-vitrine.jpg — Dominique Shaw / Unsplash (photo-1642659904662) — portrait, néon OPEN de nuit
+- open-porte-vintage.jpg — Artem Beliaikin / Unsplash (photo-1519358349916) — « Yes, we are open »
+- voilier-quai-crepuscule.jpg — Antonio Vivace / Unsplash (photo-1781304433778)
+- voiliers-lac-geneve.jpg — Timothy Newman / Unsplash (photo-1587652345503)
+- chaussures-boite-couleurs.jpg — Jakob Owens / Unsplash (photo-1462927114214)
+- chaussures-tas-couleurs.jpg — Eric Prouzet / Unsplash (photo-1664095885197) — mocassins
+- chaussures-etagere-dehors.jpg — Bryan White / Unsplash (photo-1716513312004)

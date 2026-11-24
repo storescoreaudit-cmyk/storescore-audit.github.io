@@ -154,7 +154,7 @@ def main(spec, out):
     afg = d.get("accent_fg")  # couleur du texte surligné (ex. blanc sur violet)
     if afg: css += f".dark .title mark,.light .title mark{{color:{afg}}}"
     accl = d.get("accent_light")  # accent plus foncé pour les slides claires (ex. jaune illisible sur crème)
-    if accl: css += f".mn.light .title mark{{color:{accl}}}.light .qm{{color:{accl}}}.light .title mark{{background:{accl};color:#fff}}"
+    if accl: css += f".mn.light .title mark{{color:{accl}}}.light .qm{{color:{accl}}}.light .title mark{{background:{accl};color:#fff}}.light .num{{color:{accl}}}"
     with sync_playwright() as p:
         b = p.chromium.launch(); pg = b.new_page(viewport={"width": 1080, "height": 1350})
         for i, s in enumerate(d["slides"]):
