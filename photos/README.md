@@ -529,3 +529,13 @@ Format paysage : utiliser en fond plein écran recadré ou en carte (card) dans 
 - porte-bois-chaine-nb.jpg — Shantanu Kumar / Unsplash (photo-1680605809291)
 - usine-brique-cheminee.jpg — Vladislav Vedenskii / Unsplash (photo-1680595848057)
 - fauteuil-salon-coiffure-vintage.jpg — jay huang / Unsplash (photo-1629881544138)
+
+## Ajout du 24 nov 2026 midi (Unsplash, licence Unsplash — créditer « Photo : [auteur] / Unsplash, modifiée »)
+- pate-a-modeler-blocs-couleurs.jpg — Joshua Melo / Unsplash (photo-1565017051503)
+- pate-a-modeler-arc-en-ciel-mains.jpg — Julietta Watson / Unsplash (photo-1579018024219)
+- pate-a-modeler-table-boules.jpg — Taylor Heery / Unsplash (photo-1648810402687)
+- etagere-pots-pate-a-modeler.jpg — Jason Leung / Unsplash (photo-1761682753495) (pots Play-Doh visibles)
+- televiseur-vintage-tabouret-carreaux.jpg — Ajeet Mestry / Unsplash (photo-1509281373149)
+- papier-peint-fleurs-bleues-roses.jpg — Thérèse Photo / Unsplash (photo-1701199993123)
+- papier-peint-rayures-fleurs-vert-orange.jpg — Taylor Friehl / Unsplash (photo-1778088442849)
+- maitresse-enfants-pate-a-modeler.jpg — Yegor Makarenko / Unsplash (photo-1788882679829) (adulte identifiable : ne pas présenter comme une personne réelle de l'histoire)
