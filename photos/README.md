@@ -558,3 +558,11 @@ Format paysage : utiliser en fond plein écran recadré ou en carte (card) dans 
 - chaussures-boite-couleurs.jpg — Jakob Owens / Unsplash (photo-1462927114214)
 - chaussures-tas-couleurs.jpg — Eric Prouzet / Unsplash (photo-1664095885197) — mocassins
 - chaussures-etagere-dehors.jpg — Bryan White / Unsplash (photo-1716513312004)
+
+## Ajout du 25 nov 2026 matin (Unsplash, licence Unsplash — créditer « Photo : [auteur] / Unsplash, modifiée »)
+- ballons-panier-magasin-sport.jpg — Elizabeth Dunne / Unsplash (photo-1646504632442) — portrait, magasin de sport
+- velo-gris-selle-mur.jpg — Florencia Potter / Unsplash (photo-1513308549331)
+- tente-verte-nuit-himalaya.jpg — Eugene Ga / Unsplash (photo-1639922957725)
+- velos-rangees-infinies.jpg — Héctor Martínez / Unsplash (photo-1464336939748)
+- sacs-shopping-main-couleurs.jpg — Iuliia Pilipeichenko / Unsplash (photo-1760565030243)
+- parking-vide-vue-aerienne.jpg — Ahnaf Tahsin / Unsplash (photo-1716408672706) — portrait, piste + parking vu du ciel
