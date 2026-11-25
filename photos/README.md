@@ -576,3 +576,7 @@ Format paysage : utiliser en fond plein écran recadré ou en carte (card) dans 
 - telephone-cadran-noir-blanc.jpg — Quino Al / Unsplash (photo-1525598912003) — paysage, fond blanc
 - conseiller-casque-support.jpg — Vagaro / Unsplash (photo-1712159018726) — paysage, conseiller avec casque (logo Vagaro sur le t-shirt)
 - slinky-gris-portrait.jpg — dérivé de slinky-gris.jpg (Debbie Harris / Unsplash), fond rouge prolongé vers le bas pour une couverture 4:5
+- marionnettes-vitrine-prague.jpg — Emir Kutluay / Unsplash (photo-1761865201971, hqxpcdJbtHc) — marionnettes et poupées dans une vitrine en bois, Prague, sombre
+- femme-vitrine-noel-neon.jpg — Valentina Kondrasyuk / Unsplash (photo-1764973638084, -c6SekgMKX0) — femme regardant une vitrine de Noël (néon, sapins blancs), nuit
+- champs-elysees-noel-foule.jpg — Stephanie LeBlanc / Unsplash (photo-1548093275, 3lveHy30M6w) — foule sur les Champs-Élysées illuminés en rouge, nuit
+- etageres-jouets-anciens-blanches.jpg — Eric Prouzet / Unsplash (photo-1692195322239, RkdOXqPINtM) — jouets et objets anciens sur étagères blanches
