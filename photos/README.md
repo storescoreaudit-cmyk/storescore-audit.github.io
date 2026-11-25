@@ -566,3 +566,13 @@ Format paysage : utiliser en fond plein écran recadré ou en carte (card) dans 
 - velos-rangees-infinies.jpg — Héctor Martínez / Unsplash (photo-1464336939748)
 - sacs-shopping-main-couleurs.jpg — Iuliia Pilipeichenko / Unsplash (photo-1760565030243)
 - parking-vide-vue-aerienne.jpg — Ahnaf Tahsin / Unsplash (photo-1716408672706) — portrait, piste + parking vu du ciel
+
+## Ajout du 25 nov 2026 après-midi (Unsplash, licence Unsplash — créditer « Photo : [auteur] / Unsplash, modifiée »)
+- slinky-gris.jpg — Debbie Harris / Unsplash (flagged/photo-1553643852) — paysage, Slinky métal sur fond rouge
+- slinkys-3d-ondulations.jpg — Zoha Gohar / Unsplash (photo-1757600797704) — rendu 3D, ondulations façon ressorts
+- dinde-plat-blanc.jpg — Hayley Ryczek / Unsplash (photo-1672787380741) — paysage, volaille rôtie herbes
+- dinde-bol-portrait.jpg — Hayley Ryczek / Unsplash (photo-1672787380751) — portrait
+- telephone-cadran-main-bleu.jpg — Elena Koycheva / Unsplash (photo-1534073828943) — portrait, fond jaune/gris
+- telephone-cadran-noir-blanc.jpg — Quino Al / Unsplash (photo-1525598912003) — paysage, fond blanc
+- conseiller-casque-support.jpg — Vagaro / Unsplash (photo-1712159018726) — paysage, conseiller avec casque (logo Vagaro sur le t-shirt)
+- slinky-gris-portrait.jpg — dérivé de slinky-gris.jpg (Debbie Harris / Unsplash), fond rouge prolongé vers le bas pour une couverture 4:5
