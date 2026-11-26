@@ -1,0 +1,349 @@
+{
+ "lang": "fr",
+ "accent": "#ff7a1a",
+ "accent_fg": "#111111",
+ "accent_light": "#c24e00",
+ "slides": [
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "🛒 Black Friday, c'est demain",
+   "cards": [
+    [
+     "photos/lib/pancarte-closed-porte-vitree.jpg",
+     40,
+     170,
+     500,
+     620,
+     -7,
+     "",
+     "50% 45%"
+    ],
+    [
+     "photos/lib/salon-canape-vert.jpg",
+     570,
+     250,
+     460,
+     520,
+     6,
+     "",
+     "40% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "😳",
+     470,
+     110,
+     140,
+     12
+    ],
+    [
+     "🔒",
+     10,
+     660,
+     140,
+     -12
+    ],
+    [
+     "🛋️",
+     930,
+     160,
+     110,
+     -10
+    ],
+    [
+     "💸",
+     950,
+     690,
+     100,
+     10
+    ]
+   ],
+   "title": "*Black Friday* :\ncette boutique\nfrançaise ferme\nson site.",
+   "fs": 88,
+   "ty": 820,
+   "lh": 1.06,
+   "sub": "Volontairement. Depuis 2017 👇",
+   "sy": 1210
+  },
+  {
+   "type": "text",
+   "theme": "dark",
+   "tag": "01 · L'origine",
+   "num": "1947",
+   "ns": 220,
+   "title": "La *Camif* naît pour aider\nles gens à se meubler.",
+   "fs": 62,
+   "ty": 440,
+   "lh": 1.12,
+   "sub": "« Une nécessité mutualiste de se meubler\ndans une période chaotique ».\nDès 1950 : vente par correspondance\n(Marques de France).",
+   "sy": 640,
+   "cards": [
+    [
+     "photos/lib/femmes-canape-salon-a.jpg",
+     90,
+     960,
+     560,
+     320,
+     -5,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "📬",
+     780,
+     1000,
+     150,
+     10
+    ],
+    [
+     "🪑",
+     880,
+     170,
+     110,
+     -8
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "02 · La chute",
+   "num": "2008",
+   "ns": 220,
+   "title": "*Faillite.*\nLa marque disparaît.",
+   "fs": 66,
+   "ty": 440,
+   "lh": 1.12,
+   "sub": "Emery Jacquillat, patron de Matelsom\n(un concurrent), veut la relancer :\n« une grande marque avec des valeurs\nfortes, ça ne meurt pas une marque\ncomme ça ! » (HEC Alumni)",
+   "sy": 640,
+   "cards": [
+    [
+     "photos/lib/cartons-ouverts.jpg",
+     90,
+     960,
+     560,
+     320,
+     -5,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "📉",
+     780,
+     1000,
+     150,
+     10
+    ],
+    [
+     "🔁",
+     880,
+     170,
+     110,
+     -8
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "theme": "dark",
+   "tag": "03 · Le pari",
+   "num": "2017",
+   "ns": 220,
+   "title": "Opération\n*« Stop Black Friday ! »*\nLe site ferme le jour J.",
+   "fs": 62,
+   "ty": 440,
+   "lh": 1.12,
+   "sub": "Objectif : donner « un signal très fort »\ncontre la surconsommation\n(AFP, via L'info durable, 2018).",
+   "sy": 720,
+   "cards": [
+    [
+     "photos/lib/pancarte-closed-porte-rouge.jpg",
+     90,
+     960,
+     560,
+     320,
+     -5,
+     "",
+     "45% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🛑",
+     780,
+     1000,
+     150,
+     10
+    ],
+    [
+     "🔒",
+     880,
+     170,
+     110,
+     -8
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "04 · Le sacrifice",
+   "num": "500 M€",
+   "ns": 200,
+   "title": "dépensés en France pendant\nle *Black Friday 2018*.",
+   "fs": 62,
+   "ty": 440,
+   "lh": 1.12,
+   "sub": "Plus de 1,3 million de transactions\n(Capital, cité par L'ADN).\nLa Camif renonce à sa part du gâteau.",
+   "sy": 640,
+   "cards": [
+    [
+     "photos/lib/colis-pile-scotch.jpg",
+     90,
+     960,
+     560,
+     320,
+     -5,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "💸",
+     780,
+     1000,
+     150,
+     10
+    ],
+    [
+     "🍰",
+     880,
+     170,
+     110,
+     -8
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "theme": "dark",
+   "tag": "05 · Le mouvement",
+   "num": "450",
+   "ns": 240,
+   "title": "autres marques rejoignent\nle collectif *« Make Friday\nGreen Again »*.",
+   "fs": 60,
+   "ty": 440,
+   "lh": 1.12,
+   "sub": "Aux côtés de la Camif, pour une\nalternative au Black Friday\n(L'ADN, novembre 2019).",
+   "sy": 700,
+   "cards": [
+    [
+     "photos/lib/post-it-mur-verts-bleus.jpg",
+     90,
+     960,
+     560,
+     320,
+     -5,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🌱",
+     780,
+     1000,
+     150,
+     10
+    ],
+    [
+     "🤝",
+     880,
+     170,
+     110,
+     -8
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "06 · La cohérence",
+   "num": "100 %",
+   "ns": 220,
+   "title": "de l'offre fabriquée\nen Europe depuis 2021,\n*surtout en France*.",
+   "fs": 60,
+   "ty": 440,
+   "lh": 1.12,
+   "sub": "Entreprise à mission depuis 2020\n(Marques de France). Le Black Friday fermé\nn'est pas un coup de com' isolé.",
+   "sy": 700,
+   "cards": [
+    [
+     "photos/lib/atelier-etabli-outils.jpg",
+     90,
+     960,
+     560,
+     320,
+     -5,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🇫🇷",
+     780,
+     1000,
+     150,
+     10
+    ],
+    [
+     "🔨",
+     880,
+     170,
+     110,
+     -8
+    ]
+   ]
+  },
+  {
+   "type": "quote",
+   "style": "min",
+   "theme": "dark",
+   "tag": "💬 Citation",
+   "title": "On n'est pas dans la « déconsommation » mais *dans la consommation responsable.*",
+   "author": "Emery Jacquillat\npatron de la Camif\n(AFP, novembre 2018)",
+   "ty": 380,
+   "tr": 80,
+   "fs": 80,
+   "sy": 900
+  },
+  {
+   "type": "cta",
+   "theme": "green",
+   "tag": "💡 La leçon",
+   "title": "Pas besoin de fermer.\nMais *prends position.*",
+   "fs": 82,
+   "ty": 200,
+   "sub": "Demain, 1 000 boutiques crient « -50 % ».\nCe qu'on retient, c'est celle qui a\nune vraie raison d'exister.\n\n✅ Dis clairement pour qui tu vends\n✅ Montre d'où viennent tes produits\n✅ Garde des prix honnêtes, même demain\n✅ Ta promesse visible dès l'accueil\n\nAudit de ta boutique dès 49 €\nLien en bio 🔗 · Enregistre ce post 🔖",
+   "sy": 470,
+   "ss": 36,
+   "emoji": [
+    [
+     "🛋️",
+     860,
+     1110,
+     150,
+     10
+    ]
+   ]
+  }
+ ]
+}

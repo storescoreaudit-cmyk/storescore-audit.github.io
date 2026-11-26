@@ -589,3 +589,7 @@ Format paysage : utiliser en fond plein écran recadré ou en carte (card) dans 
 - radios-vintage-etageres.jpg — Rod Flores / Unsplash (photo-1623969451926)
 - reparation-electronique-mains.jpg — Samsung Memory / Unsplash (photo-1721332154191)
 - femme-bureau-laptop.jpg — Vitaly Gariev / Unsplash (photo-1713947503588)
+
+## Ajout du 26 nov 2026 soir (Unsplash, licence Unsplash — créditer « Photo : [auteur] / Unsplash, modifiée »)
+- pancarte-closed-porte-vitree.jpg — Tim Mossholder / Unsplash (photo-1727840732797)
+- pancarte-closed-porte-rouge.jpg — Evan Wise / Unsplash (photo-1532987170631)
