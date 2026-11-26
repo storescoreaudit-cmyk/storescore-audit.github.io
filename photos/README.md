@@ -584,3 +584,8 @@ Format paysage : utiliser en fond plein écran recadré ou en carte (card) dans 
 - macys-escalators-bois.jpg — Stephan Kelle / Unsplash (photo-1588383138973, dhVcgz7ePZQ) — escalators en bois de Macy's, 34e rue, paysage
 - pere-noel-banc-macys.jpg — Nancy Lee / Unsplash (photo-1729022290355, bTpm_gKdLfo) — Père Noël sur son trône chez Macy's, portrait
 - navire-tempete-marins-1910.jpg — Herbert Ponting via Te Papa / Unsplash (photo-1764037047635, zanU7IIWt8k) — marins du Terra Nova dans un coup de vent, 1910, portrait sépia
+
+## Ajout du 26 nov 2026 après-midi (Unsplash, licence Unsplash — créditer « Photo : [auteur] / Unsplash, modifiée »)
+- radios-vintage-etageres.jpg — Rod Flores / Unsplash (photo-1623969451926)
+- reparation-electronique-mains.jpg — Samsung Memory / Unsplash (photo-1721332154191)
+- femme-bureau-laptop.jpg — Vitaly Gariev / Unsplash (photo-1713947503588)
