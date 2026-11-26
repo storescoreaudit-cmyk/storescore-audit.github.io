@@ -580,3 +580,7 @@ Format paysage : utiliser en fond plein écran recadré ou en carte (card) dans 
 - femme-vitrine-noel-neon.jpg — Valentina Kondrasyuk / Unsplash (photo-1764973638084, -c6SekgMKX0) — femme regardant une vitrine de Noël (néon, sapins blancs), nuit
 - champs-elysees-noel-foule.jpg — Stephanie LeBlanc / Unsplash (photo-1548093275, 3lveHy30M6w) — foule sur les Champs-Élysées illuminés en rouge, nuit
 - etageres-jouets-anciens-blanches.jpg — Eric Prouzet / Unsplash (photo-1692195322239, RkdOXqPINtM) — jouets et objets anciens sur étagères blanches
+- macys-facade-34e-rue.jpg — Vinicius Brasil / Unsplash (photo-1744217429990, RgYS3v0MXsk) — façade Macy's Herald Square, enseigne « R.H. MACY & CO. », carré
+- macys-escalators-bois.jpg — Stephan Kelle / Unsplash (photo-1588383138973, dhVcgz7ePZQ) — escalators en bois de Macy's, 34e rue, paysage
+- pere-noel-banc-macys.jpg — Nancy Lee / Unsplash (photo-1729022290355, bTpm_gKdLfo) — Père Noël sur son trône chez Macy's, portrait
+- navire-tempete-marins-1910.jpg — Herbert Ponting via Te Papa / Unsplash (photo-1764037047635, zanU7IIWt8k) — marins du Terra Nova dans un coup de vent, 1910, portrait sépia
