@@ -593,3 +593,13 @@ Format paysage : utiliser en fond plein écran recadré ou en carte (card) dans 
 ## Ajout du 26 nov 2026 soir (Unsplash, licence Unsplash — créditer « Photo : [auteur] / Unsplash, modifiée »)
 - pancarte-closed-porte-vitree.jpg — Tim Mossholder / Unsplash (photo-1727840732797)
 - pancarte-closed-porte-rouge.jpg — Evan Wise / Unsplash (photo-1532987170631)
+
+## Ajout du 27 nov 2026 midi (Unsplash, licence Unsplash — créditer « Photo : [auteur] / Unsplash, modifiée »)
+- cd-main-reflet.jpg — Phil Hearing / Unsplash (photo-1528721602843)
+- cd-pile-orange.jpg — Dewang Gupta / Unsplash (photo-1539455966623)
+- bordeaux-bourse-horloge.jpg — Maxime Kirschner / Unsplash (photo-1699969108966) — place de la Bourse de nuit, miroir d'eau
+- bordeaux-bourse-golden.jpg — Clément Roy / Unsplash (photo-1576703190985)
+- neon-sale-orange.jpg — Eli Nir / Unsplash (photo-1771590259417)
+- neon-big-brand-sale-londres.jpg — Jon Cellier / Unsplash (photo-1546502208) — logos de marques sur l'écran
+- paiement-telephone-carte.jpg — Vitaly Gariev / Unsplash (photo-1758273705998)
+- telephone-nuit-shanghai.jpg — Andrew Guan / Unsplash (photo-1510717029971) — très sombre
