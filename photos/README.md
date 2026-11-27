@@ -606,3 +606,10 @@ Format paysage : utiliser en fond plein écran recadré ou en carte (card) dans 
 
 ## Ajout du 27 nov 2026 après-midi (Unsplash, licence Unsplash — créditer « Photo : [auteur] / Unsplash, modifiée »)
 - calendrier-novembre-blanc.jpg — Behnam Norouzi / Unsplash (photo-1698768383340, XEhKeB8gvL0) — non utilisée en publication (chiffres trop chargés derrière le texte) — calendrier « Nov » (mise en page identique à nov. 1939), mention « 2023 » effacée, portrait
+
+## Ajout du 27 nov 2026 soir (Unsplash, licence Unsplash — créditer « Photo : [auteur] / Unsplash, modifiée »)
+- ibm-pc-vintage-pile.jpg — bert b / Unsplash (photo-1554921027)
+- clavier-ibm-personal-computer.jpg — Sam Pak / Unsplash (photo-1600861194861)
+- ordinateur-vintage-sombre.jpg — Callum Mullin / Unsplash (photo-1745006485274)
+- barrette-ram-sombre.jpg — Franck V. / Unsplash (photo-1542978709)
+- bureau-annees80-ordinateur.jpg — National Cancer Institute / Unsplash (photo-1576669803361)
