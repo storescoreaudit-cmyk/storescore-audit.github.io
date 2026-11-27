@@ -1,0 +1,349 @@
+{
+ "lang": "fr",
+ "accent": "#8be04e",
+ "accent_fg": "#111111",
+ "accent_light": "#2e7d32",
+ "slides": [
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "🌿 Histoire vraie",
+   "cards": [
+    [
+     "photos/lib/creme-pot-flottant-rocher.jpg",
+     40,
+     170,
+     520,
+     600,
+     -7,
+     "",
+     "50% 50%"
+    ],
+    [
+     "photos/lib/bretagne-ruelle-village-mer.jpg",
+     560,
+     240,
+     470,
+     540,
+     6,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🤯",
+     470,
+     110,
+     140,
+     12
+    ],
+    [
+     "✉️",
+     10,
+     650,
+     140,
+     -12
+    ],
+    [
+     "🌿",
+     920,
+     150,
+     110,
+     -10
+    ],
+    [
+     "📦",
+     940,
+     690,
+     110,
+     10
+    ]
+   ],
+   "title": "Une crème faite\ndans un *grenier* breton\nest devenue un géant.",
+   "fs": 80,
+   "ty": 830,
+   "lh": 1.08,
+   "sub": "L'histoire d'Yves Rocher 👇",
+   "sy": 1210
+  },
+  {
+   "type": "text",
+   "theme": "dark",
+   "tag": "01 · Le village",
+   "num": "1930",
+   "ns": 240,
+   "title": "Yves Rocher naît à\n*La Gacilly*, en Bretagne.",
+   "fs": 62,
+   "ty": 440,
+   "lh": 1.12,
+   "sub": "Un petit village du Morbihan\n(Groupe Rocher). Il en deviendra\nmême le maire (Company Histories).",
+   "sy": 620,
+   "cards": [
+    [
+     "photos/lib/bretagne-ruelle-village-mer.jpg",
+     90,
+     960,
+     560,
+     320,
+     -5,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🏡",
+     780,
+     1000,
+     150,
+     10
+    ],
+    [
+     "🌧️",
+     880,
+     170,
+     110,
+     -8
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "02 · La recette",
+   "num": "1 plante",
+   "ns": 210,
+   "title": "et la recette d'un\n*guérisseur* du village voisin.",
+   "fs": 62,
+   "ty": 440,
+   "lh": 1.12,
+   "sub": "Une crème à base de racines de ficaire.\nSon premier labo : le grenier de la\nmaison familiale (Yves Rocher, Paris Match).",
+   "sy": 620,
+   "cards": [
+    [
+     "photos/lib/flacons-apothicaire-anciens.jpg",
+     90,
+     960,
+     560,
+     320,
+     -5,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🌼",
+     780,
+     1000,
+     150,
+     10
+    ],
+    [
+     "🧪",
+     880,
+     170,
+     110,
+     -8
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "theme": "dark",
+   "tag": "03 · L'idée",
+   "num": "0 boutique",
+   "ns": 180,
+   "title": "Il vend *par la poste*,\nvia des petites annonces.",
+   "fs": 62,
+   "ty": 440,
+   "lh": 1.12,
+   "sub": "Une annonce dans le magazine Ici Paris,\net les commandes affluent (Company\nHistories). Sans intermédiaire.",
+   "sy": 620,
+   "cards": [
+    [
+     "photos/lib/lettres-manuscrites-bois.jpg",
+     90,
+     960,
+     560,
+     320,
+     -5,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "📬",
+     780,
+     1000,
+     150,
+     10
+    ],
+    [
+     "📰",
+     900,
+     250,
+     100,
+     -8
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "04 · La marque",
+   "num": "1959",
+   "ns": 240,
+   "title": "Il a *29 ans*. Il crée\nla marque Yves Rocher.",
+   "fs": 62,
+   "ty": 440,
+   "lh": 1.12,
+   "sub": "En 1965, premier catalogue : le « Livre\nvert de la beauté ». La vente par\ncorrespondance reste son canal n°1\ndans les années 1960 (Company Histories).",
+   "sy": 600,
+   "cards": [
+    [
+     "photos/lib/magazines-lot.jpg",
+     90,
+     960,
+     560,
+     320,
+     -5,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "📗",
+     780,
+     1000,
+     150,
+     10
+    ],
+    [
+     "💌",
+     880,
+     170,
+     110,
+     -8
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "theme": "dark",
+   "tag": "05 · La boutique",
+   "num": "1969",
+   "ns": 240,
+   "title": "1re boutique au 43,\n*boulevard Haussmann*.",
+   "fs": 62,
+   "ty": 440,
+   "lh": 1.12,
+   "sub": "À Paris, 10 ans après la création\nde la marque (Groupe Rocher).\nLa vente à distance, elle, continue.",
+   "sy": 620,
+   "cards": [
+    [
+     "photos/lib/creme-pot-mains-peignoir.jpg",
+     90,
+     960,
+     560,
+     320,
+     -5,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "🛍️",
+     780,
+     1000,
+     150,
+     10
+    ],
+    [
+     "🗼",
+     880,
+     170,
+     110,
+     -8
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "theme": "light",
+   "tag": "06 · Le fichier",
+   "num": "15 M",
+   "ns": 240,
+   "title": "de clientes rien que\n*par catalogue*.",
+   "fs": 62,
+   "ty": 440,
+   "lh": 1.12,
+   "sub": "Plus de 130 millions de colis par an,\nfin des années 1990 (Company Histories).\nPuis parmi les premiers à vendre\nen ligne (Paris Match).",
+   "sy": 600,
+   "cards": [
+    [
+     "photos/lib/colis-remise-mains.jpg",
+     90,
+     960,
+     560,
+     320,
+     -5,
+     "",
+     "50% 50%"
+    ]
+   ],
+   "emoji": [
+    [
+     "📦",
+     780,
+     1000,
+     150,
+     10
+    ],
+    [
+     "🤯",
+     880,
+     170,
+     110,
+     -8
+    ]
+   ]
+  },
+  {
+   "type": "quote",
+   "style": "min",
+   "theme": "dark",
+   "tag": "💬 Citation",
+   "title": "La nature, *c'est notre avenir.*",
+   "author": "Yves Rocher\nselon son petit-fils Bris Rocher\n(Paris Match, 2017)",
+   "ty": 420,
+   "tr": 80,
+   "fs": 104,
+   "sy": 900
+  },
+  {
+   "type": "cta",
+   "theme": "green",
+   "tag": "💡 La leçon",
+   "title": "Il vendait à distance\n*avant internet.*",
+   "fs": 80,
+   "ty": 190,
+   "sub": "Son secret : un lien direct avec ses\nclientes, sans intermédiaire.\n\n✅ Récupère l'e-mail dès la 1re visite\n✅ Relance tes clientes (pas que des promos)\n✅ Des fiches produit qui rassurent\n✅ Livraison et retours bien clairs\n\nAudit de ta boutique dès 49 €\nLien en bio 🔗 · Enregistre ce post 🔖",
+   "sy": 470,
+   "ss": 36,
+   "emoji": [
+    [
+     "🌿",
+     860,
+     1110,
+     150,
+     10
+    ]
+   ]
+  }
+ ]
+}

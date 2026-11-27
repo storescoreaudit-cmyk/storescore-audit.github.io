@@ -603,3 +603,6 @@ Format paysage : utiliser en fond plein écran recadré ou en carte (card) dans 
 - neon-big-brand-sale-londres.jpg — Jon Cellier / Unsplash (photo-1546502208) — logos de marques sur l'écran
 - paiement-telephone-carte.jpg — Vitaly Gariev / Unsplash (photo-1758273705998)
 - telephone-nuit-shanghai.jpg — Andrew Guan / Unsplash (photo-1510717029971) — très sombre
+
+## Ajout du 27 nov 2026 après-midi (Unsplash, licence Unsplash — créditer « Photo : [auteur] / Unsplash, modifiée »)
+- calendrier-novembre-blanc.jpg — Behnam Norouzi / Unsplash (photo-1698768383340, XEhKeB8gvL0) — non utilisée en publication (chiffres trop chargés derrière le texte) — calendrier « Nov » (mise en page identique à nov. 1939), mention « 2023 » effacée, portrait
