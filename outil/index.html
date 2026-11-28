@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Score Visibilité Google et IA</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;600;700;800&display=swap" rel="stylesheet">
+<style>
+/* VOICE: clinique, direct, rassurant — un rapport d'expert qu'on lit en 2 minutes
+   IDEA: un bulletin de contrôle technique pour boutique en ligne
+   PICTURE: le score /100 en grand, qui bouge à chaque case cochée, avec ses 5 jauges
+   COLOUR and TYPE: blanc, encre #101418, aplat jaune #ffd84a derrière le score seulement; Manrope
+   LAYOUT: score en tête, contrôles en colonne, puis plan d'action et textes prêts à copier */
+:root{color-scheme:light dark;--bg:light-dark(#fff,#101418);--ink:light-dark(#101418,#eef1f4);--mut:light-dark(#5b6570,#9aa6b2);--line:light-dark(#e3e7eb,#26303a);--card:light-dark(#f6f7f8,#161d24);--y:#ffd84a;--ok:light-dark(#1f7a4d,#5fd39a);--bad:light-dark(#b3261e,#ff8a80)}
+:root[data-theme=light]{color-scheme:light}:root[data-theme=dark]{color-scheme:dark}
+*{box-sizing:border-box;min-width:0}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.55 Manrope,system-ui,sans-serif;overflow-x:clip}
+.band{padding:clamp(24px,4vw,56px) max(5vw,16px)}.wrap{max-width:1180px;margin:0 auto}
+h1{font-size:clamp(30px,4.4vw,46px);line-height:1.05;margin:0 0 10px;text-wrap:balance;font-weight:800}
+h2{font-size:26px;line-height:1.15;margin:0 0 14px;font-weight:800}h3{font-size:17px;margin:0 0 6px}
+p{margin:0 0 12px;max-width:68ch}.mut{color:var(--mut)}
+.top{display:grid;grid-template-columns:minmax(0,1.1fr) minmax(0,1fr);gap:clamp(20px,4vw,48px);align-items:start}
+.score{background:var(--y);color:#101418;border-radius:18px;padding:28px;display:grid;gap:14px}
+.big{font-size:clamp(64px,11vw,120px);font-weight:800;line-height:.9}.big small{font-size:28px}
+.verdict{font-weight:700;font-size:18px}
+.bars{display:grid;gap:9px}.bar{display:grid;grid-template-columns:9.5em minmax(0,1fr) 3em;gap:10px;align-items:center;font-size:14px;font-weight:600}
+.trk{height:10px;background:rgba(16,20,24,.15);border-radius:6px;overflow:hidden}.trk i{display:block;height:100%;background:#101418;border-radius:6px;transition:width .4s}
+.bar b{text-align:right}
+form.id{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
+label{display:grid;gap:4px;font-size:14px;font-weight:600}
+input,select{font:inherit;font-size:16px;padding:11px 12px;border:1px solid var(--line);border-radius:10px;background:var(--bg);color:var(--ink);min-height:44px}
+input:focus,select:focus,button:focus-visible{outline:3px solid var(--y);outline-offset:1px}
+.cat{border-top:1px solid var(--line);padding:18px 0}
+.chk{display:grid;grid-template-columns:auto minmax(0,1fr);gap:12px;padding:10px 0;align-items:start}
+.seg{display:flex;border:1px solid var(--line);border-radius:10px;overflow:hidden}
+.seg button{border:0;background:none;color:var(--ink);font:600 14px Manrope,sans-serif;padding:0 12px;min-height:44px;cursor:pointer}
+.seg button[aria-pressed=true].y{background:var(--ok);color:#fff}.seg button[aria-pressed=true].n{background:var(--bad);color:#fff}
+.how{font-size:14px;color:var(--mut)}
+.prio{counter-reset:p;display:grid;gap:12px;padding:0;margin:0;list-style:none}
+.prio li{background:var(--card);border-radius:14px;padding:16px 18px}
+.prio li::before{counter-increment:p;content:"Priorité " counter(p);font-size:13px;font-weight:700;color:var(--mut);display:block;margin-bottom:4px}
+.out{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px}
+.box{background:var(--card);border-radius:14px;padding:16px 18px;display:grid;gap:8px;align-content:start}
+.box pre{white-space:pre-wrap;margin:0;font:14px/1.5 Manrope,sans-serif;overflow-x:auto}
+.cp{justify-self:start;border:1px solid var(--line);background:var(--bg);color:var(--ink);border-radius:10px;padding:0 14px;min-height:40px;font:600 14px Manrope,sans-serif;cursor:pointer}
+.plan{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px}
+.plan div{border-left:3px solid var(--ink);padding:4px 0 4px 12px;font-size:15px}
+.foot{font-size:13px;color:var(--mut)}
+@media(max-width:860px){.top,.out{grid-template-columns:minmax(0,1fr)}.plan{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:600px){form.id,.plan{grid-template-columns:minmax(0,1fr)}.bar{grid-template-columns:7.5em minmax(0,1fr) 2.6em}}
+@media(prefers-reduced-motion:reduce){.trk i{transition:none}}
+</style>
+</head>
+<body>
+<section class="band"><div class="wrap top">
+  <div>
+    <h1>Score Visibilité Google et IA de votre boutique</h1>
+    <p>Répondez à 20 questions simples sur votre site. Vous obtenez votre score, vos priorités dans l'ordre, et tous les textes prêts à coller dans Shopify pour être mieux trouvée sur Google et recommandée par ChatGPT.</p>
+    <form class="id" id="id" onsubmit="return false">
+      <label>Nom de la marque<input id="f_brand" value="Atelier Sauge"></label>
+      <label>Produit phare<input id="f_prod" value="savon solide"></label>
+      <label>Ce qui vous distingue<input id="f_diff" value="saponifié à froid, huiles bio"></label>
+      <label>Lieu de fabrication<input id="f_place" value="Drôme"></label>
+      <label>Pour qui<input id="f_who" value="femmes attentives à leur peau"></label>
+      <label>Adresse du site<input id="f_url" value="atelier-sauge.fr"></label>
+    </form>
+    <p class="foot" style="margin-top:8px">Exemple fictif pré-rempli : remplacez par vos informations.</p>
+  </div>
+  <div class="score" aria-live="polite">
+    <div class="big"><span id="sc">0</span><small>/100</small></div>
+    <div class="verdict" id="vd"></div>
+    <div class="bars" id="bars"></div>
+  </div>
+</div></section>
+
+<section class="band" style="padding-top:0"><div class="wrap">
+  <h2>Le contrôle en 20 points</h2>
+  <p class="mut">Chaque question indique comment vérifier en moins d'une minute. Si vous ne savez pas, laissez vide : c'est compté comme à faire.</p>
+  <div id="checks"></div>
+</div></section>
+
+<section class="band" style="background:var(--card)"><div class="wrap">
+  <h2>Vos 5 priorités, dans l'ordre</h2>
+  <ol class="prio" id="prio"></ol>
+</div></section>
+
+<section class="band"><div class="wrap">
+  <h2>Vos textes prêts à coller</h2>
+  <p class="mut">Générés à partir de vos réponses en haut de page. Relisez-les et ajustez un mot si besoin.</p>
+  <div class="out" id="out"></div>
+</div></section>
+
+<section class="band" style="padding-top:0"><div class="wrap">
+  <h2>Votre plan sur 30 jours</h2>
+  <div class="plan" id="plan"></div>
+  <p class="foot" style="margin-top:22px">Une question ? neil@getstorescore.shop. Ce score évalue les bonnes pratiques de référencement et de visibilité IA. Il ne garantit pas une position sur Google. Outil conçu par StoreScore.</p>
+</div></section>
+
+<script>
+{
+const CATS=["Technique","Fiches produits","Confiance","Visibilité IA","Réseaux"];
+const Q=[
+[0,10,"Le titre Google de votre page d'accueil contient votre type de produit (pas seulement votre nom).","Cherchez votre site sur Google : le titre bleu doit dire ce que vous vendez.","Shopify › Boutique en ligne › Préférences : remplissez le titre et la méta-description avec les textes générés plus bas."],
+[0,6,"Votre nom de boutique n'apparaît pas en double dans vos titres.","Regardez l'onglet du navigateur sur une fiche produit : pas de « Marque – marque ».","Shopify › Paramètres › Détails de la boutique : écrivez le nom exact de la marque."],
+[0,8,"Votre site est déclaré dans Google Search Console.","Allez sur search.google.com/search-console : votre site doit y figurer.","Créez la propriété, vérifiez-la, puis envoyez votresite/sitemap.xml (Shopify le crée tout seul)."],
+[0,6,"Les anciennes adresses de votre site redirigent vers les nouvelles.","Dans Search Console › Pages, regardez les pages « introuvables (404) ».","Créez une redirection pour chacune dans l'outil Redirections d'URL de Shopify."],
+[0,5,"Les adresses de vos produits sont lisibles (ex. /pochette-cuir-noire).","Ouvrez une fiche : l'adresse ne doit pas contenir de codes comme id06-1541.","Fiche produit › Référencement › Modifier l'URL, en cochant « Créer une redirection »."],
+[1,8,"Chaque fiche indique dimensions, matière, usage et entretien.","Lisez votre fiche phare comme une cliente qui ne peut pas toucher le produit.","Utilisez la structure de description générée plus bas."],
+[1,6,"Chaque fiche a au moins 3 questions-réponses.","Cherchez une rubrique FAQ sur la fiche.","Collez les questions générées plus bas en bas de la description."],
+[1,5,"Chaque photo a un texte alternatif descriptif.","Shopify › fiche › clic sur une photo › Texte alternatif.","Décrivez : produit, matière, couleur, situation (ex. « porté en bandoulière »)."],
+[1,5,"Vos collections ont un texte d'introduction (150 mots).","Ouvrez une collection : y a-t-il un paragraphe au-dessus des produits ?","Rédigez qui, quoi, pour qui, avec 2 recherches ciblées."],
+[1,4,"Vos fiches proposent des produits associés.","Bas de fiche : le bloc « Vous aimerez aussi » est-il rempli ?","Activez les recommandations de produits dans l'éditeur de thème."],
+[2,7,"Des avis clients s'affichent sur vos fiches.","Regardez sous le prix de votre produit phare.","Installez une application d'avis qui écrit automatiquement aux clients après livraison."],
+[2,4,"Livraison et retours sont écrits sur chaque fiche.","Cherchez délais, frais et retours sans cliquer ailleurs.","Ajoutez un bloc texte fixe dans le modèle de fiche produit."],
+[2,4,"Votre page À propos raconte qui fabrique, où et comment.","Un inconnu comprend-il votre histoire en 20 secondes ?","Utilisez la description de référence générée plus bas comme premier paragraphe."],
+[2,3,"Vos parutions presse ont une page avec liens.","Y a-t-il une page Presse cliquable ?","Créez-la et demandez à chaque média un lien vers votre site."],
+[3,7,"Votre marque est décrite de la même façon partout (site, annuaires, réseaux).","Comparez votre bio Instagram, votre page À propos et vos annuaires.","Copiez la description de référence générée sur chaque profil."],
+[3,6,"Vos produits sont envoyés à Google Merchant Center.","Cherchez votre produit dans l'onglet Shopping de Google.","Installez l'application Google et YouTube de Shopify et connectez Merchant Center."],
+[3,5,"Les canaux IA de Shopify sont activés.","Shopify › Paramètres › Canaux de vente › Vitrines agentiques.","Vérifiez que ChatGPT, Copilot et Gemini sont actifs."],
+[3,4,"Vous avez au moins un article de fond sur votre site.","Votre menu Blog mène-t-il à de vrais articles ?","Publiez l'article proposé plus bas, puis un par mois."],
+[4,4,"Votre bio Instagram dit ce que vous vendez et renvoie au site.","Relisez votre bio comme un inconnu.","Utilisez la bio générée plus bas."],
+[4,3,"Vos produits sont épinglés sur Pinterest avec lien vers le site.","Cherchez votre marque sur Pinterest.","Créez un compte professionnel et reliez votre catalogue Shopify."]
+];
+const st=Q.map(()=>null);
+let paid=false;try{if(new URLSearchParams(location.search).get("acces")==="ss37ok")localStorage.setItem("ss_paid","1");paid=localStorage.getItem("ss_paid")==="1"}catch(e){paid=new URLSearchParams(location.search).get("acces")==="ss37ok"}
+const BUY="https://buy.stripe.com/28E00lekO2Kk7aR6FC3gk05";
+const LOCK=t=>`<div class="box" style="grid-column:1/-1;border:2px solid var(--ink)"><h3>${t}</h3><p>Débloquez vos 5 priorités détaillées, vos 9 textes prêts à coller dans Shopify et votre plan sur 30 jours. Paiement unique de 37 €, accès immédiat, facture fournie.</p><a class="cp" style="display:inline-flex;align-items:center;text-decoration:none;background:var(--y);color:#101418;border:0" href="${BUY}">Débloquer pour 37 €</a></div>`;
+try{const s=JSON.parse(localStorage.getItem("ss_st")||"null");if(s&&s.length===Q.length)s.forEach((v,i)=>st[i]=v)}catch(e){}
+const $=id=>document.getElementById(id);
+const esc=s=>String(s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const fields=["brand","prod","diff","place","who","url"];
+try{const v=JSON.parse(localStorage.getItem("ss_f")||"null");if(v)fields.forEach(k=>{if(v[k])$("f_"+k).value=v[k]})}catch(e){}
+const F=()=>Object.fromEntries(fields.map(k=>[k,$("f_"+k).value.trim()||"…"]));
+const cap=s=>s.charAt(0).toUpperCase()+s.slice(1);
+
+$("checks").innerHTML=CATS.map((c,ci)=>`<div class="cat"><h3>${c}</h3>${Q.map((q,i)=>q[0]!==ci?"":`<div class="chk"><div class="seg" role="group" aria-label="Réponse"><button class="y" id="y${i}" data-i="${i}" data-v="1">Oui</button><button class="n" id="n${i}" data-i="${i}" data-v="0">Non</button></div><div><div>${q[2]}</div><div class="how">${q[3]}</div></div></div>`).join("")}</div>`).join("");
+
+const out=(t,body,id)=>`<div class="box"><h3>${t}</h3><pre id="${id}">${esc(body)}</pre><button class="cp" data-c="${id}">Copier</button></div>`;
+
+function render(){
+  let tot=0,got=0;const cs=CATS.map(()=>[0,0]);
+  Q.forEach((q,i)=>{tot+=q[1];cs[q[0]][1]+=q[1];if(st[i]===1){got+=q[1];cs[q[0]][0]+=q[1]}
+    $("y"+i).setAttribute("aria-pressed",st[i]===1);$("n"+i).setAttribute("aria-pressed",st[i]===0)});
+  const sc=Math.round(got/tot*100);$("sc").textContent=sc;
+  $("vd").textContent=sc<40?"Votre boutique est presque invisible : les corrections ci-dessous auront un effet rapide.":sc<70?"De bonnes bases, mais Google et les IA passent encore à côté de vous.":"Très bonne base : concentrez-vous sur les avis, le contenu et la cohérence.";
+  $("bars").innerHTML=cs.map((c,i)=>{const p=Math.round(c[0]/c[1]*100);return`<div class="bar"><span>${CATS[i]}</span><span class="trk"><i style="width:${p}%"></i></span><b>${p}%</b></div>`}).join("");
+  const todo=Q.map((q,i)=>[q,i]).filter(x=>st[x[1]]!==1).sort((a,b)=>b[0][1]-a[0][1]).slice(0,5);
+  $("prio").innerHTML=!paid&&todo.length?`<li><strong>${todo[0][0][2]}</strong><div class="how" style="margin-top:4px">${todo[0][0][4]}</div></li>`+LOCK("Vos 4 autres priorités sont prêtes").replace('class="box"','class="box" style="list-style:none"'):todo.length?todo.map(([q])=>`<li><strong>${q[2]}</strong><div class="how" style="margin-top:4px">${q[4]}</div></li>`).join(""):"<li>Tout est en place. Gardez le rythme : un article et de nouveaux avis chaque mois.</li>";
+  const f=F();
+  const home=`${f.brand} – ${cap(f.prod)} ${f.diff}, fabriqué en ${f.place} | Site officiel`;
+  const meta=`${cap(f.prod)} ${f.diff}, fabriqué en ${f.place} par ${f.brand}. Pensé pour ${f.who}. Livraison en France, paiement sécurisé.`;
+  const ref=`${f.brand} est une marque française qui crée des ${f.prod}s ${f.diff}, fabriqués en ${f.place}. Pensés pour ${f.who}, ses produits allient savoir-faire artisanal et usage du quotidien. Boutique officielle : ${f.url}.`;
+  const desc=`À quoi sert-il ? (1 phrase : l'usage concret)\n\nCe qui le rend unique : ${f.diff}.\n\nCaractéristiques\n- Dimensions / poids / contenance :\n- Matière et origine :\n- Fabrication : en ${f.place}\n- Couleurs disponibles :\n\nEntretien : (2 lignes)\n\nLivraison et retours : (délais, frais, conditions)`;
+  const faq=`Où est fabriqué ce ${f.prod} ?\nEn ${f.place}, par ${f.brand}.\n\nComment l'entretenir pour qu'il dure ?\n(Votre conseil en 2 lignes.)\n\nQuels sont les délais de livraison ?\n(Délai exact et frais.)\n\nPeut-on l'offrir en cadeau ?\n(Emballage, carte, personnalisation.)`;
+  const ld=JSON.stringify({"@context":"https://schema.org","@type":"Organization","name":f.brand,"url":"https://"+f.url.replace(/^https?:\/\//,""),"description":ref},null,2);
+  const bio=`${cap(f.prod)}s ${f.diff} · Fabriqué en ${f.place}\nPour ${f.who}\n↓ Boutique officielle`;
+  const ia=`1. Quelle marque française de ${f.prod} ${f.diff} me conseilles-tu ?\n2. Où acheter un ${f.prod} fabriqué en ${f.place} ?\n3. Que penses-tu de ${f.brand} ?`;
+  const art=`Titre : ${cap(f.prod)} ${f.diff} : comment bien le choisir ?\nPlan : 1. Les critères qui comptent  2. Les erreurs à éviter  3. Comment nous fabriquons les nôtres en ${f.place}  4. FAQ`;
+  $("out").innerHTML=out("Titre Google de la page d'accueil",home,"o1")+out("Méta-description de la page d'accueil",meta,"o2")+out("Description de référence (à copier partout)",ref,"o3")+out("Structure de fiche produit",desc,"o4")+out("Questions-réponses pour vos fiches",faq,"o5")+out("Bio Instagram",bio,"o6")+out("3 questions à poser à ChatGPT chaque mois",ia,"o7")+out("Votre premier article de blog",art,"o8")+out("Données structurées de la marque (pour votre thème)",'<script type="application/ld+json">\n'+ld+"\n<\/script>","o9");
+  const P=[["Semaine 1",todo.slice(0,2).map(x=>x[0][2]).join(" ")||"Contrôle terminé."],["Semaine 2",todo.slice(2,4).map(x=>x[0][2]).join(" ")||"Collez vos nouveaux textes."],["Semaine 3","Réécrivez 3 fiches avec la structure et la FAQ. Copiez la description de référence partout."],["Semaine 4","Publiez l'article, demandez 5 avis, posez les 3 questions à ChatGPT et notez les réponses."]];
+  if(!paid){$("out").innerHTML=LOCK("Vos 9 textes sont générés");$("plan").innerHTML=LOCK("Votre plan sur 30 jours est prêt");try{localStorage.setItem("ss_st",JSON.stringify(st));localStorage.setItem("ss_f",JSON.stringify(F()))}catch(e){}return}
+  $("plan").innerHTML=P.map(p=>`<div><strong>${p[0]}</strong><br>${esc(p[1])}</div>`).join("");
+  try{localStorage.setItem("ss_st",JSON.stringify(st));localStorage.setItem("ss_f",JSON.stringify(F()))}catch(e){}
+}
+$("checks").addEventListener("click",e=>{const b=e.target.closest("button[data-i]");if(!b)return;const i=+b.dataset.i,v=+b.dataset.v;st[i]=st[i]===v?null:v;render()});
+$("id").addEventListener("input",render);
+$("out").addEventListener("click",async e=>{const b=e.target.closest(".cp");if(!b)return;try{await navigator.clipboard.writeText($(b.dataset.c).textContent);b.textContent="Copié"}catch(err){b.textContent="Sélectionnez le texte"}setTimeout(()=>b.textContent="Copier",1600)});
+if(st.every(v=>v===null))[1,5,7,11].forEach(i=>st[i]=1);
+render();
+}
+</script>
+</body>
+</html>
